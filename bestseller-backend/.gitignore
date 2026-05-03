@@ -1,0 +1,18 @@
+node_modules/
+dist/
+
+# env
+.env
+.env.local
+.env.*.local
+
+# SQLite runtime files (keep .db, ignore write-ahead log + shared memory)
+data/*.db-wal
+data/*.db-shm
+
+# logs
+*.log
+
+# build / cache
+.tsbuildinfo
+*.tsbuildinfo
