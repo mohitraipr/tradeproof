@@ -1,0 +1,1000 @@
+{
+  "products": [
+    {
+      "id": 22809162,
+      "name": "max Round Neck Short Sleeves Cotton Lounge Tshirts",
+      "brand": "max",
+      "mrp": 199,
+      "price": 199,
+      "rating": 4.3442304692239695,
+      "ratingCount": 57691,
+      "category": "Lounge Tshirts",
+      "categorySlug": "lounge-tshirts",
+      "gender": "Men",
+      "articleType": "Lounge Tshirts",
+      "masterCategory": "Apparel",
+      "subCategory": "Loungewear and Nightwear",
+      "season": "summer",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "sizeChart": [
+        {
+          "label": "XS",
+          "available": false,
+          "skuId": 72459136
+        },
+        {
+          "label": "S",
+          "available": true,
+          "skuId": 72459138
+        },
+        {
+          "label": "M",
+          "available": true,
+          "skuId": 72459140
+        },
+        {
+          "label": "L",
+          "available": true,
+          "skuId": 72459142
+        },
+        {
+          "label": "XL",
+          "available": true,
+          "skuId": 72459144
+        },
+        {
+          "label": "XXL",
+          "available": true,
+          "skuId": 72459146
+        }
+      ],
+      "colors": [
+        "Beige"
+      ],
+      "inStock": true,
+      "fabricType": "Cotton",
+      "pattern": "Solid",
+      "sleeveLength": "Short Sleeves",
+      "neckType": "Round Neck",
+      "washCare": "Machine Wash",
+      "productType": "Regular",
+      "countryOfOrigin": "India",
+      "manufacturerInfo": "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+      "packerInfo": "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+      "importerInfo": "Importer Details",
+      "seller": "Landmark Online India Pvt Ltd",
+      "sellerPartnerId": 9114,
+      "outOfStock": false,
+      "catalogDate": "2023-04-19T04:43:36.000Z",
+      "catalogDateMs": 1681879416000,
+      "daysSinceListing": 1107,
+      "salesVelocity": 52.11,
+      "description": "max Round Neck Short Sleeves Cotton Lounge Tshirts",
+      "images": [
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809162\\u002F2023\\u002F4\\u002F18\\u002F08ef3e14-7f2e-4f59-abe3-ae429f10c05d1681809041089MenSolidCrewNeckRegularFitLoungeT-shirt1.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809162\\u002F2023\\u002F4\\u002F18\\u002Fa4b25e71-1eb7-497c-8750-626a216753981681809041106MenSolidCrewNeckRegularFitLoungeT-shirt2.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809162\\u002F2023\\u002F4\\u002F18\\u002F95d85ae3-0589-4240-b1a6-8eb5fad7e7241681809041150MenSolidCrewNeckRegularFitLoungeT-shirt3.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809162\\u002F2023\\u002F4\\u002F18\\u002F3a5b82d0-87eb-478f-b0d7-ed9e98760c431681809041135MenSolidCrewNeckRegularFitLoungeT-shirt4.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809162\\u002F2023\\u002F4\\u002F18\\u002Fb0a3c211-a730-4c7a-b26c-9af48cac67dc1681809041122MenSolidCrewNeckRegularFitLoungeT-shirt5.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809162\\u002F2023\\u002F4\\u002F18\\u002Fb4c4e7c4-2c81-4b4f-adb3-1722751b52771681809041168MenSolidCrewNeckRegularFitLoungeT-shirt6.jpg"
+      ],
+      "scrapedAt": "2026-04-30T16:45:17.257Z",
+      "scrapeSuccess": true,
+      "rank": 1,
+      "score": 72,
+      "reasoning": "Highest review count in the batch at 57,691 with a strong 4.34 rating, confirming proven, high-volume consumer demand. Marginally edges out near-identical variants making it the top color/SKU pick for wholesale.",
+      "analyzedAt": "2026-04-30T16:45:46.700Z"
+    },
+    {
+      "id": 22809158,
+      "name": "max Round Neck Short Sleeves Cotton Lounge Tshirts",
+      "brand": "max",
+      "mrp": 199,
+      "price": 199,
+      "rating": 4.3442711041775,
+      "ratingCount": 57690,
+      "category": "Lounge Tshirts",
+      "categorySlug": "lounge-tshirts",
+      "gender": "Men",
+      "articleType": "Lounge Tshirts",
+      "masterCategory": "Apparel",
+      "subCategory": "Loungewear and Nightwear",
+      "season": "summer",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "sizeChart": [
+        {
+          "label": "XS",
+          "available": false,
+          "skuId": 72459112
+        },
+        {
+          "label": "S",
+          "available": true,
+          "skuId": 72459114
+        },
+        {
+          "label": "M",
+          "available": true,
+          "skuId": 72459116
+        },
+        {
+          "label": "L",
+          "available": true,
+          "skuId": 72459118
+        },
+        {
+          "label": "XL",
+          "available": true,
+          "skuId": 72459120
+        },
+        {
+          "label": "XXL",
+          "available": true,
+          "skuId": 72459122
+        }
+      ],
+      "colors": [
+        "Beige"
+      ],
+      "inStock": true,
+      "fabricType": "Cotton",
+      "pattern": "Solid",
+      "sleeveLength": "Short Sleeves",
+      "neckType": "Round Neck",
+      "washCare": "Machine Wash",
+      "productType": "Regular",
+      "countryOfOrigin": "India",
+      "manufacturerInfo": "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+      "packerInfo": "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+      "importerInfo": "Importer Details",
+      "seller": "Landmark Online India Pvt Ltd",
+      "sellerPartnerId": 9114,
+      "outOfStock": false,
+      "catalogDate": "2023-04-19T04:43:27.000Z",
+      "catalogDateMs": 1681879407000,
+      "daysSinceListing": 1107,
+      "salesVelocity": 52.11,
+      "description": "max Round Neck Short Sleeves Cotton Lounge Tshirts",
+      "images": [
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809158\\u002F2023\\u002F4\\u002F18\\u002F89c3cd4d-9f11-42c4-a48f-dc96f53d18661681809728334MenSolidCrewNeckRegularFitLoungeT-shirt1.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809158\\u002F2023\\u002F4\\u002F18\\u002F6c90479e-fa98-4835-b08f-3e47c4f76c541681809728298MenSolidCrewNeckRegularFitLoungeT-shirt2.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809158\\u002F2023\\u002F4\\u002F18\\u002F7238369c-5fb4-4aa0-ac7a-dd3b3a62929b1681809728373MenSolidCrewNeckRegularFitLoungeT-shirt3.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809158\\u002F2023\\u002F4\\u002F18\\u002Fc9bf905a-2135-488b-bfd0-30cee2a1cb721681809728352MenSolidCrewNeckRegularFitLoungeT-shirt4.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809158\\u002F2023\\u002F4\\u002F18\\u002F374c7b33-633b-465e-8846-b422ab0ee8771681809728386MenSolidCrewNeckRegularFitLoungeT-shirt5.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809158\\u002F2023\\u002F4\\u002F18\\u002F08a24ab6-a511-4c5a-bb8c-333b77fe2b7b1681809728315MenSolidCrewNeckRegularFitLoungeT-shirt6.jpg"
+      ],
+      "scrapedAt": "2026-04-30T16:45:16.482Z",
+      "scrapeSuccess": true,
+      "rank": 2,
+      "score": 71,
+      "reasoning": "Second-highest review count at 57,690 with identical 4.34 rating and same price point. Virtually indistinguishable from the top-ranked variant, making it equally viable for B2B stocking.",
+      "analyzedAt": "2026-04-30T16:45:46.700Z"
+    },
+    {
+      "id": 22809168,
+      "name": "max Round Neck Short Sleeves Cotton Lounge Tshirts",
+      "brand": "max",
+      "mrp": 199,
+      "price": 199,
+      "rating": 4.344277071885455,
+      "ratingCount": 57689,
+      "category": "Lounge Tshirts",
+      "categorySlug": "lounge-tshirts",
+      "gender": "Men",
+      "articleType": "Lounge Tshirts",
+      "masterCategory": "Apparel",
+      "subCategory": "Loungewear and Nightwear",
+      "season": "summer",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "sizeChart": [
+        {
+          "label": "XS",
+          "available": false,
+          "skuId": 72459168
+        },
+        {
+          "label": "S",
+          "available": true,
+          "skuId": 72459174
+        },
+        {
+          "label": "M",
+          "available": true,
+          "skuId": 72459176
+        },
+        {
+          "label": "L",
+          "available": true,
+          "skuId": 72459178
+        },
+        {
+          "label": "XL",
+          "available": true,
+          "skuId": 72459180
+        },
+        {
+          "label": "XXL",
+          "available": true,
+          "skuId": 72459182
+        }
+      ],
+      "colors": [
+        "Beige"
+      ],
+      "inStock": true,
+      "fabricType": "Cotton",
+      "pattern": "Solid",
+      "sleeveLength": "Short Sleeves",
+      "neckType": "Round Neck",
+      "washCare": "Machine Wash",
+      "productType": "Regular",
+      "countryOfOrigin": "India",
+      "manufacturerInfo": "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+      "packerInfo": "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+      "importerInfo": "Importer Details",
+      "seller": "Landmark Online India Pvt Ltd",
+      "sellerPartnerId": 9114,
+      "outOfStock": false,
+      "catalogDate": "2023-04-19T04:47:18.000Z",
+      "catalogDateMs": 1681879638000,
+      "daysSinceListing": 1107,
+      "salesVelocity": 52.11,
+      "description": "max Round Neck Short Sleeves Cotton Lounge Tshirts",
+      "images": [
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809168\\u002F2023\\u002F4\\u002F18\\u002F626cb612-dda1-4fa7-abdb-608a1054f7ae1681811180983MenSolidCrewNeckRegularFitLoungeT-shirt1.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809168\\u002F2023\\u002F4\\u002F18\\u002Fd2a2ba9c-dccb-4d91-b4b3-d644fb0720861681811181001MenSolidCrewNeckRegularFitLoungeT-shirt2.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809168\\u002F2023\\u002F4\\u002F18\\u002F3a91217b-3318-46a3-b2dd-7de449f9f93d1681811181051MenSolidCrewNeckRegularFitLoungeT-shirt3.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809168\\u002F2023\\u002F4\\u002F18\\u002F39422782-2766-4c6b-8053-aa274434f8c11681811181033MenSolidCrewNeckRegularFitLoungeT-shirt4.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809168\\u002F2023\\u002F4\\u002F18\\u002F54e8f0ab-99e9-4f9e-876c-f12bf7765d9e1681811181015MenSolidCrewNeckRegularFitLoungeT-shirt5.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809168\\u002F2023\\u002F4\\u002F18\\u002Fa6bcc870-b62f-4fdc-9b26-18f4c14509bb1681811181068MenSolidCrewNeckRegularFitLoungeT-shirt6.jpg"
+      ],
+      "scrapedAt": "2026-04-30T16:45:18.044Z",
+      "scrapeSuccess": true,
+      "rank": 3,
+      "score": 71,
+      "reasoning": "57,689 reviews with a solid 4.34 rating confirms sustained consumer demand. Near-identical performance to top variants; minor review count difference is statistically negligible at wholesale scale.",
+      "analyzedAt": "2026-04-30T16:45:46.700Z"
+    },
+    {
+      "id": 22809172,
+      "name": "max Round Neck Short Sleeves Cotton Lounge Tshirts",
+      "brand": "max",
+      "mrp": 199,
+      "price": 199,
+      "rating": 4.344213701289696,
+      "ratingCount": 57688,
+      "category": "Lounge Tshirts",
+      "categorySlug": "lounge-tshirts",
+      "gender": "Men",
+      "articleType": "Lounge Tshirts",
+      "masterCategory": "Apparel",
+      "subCategory": "Loungewear and Nightwear",
+      "season": "summer",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "sizeChart": [
+        {
+          "label": "XS",
+          "available": false,
+          "skuId": 72459196
+        },
+        {
+          "label": "S",
+          "available": true,
+          "skuId": 72459198
+        },
+        {
+          "label": "M",
+          "available": true,
+          "skuId": 72459200
+        },
+        {
+          "label": "L",
+          "available": true,
+          "skuId": 72459202
+        },
+        {
+          "label": "XL",
+          "available": true,
+          "skuId": 72459204
+        },
+        {
+          "label": "XXL",
+          "available": true,
+          "skuId": 72459206
+        }
+      ],
+      "colors": [
+        "Beige"
+      ],
+      "inStock": true,
+      "fabricType": "Cotton",
+      "pattern": "Solid",
+      "sleeveLength": "Short Sleeves",
+      "neckType": "Round Neck",
+      "washCare": "Machine Wash",
+      "productType": "Regular",
+      "countryOfOrigin": "India",
+      "manufacturerInfo": "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+      "packerInfo": "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+      "importerInfo": "Importer Details",
+      "seller": "Landmark Online India Pvt Ltd",
+      "sellerPartnerId": 9114,
+      "outOfStock": false,
+      "catalogDate": "2023-04-19T04:47:32.000Z",
+      "catalogDateMs": 1681879652000,
+      "daysSinceListing": 1107,
+      "salesVelocity": 52.11,
+      "description": "max Round Neck Short Sleeves Cotton Lounge Tshirts",
+      "images": [
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809172\\u002F2023\\u002F4\\u002F18\\u002F29fe0927-cb6b-460e-a584-d2c265563ffc1681810840196MenSolidCrewNeckRegularFitLoungeT-shirt1.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809172\\u002F2023\\u002F4\\u002F18\\u002Fc816f06c-f8c4-4fc1-8a99-fe67274a7d0f1681810840165MenSolidCrewNeckRegularFitLoungeT-shirt2.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809172\\u002F2023\\u002F4\\u002F18\\u002F7a3f908b-38a9-4fc2-87a5-5975ae37c31c1681810840132MenSolidCrewNeckRegularFitLoungeT-shirt3.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809172\\u002F2023\\u002F4\\u002F18\\u002Fbf5e3613-197a-4eec-8d84-f51dccd69f1e1681810840183MenSolidCrewNeckRegularFitLoungeT-shirt4.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809172\\u002F2023\\u002F4\\u002F18\\u002F6496cd26-3e55-4b29-b4a4-f860cdce0ddf1681810840148MenSolidCrewNeckRegularFitLoungeT-shirt5.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809172\\u002F2023\\u002F4\\u002F18\\u002F81141a2d-fad0-40db-b20e-9fc8755cd4ae1681810840115MenSolidCrewNeckRegularFitLoungeT-shirt6.jpg"
+      ],
+      "scrapedAt": "2026-04-30T16:45:20.471Z",
+      "scrapeSuccess": true,
+      "rank": 4,
+      "score": 70,
+      "reasoning": "57,688 reviews and 4.34 rating place this firmly in the proven demand tier. Essentially the same product as top-ranked variants; difference in reviews is minimal and does not materially affect wholesale risk.",
+      "analyzedAt": "2026-04-30T16:45:46.700Z"
+    },
+    {
+      "id": 22809174,
+      "name": "max Round Neck Short Sleeves Cotton Lounge Tshirts",
+      "brand": "max",
+      "mrp": 199,
+      "price": 199,
+      "rating": 4.3442543380657686,
+      "ratingCount": 57687,
+      "category": "Lounge Tshirts",
+      "categorySlug": "lounge-tshirts",
+      "gender": "Men",
+      "articleType": "Lounge Tshirts",
+      "masterCategory": "Apparel",
+      "subCategory": "Loungewear and Nightwear",
+      "season": "summer",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "sizeChart": [
+        {
+          "label": "XS",
+          "available": false,
+          "skuId": 72459208
+        },
+        {
+          "label": "S",
+          "available": true,
+          "skuId": 72459210
+        },
+        {
+          "label": "M",
+          "available": true,
+          "skuId": 72459212
+        },
+        {
+          "label": "L",
+          "available": true,
+          "skuId": 72459214
+        },
+        {
+          "label": "XL",
+          "available": true,
+          "skuId": 72459216
+        },
+        {
+          "label": "XXL",
+          "available": true,
+          "skuId": 72459218
+        }
+      ],
+      "colors": [
+        "Beige"
+      ],
+      "inStock": true,
+      "fabricType": "Cotton",
+      "pattern": "Solid",
+      "sleeveLength": "Short Sleeves",
+      "neckType": "Round Neck",
+      "washCare": "Machine Wash",
+      "productType": "Regular",
+      "countryOfOrigin": "India",
+      "manufacturerInfo": "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+      "packerInfo": "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+      "importerInfo": "Importer Details",
+      "seller": "Landmark Online India Pvt Ltd",
+      "sellerPartnerId": 9114,
+      "outOfStock": false,
+      "catalogDate": "2023-04-19T04:48:29.000Z",
+      "catalogDateMs": 1681879709000,
+      "daysSinceListing": 1107,
+      "salesVelocity": 52.11,
+      "description": "max Round Neck Short Sleeves Cotton Lounge Tshirts",
+      "images": [
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809174\\u002F2023\\u002F4\\u002F18\\u002F05887808-dc06-4575-b42b-fcf28ace57a41681809101684MenSolidCrewNeckRegularFitLoungeT-shirt1.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809174\\u002F2023\\u002F4\\u002F18\\u002F2bd7ccb7-18a3-4de1-abef-55ec27e0ecc81681809101654MenSolidCrewNeckRegularFitLoungeT-shirt2.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809174\\u002F2023\\u002F4\\u002F18\\u002F47f88296-89a5-4a80-a105-4b4b4426d53e1681809101628MenSolidCrewNeckRegularFitLoungeT-shirt3.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809174\\u002F2023\\u002F4\\u002F18\\u002F06f0217f-c357-4ba5-b91f-d627aa36f20d1681809101668MenSolidCrewNeckRegularFitLoungeT-shirt4.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809174\\u002F2023\\u002F4\\u002F18\\u002Fa86284df-e0e0-42d0-a05e-a7cba6ea2c2c1681809101612MenSolidCrewNeckRegularFitLoungeT-shirt5.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809174\\u002F2023\\u002F4\\u002F18\\u002F8c7a1c5d-e00c-4cd2-90bd-1947606624a51681809101641MenSolidCrewNeckRegularFitLoungeT-shirt6.jpg"
+      ],
+      "scrapedAt": "2026-04-30T16:45:18.845Z",
+      "scrapeSuccess": true,
+      "rank": 5,
+      "score": 70,
+      "reasoning": "57,687 reviews with a consistent 4.34 rating across the board. Part of the same high-performing SKU cluster; reliable wholesale candidate with virtually no differentiation risk.",
+      "analyzedAt": "2026-04-30T16:45:46.700Z"
+    },
+    {
+      "id": 22809160,
+      "name": "max Round Neck Short Sleeves Cotton Lounge Tshirts",
+      "brand": "max",
+      "mrp": 199,
+      "price": 199,
+      "rating": 4.344242970564782,
+      "ratingCount": 57686,
+      "category": "Lounge Tshirts",
+      "categorySlug": "lounge-tshirts",
+      "gender": "Men",
+      "articleType": "Lounge Tshirts",
+      "masterCategory": "Apparel",
+      "subCategory": "Loungewear and Nightwear",
+      "season": "summer",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "sizeChart": [
+        {
+          "label": "XS",
+          "available": false,
+          "skuId": 72459124
+        },
+        {
+          "label": "S",
+          "available": true,
+          "skuId": 72459126
+        },
+        {
+          "label": "M",
+          "available": true,
+          "skuId": 72459128
+        },
+        {
+          "label": "L",
+          "available": true,
+          "skuId": 72459130
+        },
+        {
+          "label": "XL",
+          "available": true,
+          "skuId": 72459132
+        },
+        {
+          "label": "XXL",
+          "available": true,
+          "skuId": 72459134
+        }
+      ],
+      "colors": [
+        "Beige"
+      ],
+      "inStock": true,
+      "fabricType": "Cotton",
+      "pattern": "Solid",
+      "sleeveLength": "Short Sleeves",
+      "neckType": "Round Neck",
+      "washCare": "Machine Wash",
+      "productType": "Regular",
+      "countryOfOrigin": "India",
+      "manufacturerInfo": "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+      "packerInfo": "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+      "importerInfo": "Importer Details",
+      "seller": "Landmark Online India Pvt Ltd",
+      "sellerPartnerId": 9114,
+      "outOfStock": false,
+      "catalogDate": "2023-04-19T04:42:38.000Z",
+      "catalogDateMs": 1681879358000,
+      "daysSinceListing": 1107,
+      "salesVelocity": 52.11,
+      "description": "max Round Neck Short Sleeves Cotton Lounge Tshirts",
+      "images": [
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809160\\u002F2023\\u002F4\\u002F18\\u002F1e3a0812-7ac4-4b1d-bcf8-30844bf9a14c1681811556330MenSolidCrewNeckRegularFitLoungeT-shirt1.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809160\\u002F2023\\u002F4\\u002F18\\u002F163d0820-00e7-4b24-82e2-9543b8cfa3ea1681811556347MenSolidCrewNeckRegularFitLoungeT-shirt2.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809160\\u002F2023\\u002F4\\u002F18\\u002F145ea6be-a698-4889-9ce1-bb7145a0bba61681811556412MenSolidCrewNeckRegularFitLoungeT-shirt3.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809160\\u002F2023\\u002F4\\u002F18\\u002F69053877-1dc5-49cb-9c0b-98dffe4d784a1681811556380MenSolidCrewNeckRegularFitLoungeT-shirt4.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809160\\u002F2023\\u002F4\\u002F18\\u002Fd54807e2-09c9-407d-991c-a80582f690d71681811556364MenSolidCrewNeckRegularFitLoungeT-shirt5.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809160\\u002F2023\\u002F4\\u002F18\\u002F50dda581-e921-46ae-aca4-91cc16dc4e881681811556397MenSolidCrewNeckRegularFitLoungeT-shirt6.jpg"
+      ],
+      "scrapedAt": "2026-04-30T16:45:21.310Z",
+      "scrapeSuccess": true,
+      "rank": 6,
+      "score": 69,
+      "reasoning": "57,686 reviews and 4.34 rating maintain the strong demand signal of this product line. Marginally lower review count than top variants but still among the highest-validated SKUs in the batch.",
+      "analyzedAt": "2026-04-30T16:45:46.700Z"
+    },
+    {
+      "id": 22809156,
+      "name": "max Round Neck Short Sleeves Cotton Lounge Tshirts",
+      "brand": "max",
+      "mrp": 199,
+      "price": 199,
+      "rating": 4.344231602669671,
+      "ratingCount": 57685,
+      "category": "Lounge Tshirts",
+      "categorySlug": "lounge-tshirts",
+      "gender": "Men",
+      "articleType": "Lounge Tshirts",
+      "masterCategory": "Apparel",
+      "subCategory": "Loungewear and Nightwear",
+      "season": "summer",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "sizeChart": [
+        {
+          "label": "XS",
+          "available": false,
+          "skuId": 72459100
+        },
+        {
+          "label": "S",
+          "available": true,
+          "skuId": 72459102
+        },
+        {
+          "label": "M",
+          "available": true,
+          "skuId": 72459104
+        },
+        {
+          "label": "L",
+          "available": true,
+          "skuId": 72459106
+        },
+        {
+          "label": "XL",
+          "available": true,
+          "skuId": 72459108
+        },
+        {
+          "label": "XXL",
+          "available": true,
+          "skuId": 72459110
+        }
+      ],
+      "colors": [
+        "Beige"
+      ],
+      "inStock": true,
+      "fabricType": "Cotton",
+      "pattern": "Solid",
+      "sleeveLength": "Short Sleeves",
+      "neckType": "Round Neck",
+      "washCare": "Machine Wash",
+      "productType": "Regular",
+      "countryOfOrigin": "India",
+      "manufacturerInfo": "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+      "packerInfo": "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+      "importerInfo": "Importer Details",
+      "seller": "Landmark Online India Pvt Ltd",
+      "sellerPartnerId": 9114,
+      "outOfStock": false,
+      "catalogDate": "2023-04-19T04:41:45.000Z",
+      "catalogDateMs": 1681879305000,
+      "daysSinceListing": 1107,
+      "salesVelocity": 52.11,
+      "description": "max Round Neck Short Sleeves Cotton Lounge Tshirts",
+      "images": [
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809156\\u002F2023\\u002F4\\u002F18\\u002Fb0e59bb4-70a9-4668-b6bc-530a4e1b555e1681808899561MenSolidCrewNeckRegularFitLoungeT-shirt1.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809156\\u002F2023\\u002F4\\u002F18\\u002F305a507b-b610-4d3f-94b0-120fa8b68a581681808899591MenSolidCrewNeckRegularFitLoungeT-shirt2.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809156\\u002F2023\\u002F4\\u002F18\\u002F90b3bc27-b8a1-48bd-a36f-9cf316b81be21681808899634MenSolidCrewNeckRegularFitLoungeT-shirt3.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809156\\u002F2023\\u002F4\\u002F18\\u002F58b51e3d-6b84-4dc8-9bcf-e43103c849361681808899604MenSolidCrewNeckRegularFitLoungeT-shirt4.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809156\\u002F2023\\u002F4\\u002F18\\u002Fe8c8318a-3287-48f4-943d-088f8525f2341681808899576MenSolidCrewNeckRegularFitLoungeT-shirt5.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809156\\u002F2023\\u002F4\\u002F18\\u002Ffc06930a-5b46-408e-bdab-51e0dc30d0111681808899618MenSolidCrewNeckRegularFitLoungeT-shirt6.jpg"
+      ],
+      "scrapedAt": "2026-04-30T16:45:23.918Z",
+      "scrapeSuccess": true,
+      "rank": 7,
+      "score": 69,
+      "reasoning": "57,685 reviews and 4.34 rating confirm consistent product performance. Sits comfortably within the proven demand cluster; a safe wholesale pick alongside other variants.",
+      "analyzedAt": "2026-04-30T16:45:46.700Z"
+    },
+    {
+      "id": 22809164,
+      "name": "max Round Neck Short Sleeves Cotton Lounge Tshirts",
+      "brand": "max",
+      "mrp": 199,
+      "price": 199,
+      "rating": 4.34423757021011,
+      "ratingCount": 57684,
+      "category": "Lounge Tshirts",
+      "categorySlug": "lounge-tshirts",
+      "gender": "Men",
+      "articleType": "Lounge Tshirts",
+      "masterCategory": "Apparel",
+      "subCategory": "Loungewear and Nightwear",
+      "season": "summer",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "sizeChart": [
+        {
+          "label": "XS",
+          "available": false,
+          "skuId": 72459148
+        },
+        {
+          "label": "S",
+          "available": true,
+          "skuId": 72459150
+        },
+        {
+          "label": "M",
+          "available": true,
+          "skuId": 72459152
+        },
+        {
+          "label": "L",
+          "available": true,
+          "skuId": 72459154
+        },
+        {
+          "label": "XL",
+          "available": true,
+          "skuId": 72459156
+        },
+        {
+          "label": "XXL",
+          "available": true,
+          "skuId": 72459158
+        }
+      ],
+      "colors": [
+        "Beige"
+      ],
+      "inStock": true,
+      "fabricType": "Cotton",
+      "pattern": "Solid",
+      "sleeveLength": "Short Sleeves",
+      "neckType": "Round Neck",
+      "washCare": "Machine Wash",
+      "productType": "Regular",
+      "countryOfOrigin": "India",
+      "manufacturerInfo": "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+      "packerInfo": "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+      "importerInfo": "Importer Details",
+      "seller": "Landmark Online India Pvt Ltd",
+      "sellerPartnerId": 9114,
+      "outOfStock": false,
+      "catalogDate": "2023-04-19T04:42:58.000Z",
+      "catalogDateMs": 1681879378000,
+      "daysSinceListing": 1107,
+      "salesVelocity": 52.11,
+      "description": "max Round Neck Short Sleeves Cotton Lounge Tshirts",
+      "images": [
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809164\\u002F2023\\u002F4\\u002F18\\u002F59cb6b5e-42e0-4518-9447-57489831a2801681810836309MenSolidCrewNeckRegularFitLoungeT-shirt1.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809164\\u002F2023\\u002F4\\u002F18\\u002F06170f89-b93b-4838-a358-30d14720ba891681810836341MenSolidCrewNeckRegularFitLoungeT-shirt2.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809164\\u002F2023\\u002F4\\u002F18\\u002Fd79247a2-6766-44df-bbf4-4a07478b6c2c1681810836370MenSolidCrewNeckRegularFitLoungeT-shirt3.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809164\\u002F2023\\u002F4\\u002F18\\u002F808049b4-472f-4c06-b466-c2c63b6612751681810836354MenSolidCrewNeckRegularFitLoungeT-shirt4.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809164\\u002F2023\\u002F4\\u002F18\\u002F84c794a6-a2a7-4784-b63c-11bdad2fa70c1681810836324MenSolidCrewNeckRegularFitLoungeT-shirt5.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809164\\u002F2023\\u002F4\\u002F18\\u002F07d3b107-0c97-4d74-961c-6699be8da1491681810836385MenSolidCrewNeckRegularFitLoungeT-shirt6.jpg"
+      ],
+      "scrapedAt": "2026-04-30T16:45:22.886Z",
+      "scrapeSuccess": true,
+      "rank": 8,
+      "score": 68,
+      "reasoning": "57,684 reviews with the same 4.34 rating as all batch peers. Slightly lower review count but demand validation remains extremely strong; no meaningful B2B risk differentiation.",
+      "analyzedAt": "2026-04-30T16:45:46.700Z"
+    },
+    {
+      "id": 22585340,
+      "name": "max Men Round Neck Short Sleeves Lounge T-Shirts",
+      "brand": "max",
+      "mrp": 199,
+      "price": 199,
+      "rating": 4.344383376389202,
+      "ratingCount": 57677,
+      "category": "Lounge Tshirts",
+      "categorySlug": "lounge-tshirts",
+      "gender": "Men",
+      "articleType": "Lounge Tshirts",
+      "masterCategory": "Apparel",
+      "subCategory": "Loungewear and Nightwear",
+      "season": "summer",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "sizeChart": [
+        {
+          "label": "XS",
+          "available": false,
+          "skuId": 71658974
+        },
+        {
+          "label": "S",
+          "available": true,
+          "skuId": 71658968
+        },
+        {
+          "label": "M",
+          "available": true,
+          "skuId": 71658964
+        },
+        {
+          "label": "L",
+          "available": true,
+          "skuId": 71658962
+        },
+        {
+          "label": "XL",
+          "available": true,
+          "skuId": 71658970
+        },
+        {
+          "label": "XXL",
+          "available": true,
+          "skuId": 71658978
+        }
+      ],
+      "colors": [
+        "Green"
+      ],
+      "inStock": true,
+      "fabricType": "Cotton",
+      "pattern": "Solid",
+      "sleeveLength": "Short Sleeves",
+      "neckType": "Round Neck",
+      "washCare": "Machine Wash",
+      "productType": "Regular",
+      "countryOfOrigin": "India",
+      "manufacturerInfo": "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+      "packerInfo": "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+      "importerInfo": "Importer Details",
+      "seller": "Landmark Online India Pvt Ltd",
+      "sellerPartnerId": 9114,
+      "outOfStock": false,
+      "catalogDate": "2023-04-01T10:20:08.000Z",
+      "catalogDateMs": 1680344408000,
+      "daysSinceListing": 1125,
+      "salesVelocity": 51.27,
+      "description": "max Men Round Neck Short Sleeves Lounge T-Shirts",
+      "images": [
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22585340\\u002F2023\\u002F3\\u002F30\\u002F652a30c8-c700-49a2-ad9c-c41a97df78091680178768332MenSolidCrewNeckRegularFitLoungeT-shirt1.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22585340\\u002F2023\\u002F3\\u002F30\\u002Fe0085e22-363b-4ef3-82e2-56d2b8be1cd01680178768365MenSolidCrewNeckRegularFitLoungeT-shirt2.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22585340\\u002F2023\\u002F3\\u002F30\\u002F45dd4bb6-1bd9-49ba-a874-a7f0da3e234a1680178768380MenSolidCrewNeckRegularFitLoungeT-shirt3.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22585340\\u002F2023\\u002F3\\u002F30\\u002Fbef5f8e6-3759-40d5-88f8-0fd7e863dcc41680178768405MenSolidCrewNeckRegularFitLoungeT-shirt4.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22585340\\u002F2023\\u002F3\\u002F30\\u002F7f4344ec-3808-45a7-9a93-54f06a6d0b801680178768347MenSolidCrewNeckRegularFitLoungeT-shirt5.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22585340\\u002F2023\\u002F3\\u002F30\\u002Fa49db12c-4888-405b-b050-0aaea64d2c181680178768393MenSolidCrewNeckRegularFitLoungeT-shirt6.jpg"
+      ],
+      "scrapedAt": "2026-04-30T16:45:22.054Z",
+      "scrapeSuccess": true,
+      "rank": 9,
+      "score": 67,
+      "reasoning": "57,677 reviews with a 4.34 rating; this variant has a slightly different product name ('Men Round Neck') suggesting a possible distinct SKU or older listing. The minor naming divergence warrants a small risk discount, but demand proof is still very strong.",
+      "analyzedAt": "2026-04-30T16:45:46.700Z"
+    },
+    {
+      "id": 22809152,
+      "name": "max Round Neck Short Sleeves Cotton Lounge Tshirts",
+      "brand": "max",
+      "mrp": 199,
+      "price": 199,
+      "rating": 4.344294138050642,
+      "ratingCount": 57660,
+      "category": "Lounge Tshirts",
+      "categorySlug": "lounge-tshirts",
+      "gender": "Men",
+      "articleType": "Lounge Tshirts",
+      "masterCategory": "Apparel",
+      "subCategory": "Loungewear and Nightwear",
+      "season": "summer",
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "availableSizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "sizeChart": [
+        {
+          "label": "XS",
+          "available": false,
+          "skuId": 72459076
+        },
+        {
+          "label": "S",
+          "available": true,
+          "skuId": 72459078
+        },
+        {
+          "label": "M",
+          "available": true,
+          "skuId": 72459080
+        },
+        {
+          "label": "L",
+          "available": true,
+          "skuId": 72459082
+        },
+        {
+          "label": "XL",
+          "available": true,
+          "skuId": 72459084
+        },
+        {
+          "label": "XXL",
+          "available": true,
+          "skuId": 72459086
+        }
+      ],
+      "colors": [
+        "Beige"
+      ],
+      "inStock": true,
+      "fabricType": "Cotton",
+      "pattern": "Solid",
+      "sleeveLength": "Short Sleeves",
+      "neckType": "Round Neck",
+      "washCare": "Machine Wash",
+      "productType": "Regular",
+      "countryOfOrigin": "India",
+      "manufacturerInfo": "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+      "packerInfo": "Lifestyle Int Pvt Ltd, 77 Degree Town Centre, Building No. 3, West Wing, Off HAL Airport Road, Yamlur, Bangalore-560037",
+      "importerInfo": "Importer Details",
+      "seller": "Landmark Online India Pvt Ltd",
+      "sellerPartnerId": 9114,
+      "outOfStock": false,
+      "catalogDate": "2023-04-19T04:41:51.000Z",
+      "catalogDateMs": 1681879311000,
+      "daysSinceListing": 1107,
+      "salesVelocity": 52.09,
+      "description": "max Round Neck Short Sleeves Cotton Lounge Tshirts",
+      "images": [
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809152\\u002F2023\\u002F4\\u002F18\\u002Feeac70ae-5ad5-4628-ac23-e831843544061681814677742MenSolidCrewNeckRegularFitLoungeT-shirt1.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809152\\u002F2023\\u002F4\\u002F18\\u002F6ebcfe42-42f7-453c-a574-989b0ad9d7391681814677771MenSolidCrewNeckRegularFitLoungeT-shirt2.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809152\\u002F2023\\u002F4\\u002F18\\u002F2212f667-9710-41f9-8217-4f3a434e4dff1681814677797MenSolidCrewNeckRegularFitLoungeT-shirt3.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809152\\u002F2023\\u002F4\\u002F18\\u002F6e9174e7-55e6-4129-badd-90a4a5889d2d1681814677785MenSolidCrewNeckRegularFitLoungeT-shirt4.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809152\\u002F2023\\u002F4\\u002F18\\u002Fed52f52d-996b-4367-aa9c-6914c882ff871681814677758MenSolidCrewNeckRegularFitLoungeT-shirt5.jpg",
+        "http:\\u002F\\u002Fassets.myntassets.com\\u002Fassets\\u002Fimages\\u002F22809152\\u002F2023\\u002F4\\u002F18\\u002Fef390ead-9de2-40fe-8678-82a91c2a47e81681814677810MenSolidCrewNeckRegularFitLoungeT-shirt6.jpg"
+      ],
+      "scrapedAt": "2026-04-30T16:45:19.619Z",
+      "scrapeSuccess": true,
+      "rank": 10,
+      "score": 65,
+      "reasoning": "Lowest review count in the batch at 57,660 — a gap of ~30 reviews from the top variant — suggesting this may be a newer color/size listing with slightly less validation. Still a strong product, but fractionally higher uncertainty in a wholesale context compared to peers.",
+      "analyzedAt": "2026-04-30T16:45:46.700Z"
+    }
+  ],
+  "summary": "This batch is highly unusual from a wholesale analysis perspective: all 10 products are essentially the same SKU (max Round Neck Cotton Lounge T-Shirt, Rs 199, 4.34 rating, 6 sizes) differentiated only by product ID, minor review count variance (~30 reviews across the entire batch), and a slight naming difference on product #8. The aggregate review volume (57,660–57,691 per SKU) is extraordinarily high, confirming this is a proven bestseller with deep consumer trust. However, the Rs 199 price point falls below the Rs 500–2000 B2B sweet spot, which limits margin potential for wholesale buyers. The zero-discount signal indicates the brand holds firm on pricing, reducing clearance risk but also limiting promotional flexibility. The single-color availability per SKU is a notable constraint for B2B buyers seeking range depth.",
+  "topInsights": [
+    "⚠️ SKU Duplication Alert: All 10 products are near-identical variants of the same item. A wholesale buyer should treat these as color/size options of one master SKU rather than 10 independent products — avoid over-ordering across variants to prevent inventory redundancy.",
+    "📉 Price Point Below B2B Sweet Spot: At Rs 199, this product falls well below the Rs 500–2000 optimal wholesale range, meaning per-unit margins will be thin. B2B viability depends heavily on high-volume bulk orders to achieve meaningful absolute profit, making this suitable only for high-turnover, value-focused wholesale channels.",
+    "✅ Exceptional Demand Validation: With 57,000+ reviews per SKU and a stable 4.34 rating, this is one of the most consumer-validated lounge T-shirt products available — indicating very low sell-through risk for wholesale buyers, provided pricing and volume economics are structured correctly."
+  ]
+}

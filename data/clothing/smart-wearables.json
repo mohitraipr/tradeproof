@@ -1,0 +1,3123 @@
+{
+  "category": "Smart Wearables",
+  "slug": "smart-wearables",
+  "totalOnMyntra": 375,
+  "fetched": 346,
+  "fetchedAt": "2026-04-27T05:50:12.716Z",
+  "products": [
+    {
+      "id": 30780810,
+      "name": "Styler FS2 Pro Smart Watch 1.96 AMOLED Display BT Calling AI Voice Assistant IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 5999,
+      "price": 5999,
+      "rating": 4.356643199920654,
+      "ratingCount": 143
+    },
+    {
+      "id": 19886508,
+      "name": "Noise ColorFit Vision 2 Buzz Smartwatch - Vintage Brown",
+      "brand": "NOISE",
+      "mrp": 7999,
+      "price": 1585,
+      "rating": 4.207729339599609,
+      "ratingCount": 414
+    },
+    {
+      "id": 29576790,
+      "name": "NOISE ColorFit Icon 4 Smartwatch",
+      "brand": "NOISE",
+      "mrp": 6999,
+      "price": 2099,
+      "rating": 4.036674976348877,
+      "ratingCount": 409
+    },
+    {
+      "id": 19886512,
+      "name": "Noise ColorFit Vision 2 Buzz Smartwatch - Silver Grey",
+      "brand": "NOISE",
+      "mrp": 7999,
+      "price": 1585,
+      "rating": 4.199999809265137,
+      "ratingCount": 415
+    },
+    {
+      "id": 30450390,
+      "name": "boAt Ultima Regal Smartwatch With 2.01\\\" AMOLED Display 1000 NITS Brightness Premium Metal Body",
+      "brand": "boAt",
+      "mrp": 9999,
+      "price": 2799,
+      "rating": 4.212963104248047,
+      "ratingCount": 108
+    },
+    {
+      "id": 29576796,
+      "name": "NOISE ColorFit Icon 4 Smartwatch",
+      "brand": "NOISE",
+      "mrp": 6999,
+      "price": 2099,
+      "rating": 4.116922855377197,
+      "ratingCount": 325
+    },
+    {
+      "id": 29576794,
+      "name": "NOISE ColorFit Icon 4 Smartwatch",
+      "brand": "NOISE",
+      "mrp": 6999,
+      "price": 2099,
+      "rating": 4.358064651489258,
+      "ratingCount": 310
+    },
+    {
+      "id": 28411118,
+      "name": "Noise Teal Blue ColorFit Ultra 3 Smartwatch",
+      "brand": "NOISE",
+      "mrp": 7999,
+      "price": 2299,
+      "rating": 4.231638431549072,
+      "ratingCount": 354
+    },
+    {
+      "id": 30450381,
+      "name": "boAt Ultima Regal Smartwatch With 2.01\\\" AMOLED Display 1000 NITS Brightness Premium Metal Body",
+      "brand": "boAt",
+      "mrp": 10999,
+      "price": 3099,
+      "rating": 4.2272725105285645,
+      "ratingCount": 110
+    },
+    {
+      "id": 31311738,
+      "name": "Noise NoiseFit Diva 2 Smartwatch",
+      "brand": "NOISE",
+      "mrp": 6999,
+      "price": 2927,
+      "rating": 4.130000114440918,
+      "ratingCount": 100
+    },
+    {
+      "id": 25673076,
+      "name": "HAMMER Unisex Glide 1.43\" AMOLED Smart Watch Round Dial with Bluetooth Calling",
+      "brand": "HAMMER",
+      "mrp": 8999,
+      "price": 2228,
+      "rating": 3.5932202339172363,
+      "ratingCount": 59
+    },
+    {
+      "id": 30780755,
+      "name": "Styler FS1 Pro 1.97 AMOLED Display AOD Functional Crown BT Calling IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 4999,
+      "price": 2499,
+      "rating": 4.4676055908203125,
+      "ratingCount": 355
+    },
+    {
+      "id": 30780703,
+      "name": "Styler X2 1.91 UltraVU HD Display 700 Nits Health Suite BT Calling Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 2995,
+      "price": 1699,
+      "rating": 4.497600078582764,
+      "ratingCount": 1250
+    },
+    {
+      "id": 28411122,
+      "name": "Noise Black ColorFit Ultra 3 Smartwatch",
+      "brand": "NOISE",
+      "mrp": 7999,
+      "price": 2299,
+      "rating": 4.23415994644165,
+      "ratingCount": 363
+    },
+    {
+      "id": 30141373,
+      "name": "CMF by Nothing Watch Pro 2, 1.32\" AMOLED, Auto-brightness, Gesture Control, 3D Guide, GPS",
+      "brand": "CMF by Nothing",
+      "mrp": 5999,
+      "price": 4999,
+      "rating": 4.503181457519531,
+      "ratingCount": 3929
+    },
+    {
+      "id": 31715121,
+      "name": "Smart Progen 1.95\"-4.95 cm) Curved AMOLED Display & BT Calling Smartwatch TWTXW800T",
+      "brand": "Timex",
+      "mrp": 7495,
+      "price": 3495,
+      "rating": 3.9504950046539307,
+      "ratingCount": 101
+    },
+    {
+      "id": 19886504,
+      "name": "Noise ColorFit Vision 2 Buzz Smartwatch - Royal Blue",
+      "brand": "NOISE",
+      "mrp": 7999,
+      "price": 1585,
+      "rating": 4.212713718414307,
+      "ratingCount": 409
+    },
+    {
+      "id": 30780699,
+      "name": "Styler X2 1.91 UltraVU HD Display 700 Nits Health Tracking BT Calling Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 2995,
+      "price": 1699,
+      "rating": 4.4936203956604,
+      "ratingCount": 1254
+    },
+    {
+      "id": 30780768,
+      "name": "Styler FS1 Pro 1.97 AMOLED Display AOD Functional Crown BT Calling IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 4999,
+      "price": 4999,
+      "rating": 4.4676055908203125,
+      "ratingCount": 355
+    },
+    {
+      "id": 30924493,
+      "name": "boAt Enigma Ascend Luxury Smartwatch With 1.76\\\" HD Display Functional Crown Upto 5 Days Battery",
+      "brand": "boAt",
+      "mrp": 8999,
+      "price": 2699,
+      "rating": 4.047618865966797,
+      "ratingCount": 105
+    },
+    {
+      "id": 26952190,
+      "name": "CMF by Nothing Watch Pro, 1.96 AMOLED, BT Calling, AI Noise Reduction, GPS Smartwatch",
+      "brand": "CMF by Nothing",
+      "mrp": 5999,
+      "price": 4499,
+      "rating": 4.323700904846191,
+      "ratingCount": 3945
+    },
+    {
+      "id": 31715137,
+      "name": "Smart Progen 1.95\"-4.95 cm) Curved AMOLED Display & BT Calling Smartwatch TWTXW801T",
+      "brand": "Timex",
+      "mrp": 7495,
+      "price": 3495,
+      "rating": 3.929292917251587,
+      "ratingCount": 99
+    },
+    {
+      "id": 31535302,
+      "name": "boAt Enigma Gem Women's Luxury SmartWatch 1.19\\\" AMOLED Display Emergency SOS Location Sharing",
+      "brand": "boAt",
+      "mrp": 8499,
+      "price": 2999,
+      "rating": 3.972222328186035,
+      "ratingCount": 72
+    },
+    {
+      "id": 25208120,
+      "name": "CMF by Nothing Watch Pro, 1.96 AMOLED, BT Calling, AI Noise Reduction, GPS Smartwatch",
+      "brand": "CMF by Nothing",
+      "mrp": 5999,
+      "price": 4499,
+      "rating": 4.323700904846191,
+      "ratingCount": 3945
+    },
+    {
+      "id": 30141372,
+      "name": "CMF by Nothing Watch Pro 2, 1.32\" AMOLED, Auto-brightness, Gesture Control, 3D Guide, GPS",
+      "brand": "CMF by Nothing",
+      "mrp": 5999,
+      "price": 4999,
+      "rating": 4.503434181213379,
+      "ratingCount": 3931
+    },
+    {
+      "id": 30924513,
+      "name": "boAt Enigma Orion Men's Luxury Smartwatch With 1.39\\\" HD Display BT Calling7 Days Battery",
+      "brand": "boAt",
+      "mrp": 8999,
+      "price": 2499,
+      "rating": 4.075630187988281,
+      "ratingCount": 119
+    },
+    {
+      "id": 31773467,
+      "name": "boAt Lunar Vista Fitness Smartwatch With 1.52\"(3.8 cm) HD Always on Display 550 Nits Brightness",
+      "brand": "boAt",
+      "mrp": 7999,
+      "price": 1599,
+      "rating": 4.316455841064453,
+      "ratingCount": 316
+    },
+    {
+      "id": 30924504,
+      "name": "boAt Lunar Discovery Smartwatch With 1.39\" HD Display TBT Navigation BT Calling Emergency SOS",
+      "brand": "boAt",
+      "mrp": 8999,
+      "price": 1649,
+      "rating": 4.261845588684082,
+      "ratingCount": 401
+    },
+    {
+      "id": 30688665,
+      "name": "Realme S2 RMW2401 Smart Watch",
+      "brand": "Realme",
+      "mrp": 7999,
+      "price": 4999,
+      "rating": 3.9641692638397217,
+      "ratingCount": 307
+    },
+    {
+      "id": 30780741,
+      "name": "Styler R1 1.38 UltraVU Display BT Calling Functional Crown SOS IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 3999,
+      "price": 1799,
+      "rating": 4.474999904632568,
+      "ratingCount": 40
+    },
+    {
+      "id": 30687833,
+      "name": "Crest 1.43 AMOLED AOD Working Crown BT & SOS Calling Health Suite IP68 Smart Watch",
+      "brand": "Titan",
+      "mrp": 4999,
+      "price": 4999,
+      "rating": 4.292683124542236,
+      "ratingCount": 123
+    },
+    {
+      "id": 19886510,
+      "name": "NOISE ColorFit Vision 2 Buzz Smartwatch - Jet Black",
+      "brand": "NOISE",
+      "mrp": 7999,
+      "price": 1585,
+      "rating": 4.207729339599609,
+      "ratingCount": 414
+    },
+    {
+      "id": 25743264,
+      "name": "NOISE Evolve 4 1.46\" AMOLED Display Metal Edition & Bluetooth Calling Smartwatch",
+      "brand": "NOISE",
+      "mrp": 7999,
+      "price": 2999,
+      "rating": 4.255255222320557,
+      "ratingCount": 333
+    },
+    {
+      "id": 31622143,
+      "name": "Fastrack Magnus FX2 BT Calling 1.32 Ultra VU Display Functional Crown IP67Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 7495,
+      "price": 7495,
+      "rating": 4.246753215789795,
+      "ratingCount": 77
+    },
+    {
+      "id": 30450385,
+      "name": "boAt Ultima Regal Smartwatch With 2.01\\\" AMOLED Display 1000 NITS Brightness Premium Metal Body",
+      "brand": "boAt",
+      "mrp": 9999,
+      "price": 2799,
+      "rating": 4.220183372497559,
+      "ratingCount": 109
+    },
+    {
+      "id": 25208118,
+      "name": "CMF by Nothing Watch Pro, 1.96 AMOLED, BT Calling, AI Noise Reduction, GPS Smartwatch",
+      "brand": "CMF by Nothing",
+      "mrp": 6499,
+      "price": 4999,
+      "rating": 4.323529243469238,
+      "ratingCount": 3944
+    },
+    {
+      "id": 30780700,
+      "name": "Styler X2 1.91 UltraVU HD Display 700 Nits Health Tracking BT Calling Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 2995,
+      "price": 2995,
+      "rating": 4.494014263153076,
+      "ratingCount": 1253
+    },
+    {
+      "id": 25743636,
+      "name": "NOISE ColorFit Pro 5 Max Smartwatch",
+      "brand": "NOISE",
+      "mrp": 10999,
+      "price": 4999,
+      "rating": 4.148471832275391,
+      "ratingCount": 229
+    },
+    {
+      "id": 31535304,
+      "name": "boAt Enigma Gem Women's Luxury SmartWatch 1.19\\\" AMOLED Display Emergency SOS Location Sharing",
+      "brand": "boAt",
+      "mrp": 8499,
+      "price": 2999,
+      "rating": 3.972222328186035,
+      "ratingCount": 72
+    },
+    {
+      "id": 30924500,
+      "name": "boAt Enigma Orion Men's Luxury Smartwatch With 1.39\\\"HD Display BT Calling7 Days Battery",
+      "brand": "boAt",
+      "mrp": 8999,
+      "price": 2499,
+      "rating": 4.06779670715332,
+      "ratingCount": 118
+    },
+    {
+      "id": 27245130,
+      "name": "HAMMER Blue Active 2.0 Plus 2.01\" HD Display Bluetooth Calling Gesture Control Smart Watch",
+      "brand": "HAMMER",
+      "mrp": 5999,
+      "price": 2338,
+      "rating": 3.4285714626312256,
+      "ratingCount": 14
+    },
+    {
+      "id": 31715125,
+      "name": "Timex iConnect Go 1.38\"-3.50 cm) Display & BT Calling Unisex Smartwatches TWIXW800T",
+      "brand": "Timex",
+      "mrp": 5995,
+      "price": 2595,
+      "rating": 3.8333332538604736,
+      "ratingCount": 132
+    },
+    {
+      "id": 28411120,
+      "name": "Noise Brown ColorFit Ultra 3 Smartwatch",
+      "brand": "NOISE",
+      "mrp": 7999,
+      "price": 2299,
+      "rating": 4.229917049407959,
+      "ratingCount": 361
+    },
+    {
+      "id": 26616484,
+      "name": "Fastrack FS1 Pro with 1.96\" Super Amoled Display with BT Calling Smartwatch",
+      "brand": "Fastrack",
+      "mrp": 7995,
+      "price": 2995,
+      "rating": 4.328542232513428,
+      "ratingCount": 487
+    },
+    {
+      "id": 24918756,
+      "name": "Timex Unisex iConnect Smart Watche",
+      "brand": "Timex",
+      "mrp": 4995,
+      "price": 1995,
+      "rating": 4.333333492279053,
+      "ratingCount": 30
+    },
+    {
+      "id": 30052892,
+      "name": "boAt Lunar Oasis Smartwatch with TBT Navigation QR Tray Emergency SOS 1.43\"AMOLED Display",
+      "brand": "boAt",
+      "mrp": 13999,
+      "price": 3799,
+      "rating": 4.684210300445557,
+      "ratingCount": 38
+    },
+    {
+      "id": 31622140,
+      "name": "Radiant FX3 BT Calling 1.43 AMOLED Working Crown BT Calling IP67 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 4995,
+      "price": 4995,
+      "rating": 4.358490467071533,
+      "ratingCount": 106
+    },
+    {
+      "id": 25673064,
+      "name": "HAMMER Unisex Robust 1.96\" AMOLED Biggest Display Bluetooth Calling Smart Watch",
+      "brand": "HAMMER",
+      "mrp": 8999,
+      "price": 2098,
+      "rating": 3.799999952316284,
+      "ratingCount": 20
+    },
+    {
+      "id": 18356694,
+      "name": "HAMMER Black Active 1.32 Inch Round Dial Smart Watch with Bluetooth Calling Function",
+      "brand": "HAMMER",
+      "mrp": 9999,
+      "price": 1998,
+      "rating": 3.875,
+      "ratingCount": 32
+    },
+    {
+      "id": 31715138,
+      "name": "iConnect Calling Ace 1.83\"-4.64 cm) Display & BT Calling Unisex Smartwatches TWIXW1101T",
+      "brand": "Timex",
+      "mrp": 4995,
+      "price": 1795,
+      "rating": 3.981818199157715,
+      "ratingCount": 55
+    },
+    {
+      "id": 31715099,
+      "name": "iConnect Calling Ace 1.83\"-4.64 cm) Display & BT Calling Unisex Smartwatches TWIXW1103T",
+      "brand": "Timex",
+      "mrp": 4995,
+      "price": 1795,
+      "rating": 3.9811320304870605,
+      "ratingCount": 53
+    },
+    {
+      "id": 26152924,
+      "name": "HAMMER Champagne Gold Arctic 2.04 Inch SUPER AMOLED Smart Watch with BT Calling",
+      "brand": "HAMMER",
+      "mrp": 8999,
+      "price": 2134,
+      "rating": 4.25,
+      "ratingCount": 16
+    },
+    {
+      "id": 30924517,
+      "name": "boAt Enigma Ascend Luxury Smartwatch With 1.76\\\" HD Display Functional Crown Upto 5 Days Battery",
+      "brand": "boAt",
+      "mrp": 8999,
+      "price": 2699,
+      "rating": 4.04807710647583,
+      "ratingCount": 104
+    },
+    {
+      "id": 24918752,
+      "name": "Timex Unisex iConnect Smart Watche",
+      "brand": "Timex",
+      "mrp": 4995,
+      "price": 1995,
+      "rating": 3.75,
+      "ratingCount": 12
+    },
+    {
+      "id": 26152912,
+      "name": "HAMMER Tussle 2.01\" HD Display Bluetooth Calling Rotating Crown Smart Watch",
+      "brand": "HAMMER",
+      "mrp": 5999,
+      "price": 1700,
+      "rating": 3.950000047683716,
+      "ratingCount": 20
+    },
+    {
+      "id": 25673070,
+      "name": "HAMMER Gold Luxor 1.45\" AMOLED Display Smart Watch with Round Dial, Bluetooth Calling",
+      "brand": "HAMMER",
+      "mrp": 8999,
+      "price": 2069,
+      "rating": 4.228070259094238,
+      "ratingCount": 57
+    },
+    {
+      "id": 27245134,
+      "name": "HAMMER Active 2.0 Plus 2.01\" HD Display Bluetooth Calling Gesture Control Smart Watch",
+      "brand": "HAMMER",
+      "mrp": 5999,
+      "price": 2337,
+      "rating": 3.9800000190734863,
+      "ratingCount": 50
+    },
+    {
+      "id": 25739104,
+      "name": "HAMMER Active 2.0 1.95 Inch Always On Display Bluetooth Calling Rotating Crown Smart Watch",
+      "brand": "HAMMER",
+      "mrp": 5999,
+      "price": 1698,
+      "rating": 3.7941176891326904,
+      "ratingCount": 68
+    },
+    {
+      "id": 30450387,
+      "name": "boAt Ultima Regal Smartwatch With 2.01\\\" AMOLED Display 1000 NITS Brightness Premium Metal Body",
+      "brand": "boAt",
+      "mrp": 9999,
+      "price": 2799,
+      "rating": 4.22857141494751,
+      "ratingCount": 105
+    },
+    {
+      "id": 29576788,
+      "name": "NOISE ColorFit Icon 4 Smartwatch",
+      "brand": "NOISE",
+      "mrp": 6999,
+      "price": 2099,
+      "rating": 4.066666603088379,
+      "ratingCount": 120
+    },
+    {
+      "id": 31773465,
+      "name": "boAt Lunar Vista Fitness Smartwatch With 1.52\"(3.8 cm) HD Always on Display 550 Nits Brightness",
+      "brand": "boAt",
+      "mrp": 7999,
+      "price": 1599,
+      "rating": 4.320512771606445,
+      "ratingCount": 312
+    },
+    {
+      "id": 30924511,
+      "name": "boAt Enigma Radiant 1.43\" AMOLED Display Bluetooth Calling Smartwatch",
+      "brand": "boAt",
+      "mrp": 8999,
+      "price": 2999,
+      "rating": 4.2727274894714355,
+      "ratingCount": 66
+    },
+    {
+      "id": 25960520,
+      "name": "French Connection Beam Premium Smart Watch",
+      "brand": "French Connection",
+      "mrp": 10995,
+      "price": 2089,
+      "rating": 3.200000047683716,
+      "ratingCount": 25
+    },
+    {
+      "id": 30780701,
+      "name": "Styler X2 1.91 UltraVU HD Display 700 Nits Health Tracking BT Calling Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 2995,
+      "price": 2995,
+      "rating": 4.498001575469971,
+      "ratingCount": 1251
+    },
+    {
+      "id": 31610718,
+      "name": "Discovery 1.95 AMOLED Display AOD GPS Vo2 Max BT Calling Health Suite Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 5499,
+      "price": 4699,
+      "rating": 3.588235378265381,
+      "ratingCount": 17
+    },
+    {
+      "id": 30780751,
+      "name": "Styler X2+ 2.01 UltraVU Display BT Calling Functional Crown IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 1599,
+      "price": 1599,
+      "rating": 4.323529243469238,
+      "ratingCount": 952
+    },
+    {
+      "id": 25862674,
+      "name": "French Connection Nexus Premium Smart Watch",
+      "brand": "French Connection",
+      "mrp": 12995,
+      "price": 1999,
+      "rating": 3.692307710647583,
+      "ratingCount": 39
+    },
+    {
+      "id": 31622145,
+      "name": "Fastrack Magnus FX2 Smart Watch BT Calling 1.32 Functional Crown IP67 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 7495,
+      "price": 7495,
+      "rating": 4.265822887420654,
+      "ratingCount": 79
+    },
+    {
+      "id": 31773461,
+      "name": "boAt Lunar Vista Fitness Smartwatch With 1.52\"(3.8 cm) HD Always on Display 550 Nits Brightness",
+      "brand": "boAt",
+      "mrp": 7999,
+      "price": 1599,
+      "rating": 4.318612098693848,
+      "ratingCount": 317
+    },
+    {
+      "id": 28409784,
+      "name": "boAt Wave Sigma 3 Smartwatch With Turn-by-Turn Navigation 2.01\" HD Display Crest+ OS QR Tray",
+      "brand": "boAt",
+      "mrp": 9499,
+      "price": 1649,
+      "rating": 4.125899314880371,
+      "ratingCount": 1112
+    },
+    {
+      "id": 22268032,
+      "name": "Fire-Boltt Blue Supernova 1.78 inch AMOLED 368*448px High Resolution Smart Watch",
+      "brand": "Fire-Boltt",
+      "mrp": 18999,
+      "price": 2238,
+      "rating": 4.084104061126709,
+      "ratingCount": 2378
+    },
+    {
+      "id": 30050026,
+      "name": "pebble Ultra Rapid 30 Min Full Charge 1.83\" HD Display, Premium Metal Built Smartwatch",
+      "brand": "pebble",
+      "mrp": 6999,
+      "price": 1699,
+      "rating": 3.813953399658203,
+      "ratingCount": 43
+    },
+    {
+      "id": 25673058,
+      "name": "HAMMER Unisex Robust 1.96\" AMOLED Biggest Display BT Calling Smart Watch",
+      "brand": "HAMMER",
+      "mrp": 8999,
+      "price": 2098,
+      "rating": 4.166666507720947,
+      "ratingCount": 18
+    },
+    {
+      "id": 31715131,
+      "name": "Smart Progen 1.95\" -4.95 cm) Curved AMOLED Display & BT Calling Smartwatch TWTXW803T",
+      "brand": "Timex",
+      "mrp": 7495,
+      "price": 3495,
+      "rating": 3.940000057220459,
+      "ratingCount": 100
+    },
+    {
+      "id": 30924505,
+      "name": "boAt Enigma Radiant Luxury Watch With Upto 6 Days Battery Guided Breathing 1.43\" AMOLED Display",
+      "brand": "boAt",
+      "mrp": 9499,
+      "price": 3299,
+      "rating": 4.2727274894714355,
+      "ratingCount": 66
+    },
+    {
+      "id": 24918758,
+      "name": "Timex iConnect Smart Watch With Bluetooth Calling",
+      "brand": "Timex",
+      "mrp": 4995,
+      "price": 1995,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 30924510,
+      "name": "boAt Enigma Ascend Luxury Smartwatch With 1.76\\\" HD Display Functional Crown Upto 5 Days Battery",
+      "brand": "boAt",
+      "mrp": 8999,
+      "price": 2699,
+      "rating": 4.047618865966797,
+      "ratingCount": 105
+    },
+    {
+      "id": 30194464,
+      "name": "Dezire FX1 Pro 1.43 AMOLED Display BT Calling Functional Crown IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 3499,
+      "price": 3499,
+      "rating": 4.185184955596924,
+      "ratingCount": 27
+    },
+    {
+      "id": 27276528,
+      "name": "Timex Unisex AMOLED Rugged Smartwatch",
+      "brand": "Timex",
+      "mrp": 6995,
+      "price": 3495,
+      "rating": 3.875,
+      "ratingCount": 24
+    },
+    {
+      "id": 18511102,
+      "name": "DIZO by realme TechLife Unisex Black Watch 2 Sports Smartwatch",
+      "brand": "DIZO",
+      "mrp": 3499,
+      "price": 2666,
+      "rating": 4.233429431915283,
+      "ratingCount": 694
+    },
+    {
+      "id": 31715111,
+      "name": "Timex iConnect Go 1.38\"-3.50 cm) Display & BT Calling Unisex Smartwatches TWIXW802T",
+      "brand": "Timex",
+      "mrp": 6495,
+      "price": 2795,
+      "rating": 3.8307693004608154,
+      "ratingCount": 130
+    },
+    {
+      "id": 30780702,
+      "name": "Styler X2 1.91 UltraVU HD Display 700 Nits Health Tracking BT Calling Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 2995,
+      "price": 2995,
+      "rating": 4.4936203956604,
+      "ratingCount": 1254
+    },
+    {
+      "id": 24918760,
+      "name": "Timex iConnect Smart Watch With Bluetooth Calling",
+      "brand": "Timex",
+      "mrp": 4995,
+      "price": 1995,
+      "rating": 4.628571510314941,
+      "ratingCount": 35
+    },
+    {
+      "id": 31715124,
+      "name": "Timex iConnect Go+ 1.83\"-4.64 cm) Display with BT Calling Unisex Smartwatches TWIXW1002T",
+      "brand": "Timex",
+      "mrp": 5995,
+      "price": 2395,
+      "rating": 3.58730149269104,
+      "ratingCount": 63
+    },
+    {
+      "id": 36808248,
+      "name": "boAt Chrome Horizon Smartwatch Video Watch Faces 1.51\\\" AMOLED Display Advanced BT Calling",
+      "brand": "boAt",
+      "mrp": 9499,
+      "price": 3599,
+      "rating": 4.317307472229004,
+      "ratingCount": 104
+    },
+    {
+      "id": 32756202,
+      "name": "boAt Ultima Ember Smartwatch1.96\\\" AMOLED Display Personalized Fitness Nudges100+ Sports Modes",
+      "brand": "boAt",
+      "mrp": 9499,
+      "price": 2499,
+      "rating": 4.182222366333008,
+      "ratingCount": 225
+    },
+    {
+      "id": 32756188,
+      "name": "boAt Ultima Ember Smartwatch1.96\\\" AMOLED Display Personalized Fitness Nudges100+ Sports Modes",
+      "brand": "boAt",
+      "mrp": 8999,
+      "price": 2199,
+      "rating": 4.174107074737549,
+      "ratingCount": 224
+    },
+    {
+      "id": 36537084,
+      "name": "NOISE NoiseFit Halo 1.43\" AMOLED Display Smart Watch",
+      "brand": "NOISE",
+      "mrp": 3999,
+      "price": 2999,
+      "rating": 3.7727272510528564,
+      "ratingCount": 110
+    },
+    {
+      "id": 36537092,
+      "name": "NOISE NoiseFit Halo 1.43\" AMOLED Display Smart Watch",
+      "brand": "NOISE",
+      "mrp": 7999,
+      "price": 7999,
+      "rating": 4.1447367668151855,
+      "ratingCount": 76
+    },
+    {
+      "id": 34285216,
+      "name": "Noise ColorFit Pulse 4 Max Smartwatch",
+      "brand": "NOISE",
+      "mrp": 6999,
+      "price": 2499,
+      "rating": 4.107142925262451,
+      "ratingCount": 56
+    },
+    {
+      "id": 32605510,
+      "name": "GOBOULT Rover Pro 1.43'' AMOLED, BT Calling, 565 Nits Brightness Smartwatch",
+      "brand": "GOBOULT",
+      "mrp": 10999,
+      "price": 1999,
+      "rating": 4.087873458862305,
+      "ratingCount": 1138
+    },
+    {
+      "id": 40282415,
+      "name": "GOBOULT Mustang Racer 1.43\" AMOLED Display with Premium Metallic Crown Smartwatch",
+      "brand": "GOBOULT",
+      "mrp": 12999,
+      "price": 3999,
+      "rating": 4.791666507720947,
+      "ratingCount": 24
+    },
+    {
+      "id": 30780759,
+      "name": "Styler FS1 Pro 1.97 AMOLED Display AOD Functional Crown BT Calling IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 4999,
+      "price": 4999,
+      "rating": 4.463068008422852,
+      "ratingCount": 352
+    },
+    {
+      "id": 32756198,
+      "name": "boAt Ultima Prime Smartwatch1.43\\\" AMOLED DisplayFitness NudgesWatch Face StudioSports Modes",
+      "brand": "boAt",
+      "mrp": 9499,
+      "price": 2499,
+      "rating": 4.352941036224365,
+      "ratingCount": 153
+    },
+    {
+      "id": 34285212,
+      "name": "Noise ColorFit Pulse 4 Max Smartwatch",
+      "brand": "NOISE",
+      "mrp": 6999,
+      "price": 2499,
+      "rating": 4.465753555297852,
+      "ratingCount": 73
+    },
+    {
+      "id": 36808249,
+      "name": "boAt Chrome Horizon Smartwatch Video Watch Faces 1.51\\\" AMOLED Display Advanced BT Calling",
+      "brand": "boAt",
+      "mrp": 9499,
+      "price": 3599,
+      "rating": 4.323809623718262,
+      "ratingCount": 105
+    },
+    {
+      "id": 32605604,
+      "name": "GOBOULT Crown R Pro 1.43''HD AMOLED, BT Calling, Zinc Alloy Frame Smartwatch",
+      "brand": "GOBOULT",
+      "mrp": 6999,
+      "price": 1799,
+      "rating": 4.32241153717041,
+      "ratingCount": 763
+    },
+    {
+      "id": 33566257,
+      "name": "GOBOULT Crown R Pro 2 1.43''HD AMOLED, BT Calling, Zinc Alloy Frame Smartwatch",
+      "brand": "GOBOULT",
+      "mrp": 7499,
+      "price": 2799,
+      "rating": 4.303797245025635,
+      "ratingCount": 79
+    },
+    {
+      "id": 36808253,
+      "name": "boAt Storm Infinity Smartwatch With 550mAh 15 Days Battery 1.83\\\"(4.65cm) HD Display BT Calling",
+      "brand": "boAt",
+      "mrp": 5999,
+      "price": 1599,
+      "rating": 4.324561595916748,
+      "ratingCount": 456
+    },
+    {
+      "id": 34285226,
+      "name": "NOISE Unisex ColorFit Pro 4 Alpha 1.78\" AMOLED Display Smart Watch",
+      "brand": "NOISE",
+      "mrp": 6999,
+      "price": 1948,
+      "rating": 4.141025543212891,
+      "ratingCount": 78
+    },
+    {
+      "id": 33790778,
+      "name": "GOBOULT Mirage 1.39\" Screen, Working Crown, Zinc Alloy Frame Smartwatch",
+      "brand": "GOBOULT",
+      "mrp": 4999,
+      "price": 1899,
+      "rating": 3.960829496383667,
+      "ratingCount": 434
+    },
+    {
+      "id": 32605509,
+      "name": "GOBOULT Rover Pro 1.43'' AMOLED, BT Calling, 565 Nits Brightness Smartwatch",
+      "brand": "GOBOULT",
+      "mrp": 10999,
+      "price": 1999,
+      "rating": 4.0880279541015625,
+      "ratingCount": 1136
+    },
+    {
+      "id": 36059140,
+      "name": "iConnect Calling Ace+ 1.83\"-4.6 cm) 3D UI Display & BT Calling Smartwatch TWIXW1501T",
+      "brand": "Timex",
+      "mrp": 5495,
+      "price": 1995,
+      "rating": 4.263157844543457,
+      "ratingCount": 76
+    },
+    {
+      "id": 34285208,
+      "name": "NOISE Unisex ColorFit Pro 4 Alpha 1.78\" AMOLED Display Smart Watch",
+      "brand": "NOISE",
+      "mrp": 6999,
+      "price": 1499,
+      "rating": 4.355555534362793,
+      "ratingCount": 90
+    },
+    {
+      "id": 36808250,
+      "name": "boAt Storm Infinity Smartwatch With 550mAh 15 Days Battery 1.83\\\"(4.65cm) HD Display BT Calling",
+      "brand": "boAt",
+      "mrp": 5999,
+      "price": 1599,
+      "rating": 4.324561595916748,
+      "ratingCount": 456
+    },
+    {
+      "id": 36808255,
+      "name": "boAt Storm Infinity Smartwatch With 550mAh 15 Days Battery 1.83\\\"(4.65cm) HD Display BT Calling",
+      "brand": "boAt",
+      "mrp": 6299,
+      "price": 1799,
+      "rating": 4.333333492279053,
+      "ratingCount": 447
+    },
+    {
+      "id": 32756195,
+      "name": "boAt Ultima Prime Smartwatch1.43\\\" AMOLED DisplayFitness NudgesWatch Face StudioSports Modes",
+      "brand": "boAt",
+      "mrp": 8999,
+      "price": 2199,
+      "rating": 4.353333473205566,
+      "ratingCount": 150
+    },
+    {
+      "id": 37528158,
+      "name": "Fastrack Sleek 1.32\" AMOLED 42mm Display, Rotary Crown, Health Suite, IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 5999,
+      "price": 4399,
+      "rating": 3.9166667461395264,
+      "ratingCount": 12
+    },
+    {
+      "id": 36808259,
+      "name": "boAt Storm Infinity Smartwatch With 550mAh 15 Days Battery 1.83\\\"(4.65cm) HD Display BT Calling",
+      "brand": "boAt",
+      "mrp": 5999,
+      "price": 1599,
+      "rating": 4.329621315002441,
+      "ratingCount": 449
+    },
+    {
+      "id": 32605464,
+      "name": "GOBOULT Trail Pro 2.01'' 3D Curved Display + AMOLED, 600 Nits, IP68 Smartwatch",
+      "brand": "GOBOULT",
+      "mrp": 6999,
+      "price": 1599,
+      "rating": 4.051051139831543,
+      "ratingCount": 333
+    },
+    {
+      "id": 36059141,
+      "name": "iConnect Calling Ace+ 1.83\"-4.6 cm)3D UI Display & BT Calling Smartwatch TWIXW1500T",
+      "brand": "Timex",
+      "mrp": 5495,
+      "price": 1995,
+      "rating": 4.253333568572998,
+      "ratingCount": 75
+    },
+    {
+      "id": 33406148,
+      "name": "iConnect Navigator 1.83\"-4.6cm) Display & BT Calling Unisex Smartwatches TWIXW901T",
+      "brand": "Timex",
+      "mrp": 5495,
+      "price": 1995,
+      "rating": 3.9610390663146973,
+      "ratingCount": 77
+    },
+    {
+      "id": 36766654,
+      "name": "Fastrack VOX Neo 1.91 TFT Display, Offline Voice Command,To Do List, IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 2399,
+      "price": 2399,
+      "rating": 3.8421051502227783,
+      "ratingCount": 19
+    },
+    {
+      "id": 32756185,
+      "name": "boAt Ultima Ember Smartwatch1.96\\\" AMOLED Display Personalized Fitness Nudges100+ Sports Modes",
+      "brand": "boAt",
+      "mrp": 8999,
+      "price": 2199,
+      "rating": 4.169724941253662,
+      "ratingCount": 218
+    },
+    {
+      "id": 32756211,
+      "name": "boAt Ultima Ember Smartwatch1.96\\\" AMOLED Display Personalized Fitness Nudges100+ Sports Modes",
+      "brand": "boAt",
+      "mrp": 8999,
+      "price": 2199,
+      "rating": 4.182222366333008,
+      "ratingCount": 225
+    },
+    {
+      "id": 32605465,
+      "name": "GOBOULT Trail Pro 2.01'' 3D Curved Display + AMOLED, 600 Nits, IP68 Smartwatch",
+      "brand": "GOBOULT",
+      "mrp": 6999,
+      "price": 1799,
+      "rating": 4.04531717300415,
+      "ratingCount": 331
+    },
+    {
+      "id": 34285214,
+      "name": "NOISE Unisex NoiseFit Grace 1.1AMOLED Display Smart Watch",
+      "brand": "NOISE",
+      "mrp": 5999,
+      "price": 3499,
+      "rating": 4.096385478973389,
+      "ratingCount": 83
+    },
+    {
+      "id": 34285205,
+      "name": "Noise ColorFit Pulse 4 Max Smartwatch",
+      "brand": "NOISE",
+      "mrp": 6999,
+      "price": 2499,
+      "rating": 3.8085105419158936,
+      "ratingCount": 47
+    },
+    {
+      "id": 36808251,
+      "name": "boAt Chrome Horizon Smartwatch Video Watch Faces 1.51\\\" AMOLED Display Advanced BT Calling",
+      "brand": "boAt",
+      "mrp": 8999,
+      "price": 3299,
+      "rating": 4.303921699523926,
+      "ratingCount": 102
+    },
+    {
+      "id": 30053561,
+      "name": "boAt Lunar Oasis Smartwatch with TBT Navigation QR Tray Emergency SOS 1.43\"AMOLED Display",
+      "brand": "boAt",
+      "mrp": 13999,
+      "price": 3799,
+      "rating": 4.684210300445557,
+      "ratingCount": 38
+    },
+    {
+      "id": 32756197,
+      "name": "boAt Ultima Ember Smartwatch1.96\\\" AMOLED Display Personalized Fitness Nudges100+ Sports Modes",
+      "brand": "boAt",
+      "mrp": 8999,
+      "price": 2199,
+      "rating": 4.162790775299072,
+      "ratingCount": 215
+    },
+    {
+      "id": 36808254,
+      "name": "boAt Storm Infinity Smartwatch With 550mAh 15 Days Battery 1.83\\\"(4.65cm) HD Display BT Calling",
+      "brand": "boAt",
+      "mrp": 5999,
+      "price": 1599,
+      "rating": 4.331110954284668,
+      "ratingCount": 450
+    },
+    {
+      "id": 39405906,
+      "name": "realme Watch 5 1.97\" AMOLED Display Upto IP68 Smartwatch",
+      "brand": "Realme",
+      "mrp": 7999,
+      "price": 4499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 32771559,
+      "name": "boAt Ultima Prime Smartwatch1.43\\\" AMOLED DisplayFitness NudgesWatch Face StudioSports Modes",
+      "brand": "boAt",
+      "mrp": 8999,
+      "price": 2199,
+      "rating": 4.3262410163879395,
+      "ratingCount": 141
+    },
+    {
+      "id": 39405903,
+      "name": "realme Watch 5 1.97\" AMOLED Display Upto IP68 Smartwatch",
+      "brand": "Realme",
+      "mrp": 7999,
+      "price": 4499,
+      "rating": 3.8888888359069824,
+      "ratingCount": 9
+    },
+    {
+      "id": 37528155,
+      "name": "Fastrack Sleek 1.32\" AMOLED 42mm Display, Rotary Crown, Health Suite, IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 6499,
+      "price": 4999,
+      "rating": 3.8181817531585693,
+      "ratingCount": 11
+    },
+    {
+      "id": 36766655,
+      "name": "Fastrack VOX Neo 1.91 TFT Display, Offline Voice Command,To Do List, IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 2399,
+      "price": 2399,
+      "rating": 3.9000000953674316,
+      "ratingCount": 20
+    },
+    {
+      "id": 37685192,
+      "name": "Smart Neo 1.43\"-3.6cm) AMOLED Display with BT Calling Unisex Smartwatches TWTXW1204T",
+      "brand": "Timex",
+      "mrp": 9995,
+      "price": 4795,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 37528156,
+      "name": "Fastrack Sleek 1.32\" AMOLED 42mm Display, Rotary Crown, Health Suite, IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 5999,
+      "price": 4399,
+      "rating": 3.9166667461395264,
+      "ratingCount": 12
+    },
+    {
+      "id": 36766653,
+      "name": "Fastrack VOX Pro 1.38\" TFT Display, Offline Voice Commands,To Do List, IP68 Smartwatch",
+      "brand": "Fastrack",
+      "mrp": 2399,
+      "price": 2399,
+      "rating": 4.175000190734863,
+      "ratingCount": 40
+    },
+    {
+      "id": 35489000,
+      "name": "nervfit Activ Pro Smart Watch",
+      "brand": "nervfit",
+      "mrp": 8999,
+      "price": 1820,
+      "rating": 3.7295596599578857,
+      "ratingCount": 159
+    },
+    {
+      "id": 32605467,
+      "name": "GOBOULT Trail Pro 2.01'' 3D Curved Display + AMOLED, 600 Nits, IP68 Smartwatch",
+      "brand": "GOBOULT",
+      "mrp": 6999,
+      "price": 1799,
+      "rating": 4.051051139831543,
+      "ratingCount": 333
+    },
+    {
+      "id": 36808257,
+      "name": "boAt Storm Infinity Smartwatch With 550mAh 15 Days Battery 1.83\\\"(4.65cm) HD Display BT Calling",
+      "brand": "boAt",
+      "mrp": 5999,
+      "price": 1599,
+      "rating": 4.3318681716918945,
+      "ratingCount": 455
+    },
+    {
+      "id": 34762362,
+      "name": "Timex iConnect Arc 2.01\"-5.1 cm) Display & BT Calling Unisex Smartwatches TWIXW1400T",
+      "brand": "Timex",
+      "mrp": 5495,
+      "price": 1695,
+      "rating": 4,
+      "ratingCount": 43
+    },
+    {
+      "id": 33566256,
+      "name": "GOBOULT Crown R Pro 2 1.43''HD AMOLED, BT Calling, Zinc Alloy Frame Smartwatch",
+      "brand": "GOBOULT",
+      "mrp": 7499,
+      "price": 2799,
+      "rating": 4.324675559997559,
+      "ratingCount": 77
+    },
+    {
+      "id": 33790779,
+      "name": "GOBOULT Mirage 1.39\" Screen, Working Crown, Zinc Alloy Frame Smartwatch",
+      "brand": "GOBOULT",
+      "mrp": 4999,
+      "price": 1899,
+      "rating": 3.9676673412323,
+      "ratingCount": 433
+    },
+    {
+      "id": 36059139,
+      "name": "iConnect Calling Ace+ 1.83\"-4.6 cm) 3D UI Display & BT Calling Smartwatch TWIXW1502T",
+      "brand": "Timex",
+      "mrp": 5495,
+      "price": 1995,
+      "rating": 4.253333568572998,
+      "ratingCount": 75
+    },
+    {
+      "id": 34285206,
+      "name": "Noise ColorFit Pulse 4 Max Smartwatch",
+      "brand": "NOISE",
+      "mrp": 6999,
+      "price": 2499,
+      "rating": 4.207316875457764,
+      "ratingCount": 82
+    },
+    {
+      "id": 32649073,
+      "name": "nervfit Women Vibe Water Resistant Smart Watch TVIBE-DPINK-BM-Orchid Pink",
+      "brand": "nervfit",
+      "mrp": 7999,
+      "price": 1599,
+      "rating": 4,
+      "ratingCount": 158
+    },
+    {
+      "id": 37685178,
+      "name": "Smart Neo 1.43\"-3.6cm) AMOLED Display with BT Calling Unisex Smartwatches TWTXW1201T",
+      "brand": "Timex",
+      "mrp": 9995,
+      "price": 4795,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 34762360,
+      "name": "Smart Nova 1.43\"-3.6cm) AMOLED Display & BT Calling Unisex Smartwatches TWTXW1002T",
+      "brand": "Timex",
+      "mrp": 8995,
+      "price": 4495,
+      "rating": 4.4666666984558105,
+      "ratingCount": 15
+    },
+    {
+      "id": 32756206,
+      "name": "boAt Ultima Prime Smartwatch1.43\\\" AMOLED DisplayFitness NudgesWatch Face StudioSports Modes",
+      "brand": "boAt",
+      "mrp": 8999,
+      "price": 2199,
+      "rating": 4.3509931564331055,
+      "ratingCount": 151
+    },
+    {
+      "id": 32649071,
+      "name": "nervfit Orion S1 1.43\" AMOLED Unisex Smart Watch with AOD",
+      "brand": "nervfit",
+      "mrp": 21999,
+      "price": 2299,
+      "rating": 3.7295596599578857,
+      "ratingCount": 159
+    },
+    {
+      "id": 37685182,
+      "name": "Smart Neo 1.43\"-3.6cm) AMOLED Display with BT Calling Unisex Smartwatches TWTXW1202T",
+      "brand": "Timex",
+      "mrp": 9995,
+      "price": 4995,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33406144,
+      "name": "iConnect Navigator 1.83\"-4.6cm) Display & BT Calling Unisex Smartwatches TWIXW904T",
+      "brand": "Timex",
+      "mrp": 5995,
+      "price": 2395,
+      "rating": 3.9610390663146973,
+      "ratingCount": 77
+    },
+    {
+      "id": 35501208,
+      "name": "nervfit Anti Bacterial Orion S1 Smart Watch",
+      "brand": "nervfit",
+      "mrp": 17999,
+      "price": 2299,
+      "rating": 3.7278480529785156,
+      "ratingCount": 158
+    },
+    {
+      "id": 33764032,
+      "name": "Decathlon DOMYOS - 3Pcs Fitness Training Bands",
+      "brand": "Decathlon",
+      "mrp": 2249,
+      "price": 1899,
+      "rating": 4.875,
+      "ratingCount": 8
+    },
+    {
+      "id": 33406149,
+      "name": "iConnect Navigator 1.83\"-4.6cm) Display & BT Calling Unisex Smartwatches TWIXW900T",
+      "brand": "Timex",
+      "mrp": 5495,
+      "price": 1995,
+      "rating": 3.9610390663146973,
+      "ratingCount": 77
+    },
+    {
+      "id": 36059138,
+      "name": "iConnect Calling Ace+ 1.83\"-4.6 cm) 3D UI Display & BT Calling Smartwatch TWIXW1503T",
+      "brand": "Timex",
+      "mrp": 5495,
+      "price": 1995,
+      "rating": 4.253333568572998,
+      "ratingCount": 75
+    },
+    {
+      "id": 36808263,
+      "name": "boAt Storm Infinity Max Smartwatch With 20 Days Battery 2.01\" Display AI Nudges BT Calling",
+      "brand": "boAt",
+      "mrp": 6499,
+      "price": 1699,
+      "rating": 4.480769157409668,
+      "ratingCount": 52
+    },
+    {
+      "id": 34882226,
+      "name": "Fastrack Rider Plus with 1.83 Inch TFT Display BT Calling IP68 Feature Smartwatch",
+      "brand": "Fastrack",
+      "mrp": 1749,
+      "price": 1749,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33076518,
+      "name": "GOBOULT Pyro Rotating Bezel, 1.43\" AMOLED, 600 Nits, BT Calling, IP68 Smartwatch",
+      "brand": "GOBOULT",
+      "mrp": 7999,
+      "price": 2299,
+      "rating": 3.9488637447357178,
+      "ratingCount": 176
+    },
+    {
+      "id": 36766658,
+      "name": "Fastrack VOX CirQ 1.38 TFT Display, Offline Voice Command,To Do List, IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 3999,
+      "price": 3999,
+      "rating": 3.825000047683716,
+      "ratingCount": 40
+    },
+    {
+      "id": 33383390,
+      "name": "nervfit Unisex Sports Smartwatch With 1.4\" NervX Super HD Display BLAZE-TGOLD-BM",
+      "brand": "nervfit",
+      "mrp": 12999,
+      "price": 2249,
+      "rating": 3.8947367668151855,
+      "ratingCount": 19
+    },
+    {
+      "id": 33406143,
+      "name": "iConnect Navigator 1.83\"-4.6cm) Display & BT Calling Unisex Smartwatches TWIXW903T",
+      "brand": "Timex",
+      "mrp": 5495,
+      "price": 1995,
+      "rating": 3.9610390663146973,
+      "ratingCount": 77
+    },
+    {
+      "id": 35489001,
+      "name": "nervfit Active Pro Smart Watch",
+      "brand": "nervfit",
+      "mrp": 8999,
+      "price": 1871,
+      "rating": 3.7278480529785156,
+      "ratingCount": 158
+    },
+    {
+      "id": 33406150,
+      "name": "iConnect Navigator 1.83\"-4.6cm) Display & BT Calling Unisex Smartwatches TWIXW902T",
+      "brand": "Timex",
+      "mrp": 5495,
+      "price": 1995,
+      "rating": 3.9610390663146973,
+      "ratingCount": 77
+    },
+    {
+      "id": 33406147,
+      "name": "Smart NexGen 1.43\"-3.6cm) AMOLED Display & BT Calling Unisex Smartwatches TWTXW702T",
+      "brand": "Timex",
+      "mrp": 7495,
+      "price": 3995,
+      "rating": 4.388888835906982,
+      "ratingCount": 54
+    },
+    {
+      "id": 31715136,
+      "name": "Timex iConnect Go 1.38\"-3.50 cm) Display & BT Calling Unisex Smartwatches TWIXW801T",
+      "brand": "Timex",
+      "mrp": 5995,
+      "price": 2595,
+      "rating": 3.8333332538604736,
+      "ratingCount": 132
+    },
+    {
+      "id": 30924498,
+      "name": "boAt Enigma Orion Men's Luxury Smartwatch With 1.39\\\" HD Display BT Calling7 Days Battery",
+      "brand": "boAt",
+      "mrp": 8999,
+      "price": 2499,
+      "rating": 4.066115856170654,
+      "ratingCount": 121
+    },
+    {
+      "id": 21712462,
+      "name": "Helix By Timex Water Resistant Smart Watches TW0HXW700T",
+      "brand": "Helix",
+      "mrp": 3995,
+      "price": 3995,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 30924496,
+      "name": "boAt Enigma Radiant Smartwatch",
+      "brand": "boAt",
+      "mrp": 8999,
+      "price": 2999,
+      "rating": 4.2727274894714355,
+      "ratingCount": 66
+    },
+    {
+      "id": 31715113,
+      "name": "Smart Progen 1.95\" -4.95 cm) Curved AMOLED Display & BT Calling For Unisex TWTXW802T",
+      "brand": "Timex",
+      "mrp": 7495,
+      "price": 3495,
+      "rating": 3.929292917251587,
+      "ratingCount": 99
+    },
+    {
+      "id": 30924516,
+      "name": "boAt Enigma Radiant Luxury Watch With Upto 6 Days Battery Guided Breathing 1.43\" AMOLED Display",
+      "brand": "boAt",
+      "mrp": 8999,
+      "price": 2999,
+      "rating": 4.2727274894714355,
+      "ratingCount": 66
+    },
+    {
+      "id": 25743622,
+      "name": "NOISE ColorFit Pro 5 Smartwatch",
+      "brand": "NOISE",
+      "mrp": 9999,
+      "price": 3999,
+      "rating": 4.3255815505981445,
+      "ratingCount": 43
+    },
+    {
+      "id": 37685181,
+      "name": "Smart Halo 1.32\"-3.3cm) AMOLED Display & BT Calling Unisex Smartwatches TWTXW1101T",
+      "brand": "Timex",
+      "mrp": 9995,
+      "price": 4495,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 37685179,
+      "name": "Smart Halo 1.32\"-3.3cm) AMOLED Display with BT Calling Unisex Smartwatches TWTXW1100T",
+      "brand": "Timex",
+      "mrp": 9995,
+      "price": 4495,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33406139,
+      "name": "Smart NexGen 1.43\"-3.6cm) AMOLED Display & BT Calling Unisex Smartwatches TWTXW700T",
+      "brand": "Timex",
+      "mrp": 7995,
+      "price": 4995,
+      "rating": 4.377358436584473,
+      "ratingCount": 53
+    },
+    {
+      "id": 33406146,
+      "name": "Smart NexGen 1.43\"-3.6cm) AMOLED Display & BT Calling Unisex Smartwatches TWTXW703T",
+      "brand": "Timex",
+      "mrp": 7495,
+      "price": 3995,
+      "rating": 4.388888835906982,
+      "ratingCount": 54
+    },
+    {
+      "id": 26152914,
+      "name": "HAMMER Midnight Blue Arctic 2.04 Inch SUPER AMOLED Smart Watch with AI Voice Assistant",
+      "brand": "HAMMER",
+      "mrp": 8999,
+      "price": 2134,
+      "rating": 3.75,
+      "ratingCount": 20
+    },
+    {
+      "id": 31622144,
+      "name": "Fastrack Magnus FX2 BT Calling 1.32 Ultra VU Display Functional Crown IP67 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 7995,
+      "price": 4499,
+      "rating": 4.2784810066223145,
+      "ratingCount": 79
+    },
+    {
+      "id": 34762361,
+      "name": "Smart Nova 1.43\"-3.6cm) AMOLED Display & BT Calling Unisex Smartwatches TWTXW1001T",
+      "brand": "Timex",
+      "mrp": 8995,
+      "price": 4495,
+      "rating": 4.4666666984558105,
+      "ratingCount": 15
+    },
+    {
+      "id": 34762358,
+      "name": "Smart Nova 1.43\"-3.6cm) AMOLED Display & BT Calling Unisex Smartwatches TWTXW1000T",
+      "brand": "Timex",
+      "mrp": 8995,
+      "price": 4495,
+      "rating": 4.4666666984558105,
+      "ratingCount": 15
+    },
+    {
+      "id": 33383387,
+      "name": "nervfit Phoenix Sports Smartwatch With 1.85\" NervX HD Display OENIX-DGREY-BM",
+      "brand": "nervfit",
+      "mrp": 10999,
+      "price": 2095,
+      "rating": 2.625,
+      "ratingCount": 16
+    },
+    {
+      "id": 33383395,
+      "name": "nervfit Blaze Unisex Rugged Sports Analogue and Digital Smartwatch",
+      "brand": "nervfit",
+      "mrp": 12999,
+      "price": 2449,
+      "rating": 3.75,
+      "ratingCount": 20
+    },
+    {
+      "id": 31715127,
+      "name": "Timex iConnect Edge 1.83\"-4.64 cm) Display & BT Calling Unisex Smartwatches TWIXW700T",
+      "brand": "Timex",
+      "mrp": 5995,
+      "price": 2195,
+      "rating": 3.0833332538604736,
+      "ratingCount": 24
+    },
+    {
+      "id": 25960518,
+      "name": "French Connection Beam Premium Smart Watches",
+      "brand": "French Connection",
+      "mrp": 10995,
+      "price": 2089,
+      "rating": 3.200000047683716,
+      "ratingCount": 25
+    },
+    {
+      "id": 34762364,
+      "name": "Smart Nova 1.43\"-3.6cm) AMOLED Display with BT Calling Unisex Smartwatches TWTXW1004T",
+      "brand": "Timex",
+      "mrp": 9995,
+      "price": 4995,
+      "rating": 4.4666666984558105,
+      "ratingCount": 15
+    },
+    {
+      "id": 37685191,
+      "name": "Smart Neo 1.43\"-3.6cm) AMOLED Display & BT Calling Unisex Smartwatches TWTXW1203T",
+      "brand": "Timex",
+      "mrp": 9995,
+      "price": 4795,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 31715122,
+      "name": "iConnect Calling Ace 1.83\"-4.64 cm) Display & BT Calling Unisex Smartwatches TWIXW1102T",
+      "brand": "Timex",
+      "mrp": 4995,
+      "price": 1795,
+      "rating": 3.9811320304870605,
+      "ratingCount": 53
+    },
+    {
+      "id": 31715107,
+      "name": "iConnect Calling Ace 1.83\"-4.64 cm) Display & BT Calling Unisex Smartwatches TWIXW1100T",
+      "brand": "Timex",
+      "mrp": 4995,
+      "price": 1795,
+      "rating": 3.9811320304870605,
+      "ratingCount": 53
+    },
+    {
+      "id": 36808260,
+      "name": "boAt Storm Infinity Smartwatch With 550mAh 15 Days Battery 1.83\\\"(4.65cm) HD Display BT Calling",
+      "brand": "boAt",
+      "mrp": 5999,
+      "price": 1599,
+      "rating": 4.329621315002441,
+      "ratingCount": 449
+    },
+    {
+      "id": 33406145,
+      "name": "Smart NexGen 1.43\"-3.6cm) AMOLED Display & BT Calling Unisex Smartwatches TWTXW701T",
+      "brand": "Timex",
+      "mrp": 7995,
+      "price": 4995,
+      "rating": 4.388888835906982,
+      "ratingCount": 54
+    },
+    {
+      "id": 34762363,
+      "name": "Timex iConnect Arc 2.01\"-5.1 cm) Display & BT Calling Unisex Smartwatches TWIXW1403T",
+      "brand": "Timex",
+      "mrp": 5495,
+      "price": 1695,
+      "rating": 4,
+      "ratingCount": 43
+    },
+    {
+      "id": 28865174,
+      "name": "Timex Blue Bluetooth Smart Watches",
+      "brand": "Timex",
+      "mrp": 4995,
+      "price": 1795,
+      "rating": 4.300000190734863,
+      "ratingCount": 10
+    },
+    {
+      "id": 24753418,
+      "name": "Fire-Boltt Crusader 1.43\" Amoled Display Bluetooth Calling Smartwatch",
+      "brand": "Fire-Boltt",
+      "mrp": 18999,
+      "price": 2999,
+      "rating": 4.485619068145752,
+      "ratingCount": 3894
+    },
+    {
+      "id": 34762357,
+      "name": "Timex iConnect Arc 2.01\"-5.1 cm) Display & BT Calling Unisex Smartwatches TWIXW1402T",
+      "brand": "Timex",
+      "mrp": 5495,
+      "price": 1695,
+      "rating": 4,
+      "ratingCount": 43
+    },
+    {
+      "id": 34151126,
+      "name": "iConnect Calling Lite 1.83\"-4.6cm) Display and BT Calling Unisex Smartwatches TWIXW603T",
+      "brand": "Timex",
+      "mrp": 4495,
+      "price": 1695,
+      "rating": 4.130434989929199,
+      "ratingCount": 46
+    },
+    {
+      "id": 25862670,
+      "name": "French Connection Nexus Premium Smart Watch",
+      "brand": "French Connection",
+      "mrp": 12995,
+      "price": 1999,
+      "rating": 3.6578948497772217,
+      "ratingCount": 38
+    },
+    {
+      "id": 21866786,
+      "name": "Timex Digital Dial Activity Tracking Smart Watches TWTXW206T",
+      "brand": "Timex",
+      "mrp": 5995,
+      "price": 4995,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 24918762,
+      "name": "Timex iConnect Bluetooth Water Resistance Call Function Smart Watch",
+      "brand": "Timex",
+      "mrp": 4995,
+      "price": 1995,
+      "rating": 3.9154930114746094,
+      "ratingCount": 71
+    },
+    {
+      "id": 18676574,
+      "name": "GIORDANO Unisex Silver Smart Watch",
+      "brand": "GIORDANO",
+      "mrp": 11400,
+      "price": 4950,
+      "rating": 3.370370388031006,
+      "ratingCount": 27
+    },
+    {
+      "id": 26084558,
+      "name": "Nu Republic Creed Max with 1.43\" HD IPS Display Smartwatch With BT Calling & Music",
+      "brand": "Nu Republic",
+      "mrp": 12999,
+      "price": 2199,
+      "rating": 3.2333333492279053,
+      "ratingCount": 30
+    },
+    {
+      "id": 31715104,
+      "name": "iConnect Go+ 1.83\"-4.64 cm) Display & Metallic Body, BT Calling Smartwatch TWIXW1003T",
+      "brand": "Timex",
+      "mrp": 5495,
+      "price": 2195,
+      "rating": 3.58730149269104,
+      "ratingCount": 63
+    },
+    {
+      "id": 34151135,
+      "name": "iConnect Calling Lite 1.83\"-4.6cm) Display & BT Calling Unisex Smartwatches TWIXW602T",
+      "brand": "Timex",
+      "mrp": 4495,
+      "price": 1695,
+      "rating": 4.130434989929199,
+      "ratingCount": 46
+    },
+    {
+      "id": 19304368,
+      "name": "pebble Unisex Midnight Spark 1.7 Inch BT Calling With SPO2 Smartwatch PFB23",
+      "brand": "pebble",
+      "mrp": 4499,
+      "price": 2529,
+      "rating": 3.0357143878936768,
+      "ratingCount": 56
+    },
+    {
+      "id": 31715123,
+      "name": "iConnect Go+ 1.83\"-4.64 cm) Display and BT Calling Unisex Smartwatches TWIXW1001T",
+      "brand": "Timex",
+      "mrp": 5495,
+      "price": 1895,
+      "rating": 3.58730149269104,
+      "ratingCount": 63
+    },
+    {
+      "id": 34151143,
+      "name": "iConnect Calling Lite 1.83\"-4.6cm) Display and BT Calling Unisex Smartwatches TWIXW604T",
+      "brand": "Timex",
+      "mrp": 4495,
+      "price": 1695,
+      "rating": 4.130434989929199,
+      "ratingCount": 46
+    },
+    {
+      "id": 25862672,
+      "name": "French Connection Nexus Premium Smart Watch",
+      "brand": "French Connection",
+      "mrp": 12995,
+      "price": 2499,
+      "rating": 3.621621608734131,
+      "ratingCount": 37
+    },
+    {
+      "id": 34762356,
+      "name": "Smart Nova 1.43\"-3.6cm) AMOLED Display and BT Calling Unisex Smartwatches TWTXW1003T",
+      "brand": "Timex",
+      "mrp": 9995,
+      "price": 4995,
+      "rating": 4.4666666984558105,
+      "ratingCount": 15
+    },
+    {
+      "id": 18676578,
+      "name": "GIORDANO Unisex Black Dial Smartwatch",
+      "brand": "GIORDANO",
+      "mrp": 11400,
+      "price": 4950,
+      "rating": 3.370370388031006,
+      "ratingCount": 27
+    },
+    {
+      "id": 37685176,
+      "name": "Smart Neo 1.43\"-3.6cm) AMOLED Display with BT Calling Unisex Smartwatches TWTXW1200T",
+      "brand": "Timex",
+      "mrp": 8995,
+      "price": 4495,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 31715126,
+      "name": "Timex iConnect Edge 1.83\"-4.64 cm) Display & BT Calling Unisex Smartwatches TWIXW703T",
+      "brand": "Timex",
+      "mrp": 5995,
+      "price": 2195,
+      "rating": 3.0833332538604736,
+      "ratingCount": 24
+    },
+    {
+      "id": 21712468,
+      "name": "Helix By Timex Water Resistant Smart Watch TW0HXW701T",
+      "brand": "Helix",
+      "mrp": 3995,
+      "price": 3995,
+      "rating": 2.923076868057251,
+      "ratingCount": 13
+    },
+    {
+      "id": 24918754,
+      "name": "Timex iConnect Smart Watch With Bluetooth Calling",
+      "brand": "Timex",
+      "mrp": 4995,
+      "price": 1995,
+      "rating": 4.0714287757873535,
+      "ratingCount": 14
+    },
+    {
+      "id": 35488999,
+      "name": "nervfit Kinetic Pro2 Sports Smart Watch",
+      "brand": "nervfit",
+      "mrp": 13999,
+      "price": 3489,
+      "rating": 3.8947367668151855,
+      "ratingCount": 19
+    },
+    {
+      "id": 34151132,
+      "name": "iConnect Calling Lite 1.83\"-4.6cm) Display and BT Calling Unisex Smartwatches TWIXW601T",
+      "brand": "Timex",
+      "mrp": 4495,
+      "price": 1695,
+      "rating": 4.130434989929199,
+      "ratingCount": 46
+    },
+    {
+      "id": 25673062,
+      "name": "HAMMER Glide 1.43\" AMOLED Round Dial Smart Watch with Calling Function Electric Blue",
+      "brand": "HAMMER",
+      "mrp": 8999,
+      "price": 2228,
+      "rating": 3.5999999046325684,
+      "ratingCount": 15
+    },
+    {
+      "id": 33383384,
+      "name": "Nervfit Phoenix Sports Smartwatch With 1.85\" NervX HD Display OENIX-BLACK-BM",
+      "brand": "nervfit",
+      "mrp": 10999,
+      "price": 2099,
+      "rating": 2.625,
+      "ratingCount": 16
+    },
+    {
+      "id": 32651505,
+      "name": "Fastrack X2 1.91 Inch BT Calling Rotating Crown 60 Hz Refresh Rate Fast Charge Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 2995,
+      "price": 2995,
+      "rating": 4.384615421295166,
+      "ratingCount": 39
+    },
+    {
+      "id": 19993498,
+      "name": "Timex Black & Blue Solid Smart Watches TWTXW201T",
+      "brand": "Timex",
+      "mrp": 5995,
+      "price": 4995,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 19374862,
+      "name": "Timex Black & Blue Solid Digital Fit 2.0 Smartwatch",
+      "brand": "Timex",
+      "mrp": 5995,
+      "price": 4995,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 32651972,
+      "name": "Fastrack X2 1.91 Inch BT Calling Rotating Crown 60 Hz Refresh Rate Fast Charge Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 2995,
+      "price": 2995,
+      "rating": 4.384615421295166,
+      "ratingCount": 39
+    },
+    {
+      "id": 23529206,
+      "name": "NOISE Crew With BT Calling & Metallic Finish IP68 Rating 1.38\" Round Display Smartwatch",
+      "brand": "NOISE",
+      "mrp": 4999,
+      "price": 1599,
+      "rating": 4.304295539855957,
+      "ratingCount": 6635
+    },
+    {
+      "id": 30924519,
+      "name": "boAt Lunar Discovery Smartwatch With 1.39\" HD Display TBT Navigation BT Calling Emergency SOS",
+      "brand": "boAt",
+      "mrp": 8499,
+      "price": 1499,
+      "rating": 4.261845588684082,
+      "ratingCount": 401
+    },
+    {
+      "id": 23529196,
+      "name": "NOISE Crew With BT Calling & Metallic Finish IP68 Rating 1.38\" Round Display Smartwatch",
+      "brand": "NOISE",
+      "mrp": 4999,
+      "price": 1599,
+      "rating": 4.304387092590332,
+      "ratingCount": 6633
+    },
+    {
+      "id": 25223262,
+      "name": "boAt Unisex Wave Fury Bluetooth Calling With Upto 30 Days Battery Life HD Smartwatch",
+      "brand": "boAt",
+      "mrp": 6999,
+      "price": 1399,
+      "rating": 4.1551899909973145,
+      "ratingCount": 1946
+    },
+    {
+      "id": 23529202,
+      "name": "NOISE Crew With BT Calling & Metallic Finish IP68 Rating 1.38\" Round Display Smartwatch",
+      "brand": "NOISE",
+      "mrp": 4999,
+      "price": 1599,
+      "rating": 4.304190635681152,
+      "ratingCount": 6634
+    },
+    {
+      "id": 30141371,
+      "name": "CMF by Nothing Watch Pro 2, 1.32\" AMOLED, Auto-brightness, Gesture Control, 3D Guide, GPS",
+      "brand": "CMF by Nothing",
+      "mrp": 6499,
+      "price": 5499,
+      "rating": 4.503307819366455,
+      "ratingCount": 3930
+    },
+    {
+      "id": 23529200,
+      "name": "NOISE Crew With BT Calling & Metallic Finish IP68 Rating 1.38\" Round Display Smartwatch",
+      "brand": "NOISE",
+      "mrp": 4999,
+      "price": 1599,
+      "rating": 4.3043413162231445,
+      "ratingCount": 6634
+    },
+    {
+      "id": 16934968,
+      "name": "NOISE ColorFit Icon Buzz Sleep Monitor With Voice Assistant Bluetooth Calling Smartwatch",
+      "brand": "NOISE",
+      "mrp": 4999,
+      "price": 1499,
+      "rating": 4.191817760467529,
+      "ratingCount": 64139
+    },
+    {
+      "id": 20964448,
+      "name": "NOISE ColorFit Icon Buzz Sleep Monitor With Voice Assistant Bluetooth Calling Smartwatch",
+      "brand": "NOISE",
+      "mrp": 4999,
+      "price": 1499,
+      "rating": 4.191853046417236,
+      "ratingCount": 64148
+    },
+    {
+      "id": 25223178,
+      "name": "boAt Unisex Wave Fury Bluetooth Calling With Upto 30 Days Battery Life HD Smartwatch",
+      "brand": "boAt",
+      "mrp": 6999,
+      "price": 1399,
+      "rating": 4.155590057373047,
+      "ratingCount": 1941
+    },
+    {
+      "id": 28409790,
+      "name": "boAt Wave Sigma 3 Smartwatch With Turn-by-Turn Navigation 2.01\" HD Display Crest+ OS QR Tray",
+      "brand": "boAt",
+      "mrp": 8999,
+      "price": 1499,
+      "rating": 4.127354145050049,
+      "ratingCount": 1115
+    },
+    {
+      "id": 30687830,
+      "name": "Crest 1.43 AMOLED AOD Working Crown BT & SOS Calling Health Suite IP68 Smart Watch",
+      "brand": "Titan",
+      "mrp": 5999,
+      "price": 5999,
+      "rating": 4.277777671813965,
+      "ratingCount": 126
+    },
+    {
+      "id": 23529198,
+      "name": "NOISE Crew With BT Calling & Metallic Finish IP68 Rating 1.38\" Round Display Smartwatch",
+      "brand": "NOISE",
+      "mrp": 4999,
+      "price": 1599,
+      "rating": 4.304795265197754,
+      "ratingCount": 6611
+    },
+    {
+      "id": 30780765,
+      "name": "Styler FS1 Pro1.97 AMOLED Display Functional Crown BT Calling IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 4999,
+      "price": 4999,
+      "rating": 4.46610164642334,
+      "ratingCount": 354
+    },
+    {
+      "id": 20964446,
+      "name": "NOISE ColorFit Icon Buzz Sleep Monitor With Voice Assistant Bluetooth Calling Smartwatch",
+      "brand": "NOISE",
+      "mrp": 4999,
+      "price": 1499,
+      "rating": 4.191853046417236,
+      "ratingCount": 64148
+    },
+    {
+      "id": 27649534,
+      "name": "boAt Storm Call 3 Bluetooth Calling With SOS & Navigation Support HD Display Smartwatch",
+      "brand": "boAt",
+      "mrp": 8499,
+      "price": 1399,
+      "rating": 4.0523810386657715,
+      "ratingCount": 630
+    },
+    {
+      "id": 28409776,
+      "name": "boAt Wave Sigma 3 Smartwatch With Turn-by-Turn Navigation 2.01\" HD Display Crest+ OS QR Tray",
+      "brand": "boAt",
+      "mrp": 8999,
+      "price": 1499,
+      "rating": 4.127240180969238,
+      "ratingCount": 1116
+    },
+    {
+      "id": 24364456,
+      "name": "Fire-Boltt Emerald Gemstone-Studded Smartwatch With 1.09 HD Display & Wireless charging",
+      "brand": "Fire-Boltt",
+      "mrp": 14999,
+      "price": 7999,
+      "rating": 4.2727274894714355,
+      "ratingCount": 154
+    },
+    {
+      "id": 20415010,
+      "name": "Fitbit Versa 4 Fitness Watch with Daily Readiness Score + Call + Google Assist.",
+      "brand": "Fitbit",
+      "mrp": 20499,
+      "price": 19399,
+      "rating": 4.222222328186035,
+      "ratingCount": 99
+    },
+    {
+      "id": 25223166,
+      "name": "boAt Unisex Wave Fury Bluetooth Calling With Upto 30 Days Battery Life HD Smartwatch",
+      "brand": "boAt",
+      "mrp": 6999,
+      "price": 1399,
+      "rating": 4.155590057373047,
+      "ratingCount": 1941
+    },
+    {
+      "id": 25223248,
+      "name": "boAt Unisex Wave Fury Bluetooth Calling With Upto 30 Days Battery Life HD Smartwatch",
+      "brand": "boAt",
+      "mrp": 7499,
+      "price": 1899,
+      "rating": 4.156024932861328,
+      "ratingCount": 1942
+    },
+    {
+      "id": 30141370,
+      "name": "CMF by Nothing Watch Pro 2, 1.32\" AMOLED, Auto-brightness, Gesture Control, 3D Guide, GPS",
+      "brand": "CMF by Nothing",
+      "mrp": 6499,
+      "price": 5499,
+      "rating": 4.502052307128906,
+      "ratingCount": 3898
+    },
+    {
+      "id": 27767492,
+      "name": "NOISE Giga 2.01\" HD Display Smartwatch",
+      "brand": "NOISE",
+      "mrp": 6999,
+      "price": 1399,
+      "rating": 3.9949567317962646,
+      "ratingCount": 1388
+    },
+    {
+      "id": 30780811,
+      "name": "Styler FS2 Pro 1.96 AMOLED Display BT Calling AI Voice Assistant IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 5999,
+      "price": 5999,
+      "rating": 4.354166507720947,
+      "ratingCount": 144
+    },
+    {
+      "id": 22266752,
+      "name": "GOBOULT Drift+ BT Calling, 1.85\" HD, 500 Nits, 150+ Watchfaces Smartwatch",
+      "brand": "GOBOULT",
+      "mrp": 8499,
+      "price": 1199,
+      "rating": 4.12192440032959,
+      "ratingCount": 3617
+    },
+    {
+      "id": 26616466,
+      "name": "Fastrack Classic with 1.91\" Super HD Display BT Calling Smartwatch",
+      "brand": "Fastrack",
+      "mrp": 5995,
+      "price": 5995,
+      "rating": 4.418032646179199,
+      "ratingCount": 122
+    },
+    {
+      "id": 21614890,
+      "name": "NOISE ColorFit Icon Buzz Sleep Monitor With Voice Assistant Bluetooth Calling Smartwatch",
+      "brand": "NOISE",
+      "mrp": 4999,
+      "price": 1499,
+      "rating": 4.191874980926514,
+      "ratingCount": 64146
+    },
+    {
+      "id": 30780752,
+      "name": "Styler X2+ 2.01 UltraVU Display BT Calling Functional Crown IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 2995,
+      "price": 2995,
+      "rating": 4.323529243469238,
+      "ratingCount": 952
+    },
+    {
+      "id": 21383506,
+      "name": "GIORDANO Unisex Black Smart Watch With Bluetooth Voice Calling Health & Sleep Monitoring",
+      "brand": "GIORDANO",
+      "mrp": 12800,
+      "price": 5999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 32226426,
+      "name": "Fastrack Radiant FX4 Bluetooth V5.3 Smart Watch - 38158NM01",
+      "brand": "Fastrack",
+      "mrp": 5499,
+      "price": 5499,
+      "rating": 4.358490467071533,
+      "ratingCount": 106
+    },
+    {
+      "id": 25750592,
+      "name": "CULT Black Burn Plus Live Cricket Score Crown Control 1.78 Inch Amoled Smartwatch",
+      "brand": "CULT",
+      "mrp": 7999,
+      "price": 7999,
+      "rating": 3.9454545974731445,
+      "ratingCount": 110
+    },
+    {
+      "id": 25223162,
+      "name": "boAt Unisex Wave Force 2 1.96\" HD Display Smartwatch With Bluetooth Calling",
+      "brand": "boAt",
+      "mrp": 8999,
+      "price": 2799,
+      "rating": 4.104369163513184,
+      "ratingCount": 412
+    },
+    {
+      "id": 30780753,
+      "name": "Styler FS1 Pro 1.97 AMOLED Display AOD Functional Crown BT Calling IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 4999,
+      "price": 4999,
+      "rating": 4.46610164642334,
+      "ratingCount": 354
+    },
+    {
+      "id": 25644790,
+      "name": "HAMMER Unisex Midnight Black Cyclone 1.39\" Round Shape Smart Watch",
+      "brand": "HAMMER",
+      "mrp": 4999,
+      "price": 1397,
+      "rating": 3.218181848526001,
+      "ratingCount": 55
+    },
+    {
+      "id": 26616480,
+      "name": "Fastrack FS1 Pro with 1.96\" Super Amoled Display with BT Calling Smartwatch",
+      "brand": "Fastrack",
+      "mrp": 7995,
+      "price": 7995,
+      "rating": 4.327160358428955,
+      "ratingCount": 486
+    },
+    {
+      "id": 17079242,
+      "name": "HAMMER Black Pulse 3.0 1.69\" Display Bluetooth calling function Smart Watch",
+      "brand": "HAMMER",
+      "mrp": 9999,
+      "price": 9999,
+      "rating": 4.13223123550415,
+      "ratingCount": 242
+    },
+    {
+      "id": 20415002,
+      "name": "Fitbit Versa 4 Fitness Watch with Daily Readiness Score + Google + Call",
+      "brand": "Fitbit",
+      "mrp": 20499,
+      "price": 19399,
+      "rating": 4.222222328186035,
+      "ratingCount": 99
+    },
+    {
+      "id": 18154274,
+      "name": "DIZO Watch Pro by realme TechLife - Blue Strap",
+      "brand": "DIZO",
+      "mrp": 5999,
+      "price": 5334,
+      "rating": 3.799999952316284,
+      "ratingCount": 25
+    },
+    {
+      "id": 31258504,
+      "name": "iConnect Calling Full Touch 2.04\"-5.18 cm) Amoled with Calling Unisex Smartwatch TWIXW402T",
+      "brand": "Timex",
+      "mrp": 5495,
+      "price": 5495,
+      "rating": 4.1913042068481445,
+      "ratingCount": 230
+    },
+    {
+      "id": 24364422,
+      "name": "Fire-Boltt Emerald Gemstone-Studded Smartwatch With 1.09 HD Display & Wireless charging",
+      "brand": "Fire-Boltt",
+      "mrp": 14999,
+      "price": 7999,
+      "rating": 4.2727274894714355,
+      "ratingCount": 154
+    },
+    {
+      "id": 31610720,
+      "name": "Discovery 1.95 AMOLED Display AOD GPS Vo2 Max BT Calling Health Suite Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 5499,
+      "price": 5499,
+      "rating": 3.588235378265381,
+      "ratingCount": 17
+    },
+    {
+      "id": 16392600,
+      "name": "GOQii Smart Vital Lite with 3 Months Personal Coaching Smart Watch",
+      "brand": "GOQii",
+      "mrp": 5499,
+      "price": 5398,
+      "rating": 3.846153736114502,
+      "ratingCount": 13
+    },
+    {
+      "id": 25673078,
+      "name": "HAMMER  Jet Black Polar 2.01 inch IPS AOD, Advanced Bluetooth Calling Smartwatch",
+      "brand": "HAMMER",
+      "mrp": 5999,
+      "price": 1499,
+      "rating": 3.642857074737549,
+      "ratingCount": 14
+    },
+    {
+      "id": 39655996,
+      "name": "Noise ColorFit Pulse 2 Max 1.85\" Display Multilingual Menu Smart Watch",
+      "brand": "NOISE",
+      "mrp": 5999,
+      "price": 1499,
+      "rating": 4.24411153793335,
+      "ratingCount": 467
+    },
+    {
+      "id": 34185215,
+      "name": "NOISE Icon 2 2025 - 1.81\" Display, 500 NITS Brightness BT Calling Smartwatch",
+      "brand": "NOISE",
+      "mrp": 5999,
+      "price": 1399,
+      "rating": 4.286989688873291,
+      "ratingCount": 1568
+    },
+    {
+      "id": 32531503,
+      "name": "GOBOULT Trail 2.01\" 3D Curved Display, Working Crown, Health Track Smartwatch",
+      "brand": "GOBOULT",
+      "mrp": 6999,
+      "price": 1499,
+      "rating": 4.184140682220459,
+      "ratingCount": 1879
+    },
+    {
+      "id": 32551059,
+      "name": "GOBOULT Trail 2.01\" 3D Curved Display, Working Crown, Health Track Smartwatch",
+      "brand": "GOBOULT",
+      "mrp": 6999,
+      "price": 1499,
+      "rating": 4.182060718536377,
+      "ratingCount": 1873
+    },
+    {
+      "id": 39656000,
+      "name": "Noise ColorFit Pulse 2 Max 1.85\" Display Multilingual Menu Smart Watch",
+      "brand": "NOISE",
+      "mrp": 5999,
+      "price": 1499,
+      "rating": 4.3586955070495605,
+      "ratingCount": 368
+    },
+    {
+      "id": 39655999,
+      "name": "Noise ColorFit Pulse 2 Max 1.85\" Display Multilingual Menu Smart Watch",
+      "brand": "NOISE",
+      "mrp": 5999,
+      "price": 1499,
+      "rating": 4.4285712242126465,
+      "ratingCount": 105
+    },
+    {
+      "id": 20415014,
+      "name": "Fitbit Inspire 3 Fitness Tracker with Skin Temp. Heart Rate",
+      "brand": "Fitbit",
+      "mrp": 8999,
+      "price": 8799,
+      "rating": 4.403669834136963,
+      "ratingCount": 109
+    },
+    {
+      "id": 39655998,
+      "name": "Noise ColorFit Pulse 2 Max 1.85\" Display Multilingual Menu Smart Watch",
+      "brand": "NOISE",
+      "mrp": 5999,
+      "price": 1499,
+      "rating": 4.310344696044922,
+      "ratingCount": 174
+    },
+    {
+      "id": 37528157,
+      "name": "Fastrack Navstar 1.85\" AMOLED with GPS, AI Features Fitness Tracking Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 7999,
+      "price": 7999,
+      "rating": 2.7142856121063232,
+      "ratingCount": 7
+    },
+    {
+      "id": 20415004,
+      "name": "Fitbit Sense 2 Health Watch with BT Calling + ECG + Google Assist. & Stress Management",
+      "brand": "Fitbit",
+      "mrp": 24999,
+      "price": 23799,
+      "rating": 4.222222328186035,
+      "ratingCount": 18
+    },
+    {
+      "id": 32531504,
+      "name": "GOBOULT Trail 2.01\" 3D Curved Display, Working Crown, Health Track Smartwatch",
+      "brand": "GOBOULT",
+      "mrp": 6999,
+      "price": 1299,
+      "rating": 4.183315753936768,
+      "ratingCount": 1882
+    },
+    {
+      "id": 20415012,
+      "name": "Fitbit Inspire 3 Fitness Tracker with Skin Temp. Heart Rate",
+      "brand": "Fitbit",
+      "mrp": 8999,
+      "price": 8799,
+      "rating": 4.403669834136963,
+      "ratingCount": 109
+    },
+    {
+      "id": 24015228,
+      "name": "GOBOULT Crown 1.95'' Screen, Working Crown, Zinc Alloy Frame Smartwatch",
+      "brand": "GOBOULT",
+      "mrp": 4499,
+      "price": 1299,
+      "rating": 4.109259128570557,
+      "ratingCount": 1620
+    },
+    {
+      "id": 16934964,
+      "name": "NOISE ColorFit Icon Buzz Sleep Monitor With Voice Assistant Bluetooth Calling Smartwatch",
+      "brand": "NOISE",
+      "mrp": 4999,
+      "price": 1499,
+      "rating": 4.191853046417236,
+      "ratingCount": 64148
+    },
+    {
+      "id": 39733550,
+      "name": "boAt Wave Call 1.69\" HD Display HR SpO2 Fitness Tracker Smart Watch",
+      "brand": "boAt",
+      "mrp": 7990,
+      "price": 1037,
+      "rating": 4.3865814208984375,
+      "ratingCount": 313
+    },
+    {
+      "id": 31610757,
+      "name": "Fastrack Marvellous FX2 1.54 AMOLED Display 1000Nits Working Crown BT Calling Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 6499,
+      "price": 6499,
+      "rating": 4.517241477966309,
+      "ratingCount": 58
+    },
+    {
+      "id": 37528159,
+      "name": "Fastrack Navstar 1.85\" AMOLED with GPS, AI Features Fitness Tracking Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 7999,
+      "price": 5999,
+      "rating": 2.7142856121063232,
+      "ratingCount": 7
+    },
+    {
+      "id": 40430961,
+      "name": "GOBOULT Mustang Muscle 2.01\" 3D Display with 600Nits IP68 & Convertible Strap Smart Watch",
+      "brand": "GOBOULT",
+      "mrp": 9999,
+      "price": 9999,
+      "rating": 3.6666667461395264,
+      "ratingCount": 9
+    },
+    {
+      "id": 32968145,
+      "name": "GOBOULT Drift Max 2.01''HD Screen,BT Calling, Working Crown, IP68 Smartwatch",
+      "brand": "GOBOULT",
+      "mrp": 7999,
+      "price": 1299,
+      "rating": 4.234501361846924,
+      "ratingCount": 742
+    },
+    {
+      "id": 33707979,
+      "name": "Tempt Streak X Smartwatch",
+      "brand": "Tempt",
+      "mrp": 7999,
+      "price": 7999,
+      "rating": 4.1875,
+      "ratingCount": 16
+    },
+    {
+      "id": 31610753,
+      "name": "Fastrack Marvellous FX2 1.54 AMOLED Display 1000Nits Working Crown BT Calling Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 9995,
+      "price": 9995,
+      "rating": 4.517241477966309,
+      "ratingCount": 58
+    },
+    {
+      "id": 39655997,
+      "name": "Noise ColorFit Pulse 2 Max 1.85\" Display Multilingual Menu Smart Watch",
+      "brand": "NOISE",
+      "mrp": 5999,
+      "price": 1499,
+      "rating": 4.126760482788086,
+      "ratingCount": 71
+    },
+    {
+      "id": 33383399,
+      "name": "nervfit MyCLNQ Pulse Smartwatch With 1.85\" HD Display",
+      "brand": "nervfit",
+      "mrp": 7999,
+      "price": 1170,
+      "rating": 4,
+      "ratingCount": 158
+    },
+    {
+      "id": 28811488,
+      "name": "NOISE ColorFit Icon 3 Plus Smartwatch - Midnight Gold",
+      "brand": "NOISE",
+      "mrp": 6999,
+      "price": 1499,
+      "rating": 3.767123222351074,
+      "ratingCount": 73
+    },
+    {
+      "id": 36638238,
+      "name": "VIKYUVI Unisex Vikfit Halo Pro Smart Watch",
+      "brand": "VIKYUVI",
+      "mrp": 12999,
+      "price": 1419,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 32694498,
+      "name": "Decathlon DOMYOS - Extra Low Resistance Rubber Fitness Bands",
+      "brand": "Decathlon",
+      "mrp": 399,
+      "price": 379,
+      "rating": 3.5714285373687744,
+      "ratingCount": 14
+    },
+    {
+      "id": 24435062,
+      "name": "Samsung Galaxy Watch 6 Classic LTE (47mm, Compatible with Android only)",
+      "brand": "Samsung",
+      "mrp": 50999,
+      "price": 43999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 14281874,
+      "name": "Fitbit Unisex Versa 3 Health & Fitness Smart Watch with GPS BT Calling & Inbuilt Alexa",
+      "brand": "Fitbit",
+      "mrp": 18999,
+      "price": 18999,
+      "rating": 4.450549602508545,
+      "ratingCount": 91
+    },
+    {
+      "id": 24435058,
+      "name": "Samsung Galaxy Watch 6 LTE (44mm, Compatible with Android only)",
+      "brand": "Samsung",
+      "mrp": 41999,
+      "price": 36999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 24435040,
+      "name": "Samsung Galaxy Watch 6 Classic LTE (43mm, Compatible with Android only)",
+      "brand": "Samsung",
+      "mrp": 47999,
+      "price": 40999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 30100884,
+      "name": "OnePlus Watch 2R with Wear OS 4, Snapdragon W5 Chipset & Upto 100 hrs battery 5491100165",
+      "brand": "OnePlus",
+      "mrp": 19999,
+      "price": 17999,
+      "rating": 4.704545497894287,
+      "ratingCount": 44
+    },
+    {
+      "id": 24435060,
+      "name": "Samsung Galaxy Watch 6 Classic Bluetooth (43mm, Compatible with Android only)",
+      "brand": "Samsung",
+      "mrp": 42999,
+      "price": 36999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 27735090,
+      "name": "OnePlus Watch 2 with Wear OS 4, Snapdragon W5 Chipset & Up to 100 hours battery",
+      "brand": "OnePlus",
+      "mrp": 27999,
+      "price": 23999,
+      "rating": 4.491525650024414,
+      "ratingCount": 59
+    },
+    {
+      "id": 24435064,
+      "name": "Samsung Galaxy Watch 6 Bluetooth (40mm, Compatible with Android only)",
+      "brand": "Samsung",
+      "mrp": 33999,
+      "price": 29999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 20415006,
+      "name": "Fitbit Sense 2 Health Watch with BT Calling + ECG + Google Assist. & Stress Management",
+      "brand": "Fitbit",
+      "mrp": 24999,
+      "price": 22499,
+      "rating": 3.6111111640930176,
+      "ratingCount": 18
+    },
+    {
+      "id": 24364450,
+      "name": "Fire-Boltt Emerald Gemstone-Studded Smartwatch With 1.09 HD Display & Wireless charging",
+      "brand": "Fire-Boltt",
+      "mrp": 14999,
+      "price": 7999,
+      "rating": 4.2727274894714355,
+      "ratingCount": 154
+    },
+    {
+      "id": 27465398,
+      "name": "Fitbit Unisex Charge 6 Fitness Bands",
+      "brand": "Fitbit",
+      "mrp": 14999,
+      "price": 14799,
+      "rating": 4.5,
+      "ratingCount": 8
+    },
+    {
+      "id": 31610725,
+      "name": "Fastrack Marvellous FX1 1.43 AMOLED Display Working Crown BT Calling IP68Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 8995,
+      "price": 8995,
+      "rating": 4.517241477966309,
+      "ratingCount": 58
+    },
+    {
+      "id": 20415000,
+      "name": "Fitbit Versa 4 Fitness Watch with Daily Readiness Score + Call + Google Assist.",
+      "brand": "Fitbit",
+      "mrp": 20499,
+      "price": 19399,
+      "rating": 4.222222328186035,
+      "ratingCount": 99
+    },
+    {
+      "id": 20414998,
+      "name": "Fitbit Versa 4 Fitness Watch with Daily Readiness Score + Call + Google Asst.",
+      "brand": "Fitbit",
+      "mrp": 20499,
+      "price": 18449,
+      "rating": 4.222222328186035,
+      "ratingCount": 99
+    },
+    {
+      "id": 31610723,
+      "name": "Fastrack Marvellous FX1 1.43 AMOLED Display Working Crown BT Calling IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 8995,
+      "price": 8995,
+      "rating": 4.517241477966309,
+      "ratingCount": 58
+    },
+    {
+      "id": 24435048,
+      "name": "Samsung Galaxy Watch 6 Bluetooth (44mm, Compatible with Android only)",
+      "brand": "Samsung",
+      "mrp": 36999,
+      "price": 32999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 31610722,
+      "name": "Fastrack Marvellous FX1 1.43 AMOLED Display Working Crown BT Calling IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 6499,
+      "price": 6499,
+      "rating": 4.517241477966309,
+      "ratingCount": 58
+    },
+    {
+      "id": 26964190,
+      "name": "CULT Ace XR 1.43\" Super Retina Smart Watches",
+      "brand": "CULT",
+      "mrp": 9999,
+      "price": 9999,
+      "rating": 4.090909004211426,
+      "ratingCount": 55
+    },
+    {
+      "id": 25074082,
+      "name": "Fire-Boltt Legend Bluetooth Calling Smartwatch with Dual Button Technology",
+      "brand": "Fire-Boltt",
+      "mrp": 9999,
+      "price": 7999,
+      "rating": 4.27051305770874,
+      "ratingCount": 10347
+    },
+    {
+      "id": 31610755,
+      "name": "Fastrack Marvellous FX2 1.54 AMOLED Display 1000Nits Working Crown BT Calling Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 6499,
+      "price": 6499,
+      "rating": 4.517241477966309,
+      "ratingCount": 58
+    },
+    {
+      "id": 31610691,
+      "name": "Fastrack Noir Pro Women 1.19 AMOLED Display Working Crown 1000 Nits BT Calling Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 5799,
+      "price": 5799,
+      "rating": 3.799999952316284,
+      "ratingCount": 10
+    },
+    {
+      "id": 25750590,
+      "name": "CULT Black Active T 2.01 HD Display Single Chip Bluetooth Calling Smart Watch",
+      "brand": "CULT",
+      "mrp": 6999,
+      "price": 6999,
+      "rating": 4.171428680419922,
+      "ratingCount": 70
+    },
+    {
+      "id": 20415008,
+      "name": "Fitbit Sense 2 Health Watch with BT Calling + ECG + Google Assist. & Stress Management",
+      "brand": "Fitbit",
+      "mrp": 24999,
+      "price": 23799,
+      "rating": 3.9800000190734863,
+      "ratingCount": 50
+    },
+    {
+      "id": 31610689,
+      "name": "Fastrack Women Noir Pro 1.19 AMOLED Display Working Crown 1000 Nits BT Calling Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 5799,
+      "price": 5799,
+      "rating": 3.799999952316284,
+      "ratingCount": 10
+    },
+    {
+      "id": 24435052,
+      "name": "Samsung Galaxy Watch 6 LTE (44mm, Compatible with Android only)",
+      "brand": "Samsung",
+      "mrp": 41999,
+      "price": 36999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 24435070,
+      "name": "Samsung Galaxy Watch 6 LTE (40mm, Compatible with Android only)",
+      "brand": "Samsung",
+      "mrp": 38999,
+      "price": 33999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 24435068,
+      "name": "Samsung Galaxy Watch 6 LTE (40mm, Compatible with Android only)",
+      "brand": "Samsung",
+      "mrp": 38999,
+      "price": 33999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 19763948,
+      "name": "Timex Black Solid Digital Dial Fit 3.0 Smart Watches",
+      "brand": "Timex",
+      "mrp": 10995,
+      "price": 6495,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 36638435,
+      "name": "SHOPEVOLVES Unisex Nextfit Halo Pro Bluetooth Smart Watches",
+      "brand": "SHOPEVOLVES",
+      "mrp": 13999,
+      "price": 1419,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 19763946,
+      "name": "Timex Black Solid Digital Dial  3.0 Smart Watch",
+      "brand": "Timex",
+      "mrp": 10995,
+      "price": 6495,
+      "rating": 3.6666667461395264,
+      "ratingCount": 12
+    },
+    {
+      "id": 36638434,
+      "name": "SHOPEVOLVES Unisex Nextfit Halo Pro 1.38 Bluetooth Calling Smart Watch",
+      "brand": "SHOPEVOLVES",
+      "mrp": 13999,
+      "price": 1419,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 20415016,
+      "name": "Fitbit Inspire 3 Fitness Tracker with Skin Temp. Heart Rate",
+      "brand": "Fitbit",
+      "mrp": 8999,
+      "price": 8799,
+      "rating": 4.403669834136963,
+      "ratingCount": 109
+    },
+    {
+      "id": 25750582,
+      "name": "CULT Blue Burn Plus Live Cricket Score Crown Control 1.78 Inch Amoled Smart Watch",
+      "brand": "CULT",
+      "mrp": 7999,
+      "price": 7999,
+      "rating": 3.9454545974731445,
+      "ratingCount": 110
+    },
+    {
+      "id": 36638240,
+      "name": "VIKYUVI Unisex Vikfit Halo Pro Smart Watch",
+      "brand": "VIKYUVI",
+      "mrp": 12999,
+      "price": 1419,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35230309,
+      "name": "Decathlon CORENGTH - Adjustable Fitness Band",
+      "brand": "Decathlon",
+      "mrp": 1999,
+      "price": 1599,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 36638239,
+      "name": "VIKYUVI Vikfit Unisex Halo Pro Smart Watch",
+      "brand": "VIKYUVI",
+      "mrp": 12999,
+      "price": 1419,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 36638433,
+      "name": "SHOPEVOLVES Unisex Nextfit Hello Pro Bluetooth Smart Watches",
+      "brand": "SHOPEVOLVES",
+      "mrp": 12999,
+      "price": 1419,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 36638431,
+      "name": "SHOPEVOLVES Unisex Nextfit Hello Pro Blk Smart Watches",
+      "brand": "SHOPEVOLVES",
+      "mrp": 12999,
+      "price": 1419,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 32624314,
+      "name": "GOBOULT Drift+ BT Calling, 1.85\" HD, 500 Nits, 150+ Watchfaces Smartwatch",
+      "brand": "GOBOULT",
+      "mrp": 8499,
+      "price": 1399,
+      "rating": 4.122516632080078,
+      "ratingCount": 3624
+    },
+    {
+      "id": 36638430,
+      "name": "SHOPEVOLVES Unisex Nextfit Hello Pro Bluetooth Calling Smart Watch",
+      "brand": "SHOPEVOLVES",
+      "mrp": 12999,
+      "price": 1419,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 36638429,
+      "name": "SHOPEVOLVES Unisex Nextfit Hello Pro Bluetooth Calling Rugged Smart Watch",
+      "brand": "SHOPEVOLVES",
+      "mrp": 12999,
+      "price": 1419,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 36638241,
+      "name": "VIKYUVI Vikfit Unisex Halo Pro Smart Watch",
+      "brand": "VIKYUVI",
+      "mrp": 12999,
+      "price": 1419,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 30194460,
+      "name": "Dezire FX1 Pro Smart Watch 1.43 AMOLED Display BT Calling Functional Crown IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 3299,
+      "price": 3299,
+      "rating": 4.185184955596924,
+      "ratingCount": 27
+    },
+    {
+      "id": 25673072,
+      "name": "HAMMER Ice Grey Polar 2.01 inch IPS AOD, Advanced Bluetooth Calling Smartwatch",
+      "brand": "HAMMER",
+      "mrp": 5999,
+      "price": 5999,
+      "rating": 4.056603908538818,
+      "ratingCount": 53
+    },
+    {
+      "id": 19364204,
+      "name": "Helix By Timex Unisex Grey & Sea Green Metal Fit 2.0 Casual Smart Watch -TW0HXW406T",
+      "brand": "Helix",
+      "mrp": 7495,
+      "price": 7495,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 19364196,
+      "name": "Helix By Timex Unisex Black Metal Fit 2.0 Casual Smart Watch -TW0HXW405T",
+      "brand": "Helix",
+      "mrp": 7495,
+      "price": 7495,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 14349134,
+      "name": "CASIO Men Black Digital Smart Watch",
+      "brand": "CASIO",
+      "mrp": 15495,
+      "price": 15495,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 37827151,
+      "name": "Titan Women AIRA 1.70\" AMOLED Display, AI Chat, Stress Monitoring, Smart Watch",
+      "brand": "Titan",
+      "mrp": 6999,
+      "price": 6999,
+      "rating": 4.548387050628662,
+      "ratingCount": 31
+    },
+    {
+      "id": 37528160,
+      "name": "Fastrack Navstar 1.85\" AMOLED with GPS, AI Features Fitness Tracking Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 7999,
+      "price": 7999,
+      "rating": 2.7142856121063232,
+      "ratingCount": 7
+    },
+    {
+      "id": 36766659,
+      "name": "Fastrack VOX CirQ 1.38 TFT Display, Offline Voice Command,To Do List, IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 3999,
+      "price": 3999,
+      "rating": 3.825000047683716,
+      "ratingCount": 40
+    },
+    {
+      "id": 36766657,
+      "name": "Fastrack VOX CirQ 1.38 TFT Display, Offline Voice Command,To Do List, IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 3999,
+      "price": 3999,
+      "rating": 3.829268217086792,
+      "ratingCount": 41
+    },
+    {
+      "id": 36766656,
+      "name": "Fastrack VOX Neo 1.91 TFT Display, Offline Voice Command,To Do List, IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 3499,
+      "price": 3499,
+      "rating": 3.8421051502227783,
+      "ratingCount": 19
+    },
+    {
+      "id": 36766650,
+      "name": "Fastrack VOX Pro 1.38\" TFT Display, Offline Voice Commands,To Do List, IP68 Smartwatch",
+      "brand": "Fastrack",
+      "mrp": 3499,
+      "price": 3499,
+      "rating": 4.179487228393555,
+      "ratingCount": 39
+    },
+    {
+      "id": 36678073,
+      "name": "Alti Pace Smart Band For Health & Activity Tracking",
+      "brand": "Alti Pace",
+      "mrp": 6999,
+      "price": 3869,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 34882236,
+      "name": "Fastrack Optimus FS1 with 1.83 Inch TFT Display BT Calling IP68 Smartwatch",
+      "brand": "Fastrack",
+      "mrp": 2995,
+      "price": 2995,
+      "rating": 4.659090995788574,
+      "ratingCount": 88
+    },
+    {
+      "id": 34882232,
+      "name": "Fastrack Magnus FX1 with 35mm UltraVU Display BT Calling Inbuilt Games Smartwatch",
+      "brand": "Fastrack",
+      "mrp": 5999,
+      "price": 5999,
+      "rating": 4.236842155456543,
+      "ratingCount": 76
+    },
+    {
+      "id": 32651988,
+      "name": "Fastrack X2 1.91 Inch BT Calling Rotating Crown 60 Hz Refresh Rate Fast Charge Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 2995,
+      "price": 2995,
+      "rating": 4.400000095367432,
+      "ratingCount": 40
+    },
+    {
+      "id": 32651556,
+      "name": "Titan Crest 1.43 Inch AMOLED AOD Working Crown BT Calling Fast Charge IP68 Premium Smartwatch",
+      "brand": "Titan",
+      "mrp": 5999,
+      "price": 5999,
+      "rating": 4.292683124542236,
+      "ratingCount": 123
+    },
+    {
+      "id": 32651488,
+      "name": "Fastrack Magnus FX1 1.38 Inch UltraVU Display Working Crown BT Calling IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 5999,
+      "price": 5999,
+      "rating": 4.256410121917725,
+      "ratingCount": 78
+    },
+    {
+      "id": 32652008,
+      "name": "Fastrack Radiant FX1 1.43 Inch AMOLED Display AOD Functional Crown AI Voice IP68 Smart Watch",
+      "brand": "Fastrack",
+      "mrp": 8995,
+      "price": 8995,
+      "rating": 4.364486217498779,
+      "ratingCount": 107
+    },
+    {
+      "id": 32651573,
+      "name": "Fastrack Magnus FX3 1.46 Inch Premium Metal Design IP68 SOS AI Voice Assistant Smartwatch",
+      "brand": "Fastrack",
+      "mrp": 7999,
+      "price": 7999,
+      "rating": 4.2784810066223145,
+      "ratingCount": 79
+    },
+    {
+      "id": 17626598,
+      "name": "Realme Black Strap TechLife Watch S100 1.69 HD Display with Temperature Sensor Smartwatch",
+      "brand": "Realme",
+      "mrp": 3999,
+      "price": 2199,
+      "rating": 4.183418273925781,
+      "ratingCount": 1761
+    },
+    {
+      "id": 34185218,
+      "name": "NOISE Icon 2 2025 - 1.81\" Display, 500 NITS Brightness BT Calling Smartwatch",
+      "brand": "NOISE",
+      "mrp": 5999,
+      "price": 1399,
+      "rating": 4.400000095367432,
+      "ratingCount": 175
+    },
+    {
+      "id": 20795178,
+      "name": "NOISE Icon 2 With Bluetooth Calling & AI Voice Assistant 1.8'' Display Smartwatch",
+      "brand": "NOISE",
+      "mrp": 5999,
+      "price": 5999,
+      "rating": 4.22128438949585,
+      "ratingCount": 35312
+    }
+  ]
+}

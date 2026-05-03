@@ -1,0 +1,900 @@
+{
+  "category": "Skirts & shorts",
+  "slug": "girl-skirts-and-shorts",
+  "totalOnMyntra": 100,
+  "fetched": 99,
+  "fetchedAt": "2026-04-27T05:45:36.772Z",
+  "products": [
+    {
+      "id": 27828632,
+      "name": "You Got Plan B Girls Cotton Dream Catcher Printed Skater Skirt With Inbuilt Shorties",
+      "brand": "You Got Plan B",
+      "mrp": 799,
+      "price": 649,
+      "rating": 4.684722423553467,
+      "ratingCount": 720
+    },
+    {
+      "id": 27242474,
+      "name": "BAESD Girls Striped Flared Skirt With Attached Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 630,
+      "rating": 4.4666666984558105,
+      "ratingCount": 135
+    },
+    {
+      "id": 27242470,
+      "name": "BAESD Girls Striped Flared Skirt With Attached Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 630,
+      "rating": 4.445255279541016,
+      "ratingCount": 137
+    },
+    {
+      "id": 27242472,
+      "name": "BAESD Girls Striped Flared Skirt With Attached Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 630,
+      "rating": 4.441176414489746,
+      "ratingCount": 136
+    },
+    {
+      "id": 35707161,
+      "name": "THE CHILDREN'S PLACE Girls Pack Of 2 Flared Skirts With Shorts Attached",
+      "brand": "THE CHILDREN'S PLACE",
+      "mrp": 1999,
+      "price": 899,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 26164126,
+      "name": "BAESD Girls Flared Knee Length Skirt With Attached Inner Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 585,
+      "rating": 4.25,
+      "ratingCount": 40
+    },
+    {
+      "id": 27227910,
+      "name": "BAESD Girls Printed Flared Above Knee Length Skirt with Attached Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 715,
+      "rating": 4.314285755157471,
+      "ratingCount": 140
+    },
+    {
+      "id": 26164140,
+      "name": "BAESD Girls Flared Knee Length Skirt With Attached Inner Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 585,
+      "rating": 4.25,
+      "ratingCount": 40
+    },
+    {
+      "id": 27227908,
+      "name": "BAESD Girls Printed Flared Knee Length Skirt With Attached Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 715,
+      "rating": 4.314285755157471,
+      "ratingCount": 140
+    },
+    {
+      "id": 35706991,
+      "name": "THE CHILDREN'S PLACE Girls Tiered Flared Skirt With Shorts Attached",
+      "brand": "THE CHILDREN'S PLACE",
+      "mrp": 2299,
+      "price": 1034,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 26164144,
+      "name": "BAESD Girls Flared Knee Length Skirt With Attached Inner Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 585,
+      "rating": 4.25,
+      "ratingCount": 40
+    },
+    {
+      "id": 26164138,
+      "name": "BAESD Girls Flared Knee Length Skirt With Attached Inner Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 585,
+      "rating": 4.25,
+      "ratingCount": 40
+    },
+    {
+      "id": 27227906,
+      "name": "BAESD Girls Checked Flared Knee Length Flared Skirt With Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 715,
+      "rating": 4.3237409591674805,
+      "ratingCount": 139
+    },
+    {
+      "id": 22745378,
+      "name": "SPUNKIES Girls Mini-Length Asymmetric Cotton Short Skirts",
+      "brand": "SPUNKIES",
+      "mrp": 699,
+      "price": 496,
+      "rating": 4.388102054595947,
+      "ratingCount": 353
+    },
+    {
+      "id": 27242416,
+      "name": "BAESD Girls Flared Skirt With Attached Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 625,
+      "rating": 4.535999774932861,
+      "ratingCount": 250
+    },
+    {
+      "id": 26164128,
+      "name": "BAESD Girls Flared Knee Length Skirt With Attached Inner Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 625,
+      "rating": 4.2682929039001465,
+      "ratingCount": 41
+    },
+    {
+      "id": 26164134,
+      "name": "BAESD Girls Flared Knee Length Skirt With Attached Inner Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 585,
+      "rating": 4.25,
+      "ratingCount": 40
+    },
+    {
+      "id": 27227904,
+      "name": "BAESD Girls Checked Flared Knee Length Flared Skirt With Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 715,
+      "rating": 4.314285755157471,
+      "ratingCount": 140
+    },
+    {
+      "id": 26164130,
+      "name": "BAESD Girls Flared Knee Length Skirt With Attached Inner Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 585,
+      "rating": 4.25,
+      "ratingCount": 40
+    },
+    {
+      "id": 26164142,
+      "name": "BAESD Girls Flared Knee Length Skirt With Attached Inner Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 599,
+      "rating": 4.25,
+      "ratingCount": 40
+    },
+    {
+      "id": 27242418,
+      "name": "BAESD Girls Flared Skirt With Attached Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 585,
+      "rating": 4.542168617248535,
+      "ratingCount": 249
+    },
+    {
+      "id": 27242478,
+      "name": "BAESD Girls A-Line Skirt With Attached Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 630,
+      "rating": 4.445255279541016,
+      "ratingCount": 137
+    },
+    {
+      "id": 39466349,
+      "name": "You Got Plan B Striped Cotton Above Knee Flared Skirts",
+      "brand": "You Got Plan B",
+      "mrp": 999,
+      "price": 699,
+      "rating": 4.68428373336792,
+      "ratingCount": 719
+    },
+    {
+      "id": 32679140,
+      "name": "You Got Plan B Girls Cotton Dalmatian Printed Skater Skirt With Inbuilt Shorties",
+      "brand": "You Got Plan B",
+      "mrp": 1199,
+      "price": 649,
+      "rating": 4.683844089508057,
+      "ratingCount": 718
+    },
+    {
+      "id": 27230080,
+      "name": "BAESD Girls Polka Dots Printed Flared Knee Length Skirt With Attached Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 715,
+      "rating": 4.319149017333984,
+      "ratingCount": 141
+    },
+    {
+      "id": 29484582,
+      "name": "BAESD Girls Self-Design Pure Cotton Round Neck Tie Up Top & Skirt",
+      "brand": "BAESD",
+      "mrp": 2499,
+      "price": 2499,
+      "rating": 4.384615421295166,
+      "ratingCount": 13
+    },
+    {
+      "id": 27227902,
+      "name": "BAESD Girls Polka Dots Printed Flared Knee Length Flared Skirt With Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 715,
+      "rating": 4.314285755157471,
+      "ratingCount": 140
+    },
+    {
+      "id": 39467172,
+      "name": "You Got Plan B Striped Cotton Above Knee Skorts Skirts",
+      "brand": "You Got Plan B",
+      "mrp": 999,
+      "price": 699,
+      "rating": 4.683029651641846,
+      "ratingCount": 713
+    },
+    {
+      "id": 38045798,
+      "name": "LULU & SKY Girls Colourblocked Frayed Skirt",
+      "brand": "LULU & SKY",
+      "mrp": 4518,
+      "price": 1454,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 26164136,
+      "name": "BAESD Girls Flared Mini Skirt With Attached Inner Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 585,
+      "rating": 4.25,
+      "ratingCount": 40
+    },
+    {
+      "id": 38282482,
+      "name": "Miyo Printed Above Knee A-Line Skirts",
+      "brand": "Miyo",
+      "mrp": 1799,
+      "price": 888,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 30958556,
+      "name": "ADDYVERO Kids Girls High-Rise Skirts",
+      "brand": "ADDYVERO",
+      "mrp": 1662,
+      "price": 392,
+      "rating": 4.283783912658691,
+      "ratingCount": 74
+    },
+    {
+      "id": 27227896,
+      "name": "BAESD Girls Polka Dots Printed Flared Knee Length Skirt With Attached Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 715,
+      "rating": 4.314285755157471,
+      "ratingCount": 140
+    },
+    {
+      "id": 41555785,
+      "name": "LULU & SKY Girls Printed Top with Shorts",
+      "brand": "LULU & SKY",
+      "mrp": 5210,
+      "price": 1680,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 21748444,
+      "name": "You Got Plan B Girls Cotton Cherry Blossom Printed Skater Skirt With Inbuilt Shorties",
+      "brand": "You Got Plan B",
+      "mrp": 799,
+      "price": 649,
+      "rating": 4.683403015136719,
+      "ratingCount": 717
+    },
+    {
+      "id": 41554093,
+      "name": "LULU & SKY Girls Printed T-shirt With Shorts",
+      "brand": "LULU & SKY",
+      "mrp": 3728,
+      "price": 1268,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 41553986,
+      "name": "LULU & SKY Girls Printed T-shirt With Shorts",
+      "brand": "LULU & SKY",
+      "mrp": 4160,
+      "price": 1388,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35706990,
+      "name": "THE CHILDREN'S PLACE Girls Tiered Flared Skirt With Shorts Attached",
+      "brand": "THE CHILDREN'S PLACE",
+      "mrp": 999,
+      "price": 449,
+      "rating": 4.125,
+      "ratingCount": 8
+    },
+    {
+      "id": 27249202,
+      "name": "BAESD Girls Flared Skirt With Attached Shorts",
+      "brand": "BAESD",
+      "mrp": 1800,
+      "price": 575,
+      "rating": 4.282051086425781,
+      "ratingCount": 39
+    },
+    {
+      "id": 39844139,
+      "name": "KiddoPanti Girls Pure Cotton Cambric Graphic Graphic Print Others Above Knee Skorts Skirt",
+      "brand": "KiddoPanti",
+      "mrp": 799,
+      "price": 579,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 34828466,
+      "name": "KiddoPanti Girls Printed Layer Flounce Sleeve Top & Cotton Over Lap Skort Set",
+      "brand": "KiddoPanti",
+      "mrp": 1998,
+      "price": 1198,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 41081304,
+      "name": "Hopscotch Girls Printed Top with Shorts",
+      "brand": "Hopscotch",
+      "mrp": 1199,
+      "price": 895,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 27242426,
+      "name": "BAESD Girls A-Line Skirt With Attached Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 585,
+      "rating": 4.535999774932861,
+      "ratingCount": 250
+    },
+    {
+      "id": 39467173,
+      "name": "You Got Plan B Cotton Above Knee Flared Skirts",
+      "brand": "You Got Plan B",
+      "mrp": 849,
+      "price": 649,
+      "rating": 4.68428373336792,
+      "ratingCount": 719
+    },
+    {
+      "id": 38282484,
+      "name": "Miyo Printed Above Knee A-Line Skirts",
+      "brand": "Miyo",
+      "mrp": 1799,
+      "price": 888,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33622420,
+      "name": "Mark & Mia Girls Self-Design Flared Knee Length Skirt",
+      "brand": "Mark & Mia",
+      "mrp": 1129,
+      "price": 677,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35562814,
+      "name": "Miss & Chief Girls Checked Pure Cotton A-Line Above Knee Skirt",
+      "brand": "Miss & Chief",
+      "mrp": 1599,
+      "price": 654,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38270300,
+      "name": "Miyo Printed Above Knee A-Line Skirts",
+      "brand": "Miyo",
+      "mrp": 1299,
+      "price": 1299,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35761335,
+      "name": "LULU & SKY Girls Pure Cotton Top With Shorts",
+      "brand": "LULU & SKY",
+      "mrp": 4738,
+      "price": 1549,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 32455115,
+      "name": "Angel & Rocket Corina Print Tiered Skirt",
+      "brand": "Angel & Rocket",
+      "mrp": 2299,
+      "price": 1921,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 27242476,
+      "name": "BAESD Girls A-Line Skirt With Attached Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 630,
+      "rating": 4.441176414489746,
+      "ratingCount": 136
+    },
+    {
+      "id": 39467177,
+      "name": "You Got Plan B Cotton Above Knee Flared Skirts",
+      "brand": "You Got Plan B",
+      "mrp": 949,
+      "price": 649,
+      "rating": 4.682651519775391,
+      "ratingCount": 709
+    },
+    {
+      "id": 31041388,
+      "name": "GUESS kids Girls Printed Pure Cotton Flared Above Knee Skirt",
+      "brand": "GUESS kids",
+      "mrp": 4990,
+      "price": 3493,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 30457492,
+      "name": "Angel & Rocket Girls Printed Flared Above Knee Length Skirts",
+      "brand": "Angel & Rocket",
+      "mrp": 2299,
+      "price": 1845,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 18791508,
+      "name": "Dress My Angel Girls Green Printed Smocked MiniSkirts",
+      "brand": "Dress My Angel",
+      "mrp": 1099,
+      "price": 1099,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 27242468,
+      "name": "BAESD Girls A-Line Skorts With Attached Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 625,
+      "rating": 4.445255279541016,
+      "ratingCount": 137
+    },
+    {
+      "id": 34828439,
+      "name": "KiddoPanti Girls Tie & Dye Short Sleeves Shirt & Skorts",
+      "brand": "KiddoPanti",
+      "mrp": 1898,
+      "price": 1138,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 34161695,
+      "name": "TALES & STORIES Girls Printed Pure Cotton Top & Skirt",
+      "brand": "TALES & STORIES",
+      "mrp": 1499,
+      "price": 539,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40609520,
+      "name": "V-Mart Girls Printed Pure Cotton T-shirt with Shorts",
+      "brand": "V-Mart",
+      "mrp": 699,
+      "price": 559,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 17276278,
+      "name": "Cutiekins Girls Grey & White Printed Flared Above Knee Skirt",
+      "brand": "Cutiekins",
+      "mrp": 1199,
+      "price": 340,
+      "rating": 3.93098783493042,
+      "ratingCount": 739
+    },
+    {
+      "id": 18791506,
+      "name": "Dress My Angel Girls Green & Black Animal Printed Tiered Above Knee-Length Skirt",
+      "brand": "Dress My Angel",
+      "mrp": 1199,
+      "price": 1199,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 32164862,
+      "name": "Cutiekins Girls Linen Above Knee Slip On Skirt",
+      "brand": "Cutiekins",
+      "mrp": 999,
+      "price": 347,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 34631181,
+      "name": "MOONAAH Girls Low-Rise Animal Printed Skirt",
+      "brand": "MOONAAH",
+      "mrp": 1499,
+      "price": 927,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 27242414,
+      "name": "BAESD Girls A-Line Skirt With Attached Shorts",
+      "brand": "BAESD",
+      "mrp": 1999,
+      "price": 585,
+      "rating": 4.538461685180664,
+      "ratingCount": 247
+    },
+    {
+      "id": 32164849,
+      "name": "Cutiekins Girls Pure Cotton Embellished Skirt",
+      "brand": "Cutiekins",
+      "mrp": 999,
+      "price": 309,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 32164860,
+      "name": "Cutiekins Girls Pure Cotton Frills Bows and Ruffles Skirt",
+      "brand": "Cutiekins",
+      "mrp": 999,
+      "price": 309,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 39693877,
+      "name": "KiddoPanti Pure Cotton Skorts Above Knee Skirts",
+      "brand": "KiddoPanti",
+      "mrp": 1099,
+      "price": 823,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 31155688,
+      "name": "LULU & SKY Girls Top with Layered Skirt",
+      "brand": "LULU & SKY",
+      "mrp": 4575,
+      "price": 1830,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 34828440,
+      "name": "KiddoPanti Girls Tie & Dye Front Knot Shirt & Over Lap Skorts",
+      "brand": "KiddoPanti",
+      "mrp": 1898,
+      "price": 1138,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 34828465,
+      "name": "KiddoPanti Girls Printed Short Sleeves Top With Skorts",
+      "brand": "KiddoPanti",
+      "mrp": 1948,
+      "price": 1168,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 24084758,
+      "name": "You Got Plan B Girls Cotton Star Crossed Printed Skater Skirt With Inbuilt Shorties",
+      "brand": "You Got Plan B",
+      "mrp": 799,
+      "price": 649,
+      "rating": 4.682584285736084,
+      "ratingCount": 712
+    },
+    {
+      "id": 18348044,
+      "name": "Dress My Angel Girls Off White Printed A line Smocked Skirts",
+      "brand": "Dress My Angel",
+      "mrp": 1199,
+      "price": 1199,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 28858742,
+      "name": "StyleStone Shirt Collar Short Sleeves Printed Shirt With Skorts Clothing Set",
+      "brand": "StyleStone",
+      "mrp": 1799,
+      "price": 790,
+      "rating": 4.419642925262451,
+      "ratingCount": 112
+    },
+    {
+      "id": 38796887,
+      "name": "SPUNKIES Girls Printed Above Knee Tiered Skirt",
+      "brand": "SPUNKIES",
+      "mrp": 2999,
+      "price": 2009,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35309094,
+      "name": "Angel & Rocket Girls Cecile Flared Above Knee Skirt",
+      "brand": "Angel & Rocket",
+      "mrp": 3299,
+      "price": 2496,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 34179539,
+      "name": "Soleilclo Girls Printed Knee Length Skorts",
+      "brand": "Soleilclo",
+      "mrp": 950,
+      "price": 812,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 36913597,
+      "name": "TWEENY MINI Girls Pure Cotton A-Line Skirts",
+      "brand": "TWEENY MINI",
+      "mrp": 2849,
+      "price": 911,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38282486,
+      "name": "Miyo Printed Cotton Knee Length A-Line Skirts",
+      "brand": "Miyo",
+      "mrp": 1299,
+      "price": 900,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38441419,
+      "name": "Miyo Girls Printed Flared Above Knee Length Skirts",
+      "brand": "Miyo",
+      "mrp": 1799,
+      "price": 888,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 41359061,
+      "name": "Somersault Girls Cotton Graphic Conversational Print Mini Flared Skirt",
+      "brand": "Somersault",
+      "mrp": 1149,
+      "price": 919,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40368877,
+      "name": "NEUDIS Girls Cotton Blend Self Design Frills Bows and Ruffles Knee Length Flared Skirt",
+      "brand": "NEUDIS",
+      "mrp": 1799,
+      "price": 575,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 15956830,
+      "name": "Softsens Girls Black & White Animal Printed Flared Above Knee-Length Skirt",
+      "brand": "Softsens",
+      "mrp": 799,
+      "price": 758,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 34828458,
+      "name": "KiddoPanti Girls Tie & Dye Sleeveless Top & Cotton Over Lap Skort Set",
+      "brand": "KiddoPanti",
+      "mrp": 1748,
+      "price": 971,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 29370628,
+      "name": "StyleCast x Revolte Girls Mid-Rise Shorts",
+      "brand": "StyleCast x Revolte",
+      "mrp": 1489,
+      "price": 580,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 30722658,
+      "name": "One Friday Girls Printed Flared Above Knee Skirts",
+      "brand": "One Friday",
+      "mrp": 1799,
+      "price": 1079,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33846158,
+      "name": "Angel & Rocket Girls Faye Stripe Tiered Skirt",
+      "brand": "Angel & Rocket",
+      "mrp": 1999,
+      "price": 1700,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33622421,
+      "name": "Mark & Mia Girls High Rise Straight Knee Length Skirt With Belt",
+      "brand": "Mark & Mia",
+      "mrp": 999,
+      "price": 659,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 28243498,
+      "name": "CUTECUMBER Girls Embellished Denim Skorts",
+      "brand": "CUTECUMBER",
+      "mrp": 1485,
+      "price": 890,
+      "rating": 4.5535712242126465,
+      "ratingCount": 224
+    },
+    {
+      "id": 36920678,
+      "name": "KJD Girls Green Round Neck Short Sleeves Cotton Blend Regular Clothing Set",
+      "brand": "KJD",
+      "mrp": 1699,
+      "price": 738,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 16187638,
+      "name": "toothless Coral & Black Pure Cotton Solid Skirt",
+      "brand": "toothless",
+      "mrp": 999,
+      "price": 469,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33418476,
+      "name": "DEL LUNA Girls Mock Neck Top With Shorts",
+      "brand": "DEL LUNA",
+      "mrp": 1399,
+      "price": 330,
+      "rating": 4,
+      "ratingCount": 6
+    },
+    {
+      "id": 18791492,
+      "name": "Dress My Angel Girls Orange Printed Flared Above Knee-Length Skirt",
+      "brand": "Dress My Angel",
+      "mrp": 999,
+      "price": 999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38309162,
+      "name": "Knit N Knot Washed Denim Above Knee A-Line Skirts",
+      "brand": "Knit N Knot",
+      "mrp": 1499,
+      "price": 742,
+      "rating": 4.55555534362793,
+      "ratingCount": 27
+    },
+    {
+      "id": 33622468,
+      "name": "Mark & Mia Girls High Waist Straight Knee Length Skirt With Belt",
+      "brand": "Mark & Mia",
+      "mrp": 1179,
+      "price": 743,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 37253061,
+      "name": "mackly Girls Heart Printed Mini Skirt with Built-in Shorts & Gusset",
+      "brand": "mackly",
+      "mrp": 799,
+      "price": 679,
+      "rating": 3.6666667461395264,
+      "ratingCount": 6
+    },
+    {
+      "id": 34828442,
+      "name": "KiddoPanti Girls Printed Puff Sleeves Top With Skorts",
+      "brand": "KiddoPanti",
+      "mrp": 1898,
+      "price": 1138,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 19532942,
+      "name": "SPUNKIES Girls White Schiffli Printed Knee Length Flared Skirts",
+      "brand": "SPUNKIES",
+      "mrp": 1179,
+      "price": 580,
+      "rating": 4.5756096839904785,
+      "ratingCount": 205
+    },
+    {
+      "id": 32009190,
+      "name": "Merrigo Kidz Girls Floral Printed Flared Above Knee Skirts",
+      "brand": "Merrigo Kidz",
+      "mrp": 949,
+      "price": 547,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35706989,
+      "name": "THE CHILDREN'S PLACE Girls Tiered Flared Skirt With Shorts Attached",
+      "brand": "THE CHILDREN'S PLACE",
+      "mrp": 999,
+      "price": 449,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ]
+}

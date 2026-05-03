@@ -1,0 +1,5436 @@
+{
+  "category": "Harem Pants",
+  "slug": "harem-pants",
+  "totalOnMyntra": 723,
+  "fetched": 603,
+  "fetchedAt": "2026-04-27T05:56:31.101Z",
+  "products": [
+    {
+      "id": 37609719,
+      "name": "HOPE House of Pure Eco Men Loose Fit High-Rise Harem Pants",
+      "brand": "HOPE House of Pure Eco",
+      "mrp": 1999,
+      "price": 970,
+      "rating": 4.195121765136719,
+      "ratingCount": 41
+    },
+    {
+      "id": 37609722,
+      "name": "HOPE House of Pure Eco Men Tribal Relaxed Fit Aladdin Harem Yoga Pants",
+      "brand": "HOPE House of Pure Eco",
+      "mrp": 1999,
+      "price": 970,
+      "rating": 4.358974456787109,
+      "ratingCount": 39
+    },
+    {
+      "id": 37609721,
+      "name": "HOPE House of Pure Eco Men Loose Fit Tribal Harem Pants",
+      "brand": "HOPE House of Pure Eco",
+      "mrp": 1999,
+      "price": 970,
+      "rating": 4.195121765136719,
+      "ratingCount": 41
+    },
+    {
+      "id": 38093451,
+      "name": "SUKITI Women Loose Fit Harem Pants",
+      "brand": "SUKITI",
+      "mrp": 1999,
+      "price": 624,
+      "rating": 4,
+      "ratingCount": 11
+    },
+    {
+      "id": 35662935,
+      "name": "WHITEWHALE Women Ethnic Motifs Printed Loose Fit Yoga Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 592,
+      "rating": 4.032258033752441,
+      "ratingCount": 31
+    },
+    {
+      "id": 37611318,
+      "name": "HOPE House of Pure Eco Men Loose Fit Cotton Harem Pants",
+      "brand": "HOPE House of Pure Eco",
+      "mrp": 1999,
+      "price": 873,
+      "rating": 4.384615421295166,
+      "ratingCount": 13
+    },
+    {
+      "id": 33756037,
+      "name": "WHITEWHALE Men Loose Fit Striped Printed Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 454,
+      "rating": 4.242424011230469,
+      "ratingCount": 66
+    },
+    {
+      "id": 36301881,
+      "name": "WHITEWHALE Women Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 574,
+      "rating": 4,
+      "ratingCount": 11
+    },
+    {
+      "id": 35202936,
+      "name": "WHITEWHALE Men Mid-Rise Loose Fit Yoga Hippie Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 488,
+      "rating": 4.171428680419922,
+      "ratingCount": 35
+    },
+    {
+      "id": 37611315,
+      "name": "HOPE House of Pure Eco Men Loose Fit Tribal Harem Pants",
+      "brand": "HOPE House of Pure Eco",
+      "mrp": 1999,
+      "price": 873,
+      "rating": 4.384615421295166,
+      "ratingCount": 13
+    },
+    {
+      "id": 37609723,
+      "name": "HOPE House of Pure Eco Men Loose Fit Tribal Cotton Harem Pants",
+      "brand": "HOPE House of Pure Eco",
+      "mrp": 1999,
+      "price": 970,
+      "rating": 4.342105388641357,
+      "ratingCount": 38
+    },
+    {
+      "id": 37609725,
+      "name": "HOPE House of Pure Eco Men Relaxed Fit Aladdin Cotton Harem Pants",
+      "brand": "HOPE House of Pure Eco",
+      "mrp": 1999,
+      "price": 970,
+      "rating": 4.275000095367432,
+      "ratingCount": 40
+    },
+    {
+      "id": 40583935,
+      "name": "YELLOW TREE Men Loose Fit Harem Pants",
+      "brand": "YELLOW TREE",
+      "mrp": 2499,
+      "price": 891,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33061793,
+      "name": "9rasa Viscose Border Block Printed Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1599,
+      "price": 685,
+      "rating": 4.19444465637207,
+      "ratingCount": 72
+    },
+    {
+      "id": 30316279,
+      "name": "9rasa Women Slip On Mid Rise Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1599,
+      "price": 674,
+      "rating": 4.2133331298828125,
+      "ratingCount": 75
+    },
+    {
+      "id": 29429262,
+      "name": "9rasa Women Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1599,
+      "price": 674,
+      "rating": 4.25,
+      "ratingCount": 64
+    },
+    {
+      "id": 29901711,
+      "name": "9rasa Women  Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1599,
+      "price": 674,
+      "rating": 4.25,
+      "ratingCount": 64
+    },
+    {
+      "id": 33063155,
+      "name": "9rasa Cotton Solid Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1599,
+      "price": 674,
+      "rating": 4.25,
+      "ratingCount": 64
+    },
+    {
+      "id": 38058698,
+      "name": "SUKITI Women Loose Fit Cotton Afghani Harem Pants",
+      "brand": "SUKITI",
+      "mrp": 1999,
+      "price": 624,
+      "rating": 3.644444465637207,
+      "ratingCount": 45
+    },
+    {
+      "id": 19443400,
+      "name": "Go Colors Girls Black Solid Harem Pants",
+      "brand": "Go Colors",
+      "mrp": 599,
+      "price": 599,
+      "rating": 4.6993865966796875,
+      "ratingCount": 163
+    },
+    {
+      "id": 38059113,
+      "name": "SUKITI Women Loose Fit Harem Afghani  Pants",
+      "brand": "SUKITI",
+      "mrp": 1999,
+      "price": 619,
+      "rating": 3.644444465637207,
+      "ratingCount": 45
+    },
+    {
+      "id": 36301882,
+      "name": "WHITEWHALE Women Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 574,
+      "rating": 4,
+      "ratingCount": 11
+    },
+    {
+      "id": 38343562,
+      "name": "MIXFIT Women Straight Fit Dhoti Pants",
+      "brand": "MIXFIT",
+      "mrp": 449,
+      "price": 449,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 21872372,
+      "name": "KiddoPanti Girls Printed Smocking Harem Pants",
+      "brand": "KiddoPanti",
+      "mrp": 749,
+      "price": 448,
+      "rating": 4.5714287757873535,
+      "ratingCount": 28
+    },
+    {
+      "id": 35202927,
+      "name": "WHITEWHALE Men Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 482,
+      "rating": 4.147058963775635,
+      "ratingCount": 34
+    },
+    {
+      "id": 19098070,
+      "name": "Taurus Women Pink & Black Checked Loose-Fit Cotton Harem Pants",
+      "brand": "Taurus",
+      "mrp": 1595,
+      "price": 421,
+      "rating": 4.07692289352417,
+      "ratingCount": 13
+    },
+    {
+      "id": 29429254,
+      "name": "9rasa Women  Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1599,
+      "price": 674,
+      "rating": 4.25,
+      "ratingCount": 64
+    },
+    {
+      "id": 37611316,
+      "name": "HOPE House of Pure Eco Men Loose Fit Tribal Harem Pants",
+      "brand": "HOPE House of Pure Eco",
+      "mrp": 1999,
+      "price": 873,
+      "rating": 4.384615421295166,
+      "ratingCount": 13
+    },
+    {
+      "id": 35202894,
+      "name": "WHITEWHALE Men Mid-Rise Loose Fit Yoga Hippie Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 481,
+      "rating": 4.147058963775635,
+      "ratingCount": 34
+    },
+    {
+      "id": 29901715,
+      "name": "9rasa Women Plus Size Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1499,
+      "price": 688,
+      "rating": 4.833333492279053,
+      "ratingCount": 6
+    },
+    {
+      "id": 33022890,
+      "name": "9rasa Cotton Solid Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1599,
+      "price": 674,
+      "rating": 4.25,
+      "ratingCount": 64
+    },
+    {
+      "id": 38343548,
+      "name": "MIXFIT Women Straight Fit Harem Pants",
+      "brand": "MIXFIT",
+      "mrp": 449,
+      "price": 449,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 29901705,
+      "name": "9rasa Women Block Print Mid-Rise Loose Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1299,
+      "price": 610,
+      "rating": 4.222222328186035,
+      "ratingCount": 9
+    },
+    {
+      "id": 40181455,
+      "name": "YELLOW TREE Men Loose Fit Printed Harem Pants",
+      "brand": "YELLOW TREE",
+      "mrp": 1999,
+      "price": 891,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38057262,
+      "name": "SUKITI Women Loose Fit Harem Afghani Pants",
+      "brand": "SUKITI",
+      "mrp": 1999,
+      "price": 734,
+      "rating": 3.67391300201416,
+      "ratingCount": 46
+    },
+    {
+      "id": 29901701,
+      "name": "9rasa Women Printed Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1299,
+      "price": 610,
+      "rating": 4.222222328186035,
+      "ratingCount": 9
+    },
+    {
+      "id": 32570095,
+      "name": "9rasa Women Block Printed Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1299,
+      "price": 609,
+      "rating": 4.222222328186035,
+      "ratingCount": 9
+    },
+    {
+      "id": 30167549,
+      "name": "Go Colors Girls Harem Pants",
+      "brand": "Go Colors",
+      "mrp": 599,
+      "price": 599,
+      "rating": 4.6993865966796875,
+      "ratingCount": 163
+    },
+    {
+      "id": 19443310,
+      "name": "Go Colors Girls Navy Blue Solid Harem Pants",
+      "brand": "Go Colors",
+      "mrp": 599,
+      "price": 599,
+      "rating": 4.6993865966796875,
+      "ratingCount": 163
+    },
+    {
+      "id": 27782880,
+      "name": "GRACIT Women Solid Loose-Fit Harem Pants",
+      "brand": "GRACIT",
+      "mrp": 999,
+      "price": 289,
+      "rating": 4.4210524559021,
+      "ratingCount": 19
+    },
+    {
+      "id": 23337236,
+      "name": "GRACIT Women Mid-Rise Loose Fit Harem Pants",
+      "brand": "GRACIT",
+      "mrp": 1249,
+      "price": 287,
+      "rating": 4.166666507720947,
+      "ratingCount": 18
+    },
+    {
+      "id": 36301892,
+      "name": "WHITEWHALE Women Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 574,
+      "rating": 3.9000000953674316,
+      "ratingCount": 10
+    },
+    {
+      "id": 35203647,
+      "name": "WHITEWHALE Men Loose Fit Cotton Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 547,
+      "rating": 5,
+      "ratingCount": 5
+    },
+    {
+      "id": 22699954,
+      "name": "SOUNDARYA Women Loose-Fit Pleated Pure Cotton Harem Pants",
+      "brand": "SOUNDARYA",
+      "mrp": 1399,
+      "price": 467,
+      "rating": 2.8333332538604736,
+      "ratingCount": 6
+    },
+    {
+      "id": 38343551,
+      "name": "MIXFIT Women Straight Fit Harem Pants",
+      "brand": "MIXFIT",
+      "mrp": 449,
+      "price": 449,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 21872376,
+      "name": "KiddoPanti Girls Printed Smocking Harem Pants",
+      "brand": "KiddoPanti",
+      "mrp": 749,
+      "price": 396,
+      "rating": 4.5714287757873535,
+      "ratingCount": 28
+    },
+    {
+      "id": 21872374,
+      "name": "KiddoPanti Girls Printed Smocking Harem Pants",
+      "brand": "KiddoPanti",
+      "mrp": 749,
+      "price": 369,
+      "rating": 4.5714287757873535,
+      "ratingCount": 28
+    },
+    {
+      "id": 38343563,
+      "name": "MIXFIT Women Straight Fit Dhoti Pants",
+      "brand": "MIXFIT",
+      "mrp": 449,
+      "price": 449,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38343561,
+      "name": "MIXFIT Women Straight Fit Dhoti Pants",
+      "brand": "MIXFIT",
+      "mrp": 449,
+      "price": 449,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38343560,
+      "name": "MIXFIT Women Straight Fit Dhoti Pants",
+      "brand": "MIXFIT",
+      "mrp": 449,
+      "price": 449,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38343559,
+      "name": "MIXFIT Women Straight Fit Harem Pants",
+      "brand": "MIXFIT",
+      "mrp": 449,
+      "price": 449,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38343558,
+      "name": "MIXFIT Women Straight Fit Floral Embroidered Harem Pants",
+      "brand": "MIXFIT",
+      "mrp": 449,
+      "price": 449,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38343557,
+      "name": "MIXFIT Women Straight Fit Harem Pants",
+      "brand": "MIXFIT",
+      "mrp": 449,
+      "price": 449,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38343556,
+      "name": "MIXFIT Women Straight Fit Floral Embroidered Harem Pants",
+      "brand": "MIXFIT",
+      "mrp": 449,
+      "price": 449,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38343555,
+      "name": "MIXFIT Women Straight Fit Harem Pants",
+      "brand": "MIXFIT",
+      "mrp": 449,
+      "price": 449,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38343554,
+      "name": "MIXFIT Women Straight Fit Harem Pants",
+      "brand": "MIXFIT",
+      "mrp": 449,
+      "price": 449,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38343553,
+      "name": "MIXFIT Women Straight Fit Harem Pants",
+      "brand": "MIXFIT",
+      "mrp": 449,
+      "price": 449,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38343552,
+      "name": "MIXFIT Women Straight Fit Harem Pants",
+      "brand": "MIXFIT",
+      "mrp": 449,
+      "price": 449,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38343550,
+      "name": "MIXFIT Women Straight Fit Harem Pants",
+      "brand": "MIXFIT",
+      "mrp": 449,
+      "price": 449,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38343549,
+      "name": "MIXFIT Women Straight Fit Harem Pants",
+      "brand": "MIXFIT",
+      "mrp": 449,
+      "price": 449,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38134919,
+      "name": "WHITEWHALE Ethnic Motifs Printed Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 498,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38134917,
+      "name": "WHITEWHALE Ethnic Motifs Printed Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 454,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38132362,
+      "name": "WHITEWHALE Ethnic Motifs Printed Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 454,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38132356,
+      "name": "WHITEWHALE Ethnic Motifs Printed Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 487,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35203645,
+      "name": "WHITEWHALE Men Mid-Rise Loose Fit Cotton Yoga Hippie Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 488,
+      "rating": 5,
+      "ratingCount": 5
+    },
+    {
+      "id": 35202872,
+      "name": "WHITEWHALE Men Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 481,
+      "rating": 4.147058963775635,
+      "ratingCount": 34
+    },
+    {
+      "id": 33774714,
+      "name": "9rasa Women Printed High-Rise Cotton Palazzo",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 652,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40745369,
+      "name": "MANGO Women Checked Harem Pants",
+      "brand": "MANGO",
+      "mrp": 4990,
+      "price": 4990,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33022846,
+      "name": "9rasa Cotton Hand Block Printed Pocket Harem Pant",
+      "brand": "9rasa",
+      "mrp": 1799,
+      "price": 699,
+      "rating": 3.8421051502227783,
+      "ratingCount": 19
+    },
+    {
+      "id": 30167547,
+      "name": "Go Colors Girls Harem Pants",
+      "brand": "Go Colors",
+      "mrp": 499,
+      "price": 499,
+      "rating": 4.695121765136719,
+      "ratingCount": 164
+    },
+    {
+      "id": 29901725,
+      "name": "9rasa Women Hand Block Printed Mid-Rise Loose Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1199,
+      "price": 608,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 29901720,
+      "name": "9rasa Women Plus Size Block Printed Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1499,
+      "price": 695,
+      "rating": 4.833333492279053,
+      "ratingCount": 6
+    },
+    {
+      "id": 29901712,
+      "name": "9rasa Women Hand Block Printed Mid-Rise Loose Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1299,
+      "price": 609,
+      "rating": 3.3333332538604736,
+      "ratingCount": 6
+    },
+    {
+      "id": 29901703,
+      "name": "9rasa Women Mid-Rise Block Print Loose Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1299,
+      "price": 609,
+      "rating": 4.222222328186035,
+      "ratingCount": 9
+    },
+    {
+      "id": 24525302,
+      "name": "KiddoPanti Girls Geometric Printed Pure Cotton Harem Pants",
+      "brand": "KiddoPanti",
+      "mrp": 699,
+      "price": 418,
+      "rating": 4.55294132232666,
+      "ratingCount": 85
+    },
+    {
+      "id": 22699958,
+      "name": "SOUNDARYA Women Loose-Fit Pleated Harem Pants",
+      "brand": "SOUNDARYA",
+      "mrp": 1399,
+      "price": 467,
+      "rating": 2.8333332538604736,
+      "ratingCount": 6
+    },
+    {
+      "id": 22699956,
+      "name": "SOUNDARYA Pleated Mid-Rise Harem Pants",
+      "brand": "SOUNDARYA",
+      "mrp": 1399,
+      "price": 467,
+      "rating": 2.8333332538604736,
+      "ratingCount": 6
+    },
+    {
+      "id": 22699952,
+      "name": "SOUNDARYA Women Loose-Fit Pleated Pure Cotton Harem Pants",
+      "brand": "SOUNDARYA",
+      "mrp": 1399,
+      "price": 467,
+      "rating": 2.8333332538604736,
+      "ratingCount": 6
+    },
+    {
+      "id": 22699950,
+      "name": "SOUNDARYA Pleated Mid-Rise Harem Pants",
+      "brand": "SOUNDARYA",
+      "mrp": 1399,
+      "price": 467,
+      "rating": 2.8333332538604736,
+      "ratingCount": 6
+    },
+    {
+      "id": 22699944,
+      "name": "SOUNDARYA Women Loose-Fit Pleated Pure Cotton Harem Pants",
+      "brand": "SOUNDARYA",
+      "mrp": 1399,
+      "price": 467,
+      "rating": 2.8333332538604736,
+      "ratingCount": 6
+    },
+    {
+      "id": 22699942,
+      "name": "SOUNDARYA Women Loose-Fit Pleated Pure Cotton Harem Pants",
+      "brand": "SOUNDARYA",
+      "mrp": 1399,
+      "price": 467,
+      "rating": 2.8333332538604736,
+      "ratingCount": 6
+    },
+    {
+      "id": 19443404,
+      "name": "Go Colors Girls Black Solid Relaxed-Fit Harem Pants",
+      "brand": "Go Colors",
+      "mrp": 499,
+      "price": 499,
+      "rating": 4.695121765136719,
+      "ratingCount": 164
+    },
+    {
+      "id": 19443304,
+      "name": "Go Colors Girls Navy Blue Solid Relaxed-Fit Harem Pants",
+      "brand": "Go Colors",
+      "mrp": 499,
+      "price": 499,
+      "rating": 4.6993865966796875,
+      "ratingCount": 163
+    },
+    {
+      "id": 33501477,
+      "name": "InWeave MULTI ETHNIC High-Rise Loose Fit Harem Pants",
+      "brand": "InWeave",
+      "mrp": 2895,
+      "price": 1299,
+      "rating": 4.505913257598877,
+      "ratingCount": 761
+    },
+    {
+      "id": 30431131,
+      "name": "The Veshti Company Printed Loose Fit Pure Cotton Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1946,
+      "rating": 4.317460536956787,
+      "ratingCount": 63
+    },
+    {
+      "id": 32781442,
+      "name": "InWeave Women Ethnic Motifs Printed Harem Pant",
+      "brand": "InWeave",
+      "mrp": 2495,
+      "price": 892,
+      "rating": 4.507246494293213,
+      "ratingCount": 138
+    },
+    {
+      "id": 33501476,
+      "name": "InWeave Women Solid Loose Fit Harem Pant",
+      "brand": "InWeave",
+      "mrp": 2195,
+      "price": 799,
+      "rating": 4.388059616088867,
+      "ratingCount": 268
+    },
+    {
+      "id": 15114720,
+      "name": "Go Colors Women Black Solid Loose-Fit Harem Pants",
+      "brand": "Go Colors",
+      "mrp": 899,
+      "price": 899,
+      "rating": 4.485691547393799,
+      "ratingCount": 1258
+    },
+    {
+      "id": 38058702,
+      "name": "SUKITI Women Loose Fit Harem Pants",
+      "brand": "SUKITI",
+      "mrp": 1999,
+      "price": 827,
+      "rating": 3.644444465637207,
+      "ratingCount": 45
+    },
+    {
+      "id": 33857736,
+      "name": "InWeave Women Loose Fit Checked Woven Design Harem Pants",
+      "brand": "InWeave",
+      "mrp": 1995,
+      "price": 892,
+      "rating": 4.351351261138916,
+      "ratingCount": 37
+    },
+    {
+      "id": 38058703,
+      "name": "SUKITI Women Loose Fit Harem Pants",
+      "brand": "SUKITI",
+      "mrp": 1999,
+      "price": 805,
+      "rating": 3.67391300201416,
+      "ratingCount": 46
+    },
+    {
+      "id": 40838986,
+      "name": "Stand Out Men Loose Fit Animal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1723,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38059859,
+      "name": "SUKITI Women Cotton Mid-Rise Loose Fit Harem Afghani Pant",
+      "brand": "SUKITI",
+      "mrp": 1999,
+      "price": 823,
+      "rating": 3.704545497894287,
+      "ratingCount": 44
+    },
+    {
+      "id": 24354756,
+      "name": "The Veshti Company Women Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1923,
+      "rating": 4.59780216217041,
+      "ratingCount": 455
+    },
+    {
+      "id": 37040903,
+      "name": "InWeave Women Loose Fit Printed Harem Pants",
+      "brand": "InWeave",
+      "mrp": 2495,
+      "price": 892,
+      "rating": 4.038461685180664,
+      "ratingCount": 26
+    },
+    {
+      "id": 31193251,
+      "name": "The Veshti Company Printed Loose Fit Pure Cotton Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 37938391,
+      "name": "SUKITI Women Loose Fit Pure Cotton Afghani Harem Pants",
+      "brand": "SUKITI",
+      "mrp": 1999,
+      "price": 836,
+      "rating": 3.644444465637207,
+      "ratingCount": 45
+    },
+    {
+      "id": 33501469,
+      "name": "InWeave Women Floral Printed Loose Fit Harem Pant",
+      "brand": "InWeave",
+      "mrp": 2895,
+      "price": 1168,
+      "rating": 4.508701324462891,
+      "ratingCount": 747
+    },
+    {
+      "id": 33857729,
+      "name": "InWeave Women Loose Fit Woven Design Harem Pants",
+      "brand": "InWeave",
+      "mrp": 1995,
+      "price": 892,
+      "rating": 4.342105388641357,
+      "ratingCount": 38
+    },
+    {
+      "id": 24354752,
+      "name": "The Veshti Company Tribal Printed Pure Cotton Pleated Ankle-Length Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.598684310913086,
+      "ratingCount": 456
+    },
+    {
+      "id": 15114722,
+      "name": "Go Colors Women Navy Blue Solid Loose-Fit Harem Pants",
+      "brand": "Go Colors",
+      "mrp": 899,
+      "price": 899,
+      "rating": 4.484536170959473,
+      "ratingCount": 1261
+    },
+    {
+      "id": 36514521,
+      "name": "InWeave Women Loose Fit Pure Cotton Harem Pants",
+      "brand": "InWeave",
+      "mrp": 2995,
+      "price": 892,
+      "rating": 4.038461685180664,
+      "ratingCount": 26
+    },
+    {
+      "id": 35680680,
+      "name": "Prathaa Women Loose Fit Pure Cotton Harem Pants",
+      "brand": "Prathaa",
+      "mrp": 3399,
+      "price": 3399,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 41272267,
+      "name": "Stand Out Women Loose Fit Tribal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 41291839,
+      "name": "Stand Out Women Loose Fit Tribal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 37040904,
+      "name": "InWeave Women Printed Loose Fit Harem Pants",
+      "brand": "InWeave",
+      "mrp": 2495,
+      "price": 892,
+      "rating": 4.038461685180664,
+      "ratingCount": 26
+    },
+    {
+      "id": 40506856,
+      "name": "Stand Out Men Loose Fit Animal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1723,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 24266588,
+      "name": "The Veshti Company Printed Pure Cotton Loose-fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1900,
+      "rating": 4.536231994628906,
+      "ratingCount": 69
+    },
+    {
+      "id": 30431125,
+      "name": "The Veshti Company Printed Loose Fit Pure Cotton Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1863,
+      "rating": 4.317460536956787,
+      "ratingCount": 63
+    },
+    {
+      "id": 24354786,
+      "name": "The Veshti Company Women Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.59780216217041,
+      "ratingCount": 455
+    },
+    {
+      "id": 30316277,
+      "name": "9rasa Women Block Printed Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 752,
+      "rating": 3.932098865509033,
+      "ratingCount": 162
+    },
+    {
+      "id": 34307777,
+      "name": "WHITEWHALE Unisex Loose Fit Striped Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 497,
+      "rating": 4.264705657958984,
+      "ratingCount": 34
+    },
+    {
+      "id": 40699114,
+      "name": "9rasa Women Loose Fit Floral Printed Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 894,
+      "rating": 3.9263803958892822,
+      "ratingCount": 163
+    },
+    {
+      "id": 40699116,
+      "name": "9rasa Women Loose Fit Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1999,
+      "price": 894,
+      "rating": 4.027777671813965,
+      "ratingCount": 72
+    },
+    {
+      "id": 40699111,
+      "name": "9rasa Women Loose Fit Embroidered Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1899,
+      "price": 894,
+      "rating": 4.857142925262451,
+      "ratingCount": 7
+    },
+    {
+      "id": 33501478,
+      "name": "InWeave Women Paisley Printed Loose Fit Harem Pant",
+      "brand": "InWeave",
+      "mrp": 2895,
+      "price": 892,
+      "rating": 4.509960174560547,
+      "ratingCount": 753
+    },
+    {
+      "id": 30316276,
+      "name": "9rasa Women  Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 883,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 29901729,
+      "name": "9rasa Women Pure Cotton Mid-Rise Loose Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1599,
+      "price": 879,
+      "rating": 4.25,
+      "ratingCount": 64
+    },
+    {
+      "id": 33501474,
+      "name": "InWeave Women Floral Printed Loose Fit Harem Pant",
+      "brand": "InWeave",
+      "mrp": 2495,
+      "price": 892,
+      "rating": 4.403041839599609,
+      "ratingCount": 263
+    },
+    {
+      "id": 37473683,
+      "name": "InWeave Women Ethnic Motifs Printed Loose Fit High-Rise Pure Cotton Harem Pants",
+      "brand": "InWeave",
+      "mrp": 2995,
+      "price": 892,
+      "rating": 4.92307710647583,
+      "ratingCount": 13
+    },
+    {
+      "id": 29429250,
+      "name": "9rasa Women Block Printed Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1999,
+      "price": 857,
+      "rating": 4.027777671813965,
+      "ratingCount": 72
+    },
+    {
+      "id": 29918308,
+      "name": "9rasa Women Block Printed Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1999,
+      "price": 816,
+      "rating": 4.027777671813965,
+      "ratingCount": 72
+    },
+    {
+      "id": 37383641,
+      "name": "SIDDHO HUM Women Pure Cotton High-Rise Loose Fit Drawstring Harem Pants",
+      "brand": "SIDDHO HUM",
+      "mrp": 1999,
+      "price": 1199,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 25061940,
+      "name": "Mera Rang Women Cotton Loose-fit Harem Pants",
+      "brand": "Mera Rang",
+      "mrp": 1695,
+      "price": 1594,
+      "rating": 3.5999999046325684,
+      "ratingCount": 10
+    },
+    {
+      "id": 33720424,
+      "name": "MIRAYYA Women Loose Fit Harem Pants",
+      "brand": "MIRAYYA",
+      "mrp": 1299,
+      "price": 277,
+      "rating": 4.285714149475098,
+      "ratingCount": 168
+    },
+    {
+      "id": 33720425,
+      "name": "MIRAYYA Women Loose Fit Harem Pants",
+      "brand": "MIRAYYA",
+      "mrp": 1299,
+      "price": 279,
+      "rating": 4.288235187530518,
+      "ratingCount": 170
+    },
+    {
+      "id": 40086484,
+      "name": "LUJOSO Women Loose Fit Graphic Printed Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 31124346,
+      "name": "ARAVALII Women Lace Cuff Pure Cotton Harem Pant",
+      "brand": "ARAVALII",
+      "mrp": 2099,
+      "price": 985,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 24266486,
+      "name": "The Veshti Company Men Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1946,
+      "rating": 4.65171480178833,
+      "ratingCount": 379
+    },
+    {
+      "id": 30431147,
+      "name": "The Veshti Company Printed Loose Fit Pure Cotton Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1923,
+      "rating": 4.598684310913086,
+      "ratingCount": 456
+    },
+    {
+      "id": 24266520,
+      "name": "The Veshti Company Men Colourblocked Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1882,
+      "rating": 4.3913044929504395,
+      "ratingCount": 23
+    },
+    {
+      "id": 25789728,
+      "name": "The Veshti Company Women Geometric Printed Cotton Loose-Fit Harem Pant",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.524752616882324,
+      "ratingCount": 101
+    },
+    {
+      "id": 25789726,
+      "name": "The Veshti Company Women Geometric Printed Mid-Rise Pure Cotton Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.529411792755127,
+      "ratingCount": 102
+    },
+    {
+      "id": 30431152,
+      "name": "The Veshti Company Printed Loose Fit Pure Cotton Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.833333492279053,
+      "ratingCount": 12
+    },
+    {
+      "id": 30431150,
+      "name": "The Veshti Company Printed Loose Fit Pure Cotton Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.59780216217041,
+      "ratingCount": 455
+    },
+    {
+      "id": 24354888,
+      "name": "The Veshti Company Women Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.730769157409668,
+      "ratingCount": 26
+    },
+    {
+      "id": 30431151,
+      "name": "The Veshti Company Printed Loose Fit Pure Cotton Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.833333492279053,
+      "ratingCount": 12
+    },
+    {
+      "id": 30431146,
+      "name": "The Veshti Company Printed Loose Fit Pure Cotton Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.833333492279053,
+      "ratingCount": 12
+    },
+    {
+      "id": 24266564,
+      "name": "The Veshti Company Men Printed Pure Cotton Loose-fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1882,
+      "rating": 4.447368621826172,
+      "ratingCount": 76
+    },
+    {
+      "id": 24266504,
+      "name": "The Veshti Company Men Colourblocked Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1900,
+      "rating": 4.3913044929504395,
+      "ratingCount": 23
+    },
+    {
+      "id": 24266524,
+      "name": "The Veshti Company Men Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1850,
+      "rating": 4.447368621826172,
+      "ratingCount": 76
+    },
+    {
+      "id": 24354750,
+      "name": "The Veshti Company Striped Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1823,
+      "rating": 4.714285850524902,
+      "ratingCount": 28
+    },
+    {
+      "id": 24354890,
+      "name": "The Veshti Company Women Woven Design Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1823,
+      "rating": 4.75,
+      "ratingCount": 28
+    },
+    {
+      "id": 37501385,
+      "name": "Go Colors Women Loose Fit Harem Pants",
+      "brand": "Go Colors",
+      "mrp": 899,
+      "price": 899,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 16161766,
+      "name": "Go Colors Women Maroon Solid Loose-Fit Harem Pants",
+      "brand": "Go Colors",
+      "mrp": 899,
+      "price": 899,
+      "rating": 4.485691547393799,
+      "ratingCount": 1258
+    },
+    {
+      "id": 16161760,
+      "name": "Go Colors Women Black Solid Loose Fit Harem Pants",
+      "brand": "Go Colors",
+      "mrp": 899,
+      "price": 899,
+      "rating": 4.486486434936523,
+      "ratingCount": 1258
+    },
+    {
+      "id": 18293244,
+      "name": "Go Colors Women Beige Solid Loose-Fit Harem Pant",
+      "brand": "Go Colors",
+      "mrp": 899,
+      "price": 899,
+      "rating": 4.485691547393799,
+      "ratingCount": 1258
+    },
+    {
+      "id": 24266500,
+      "name": "The Veshti Company Men Colourblocked Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1863,
+      "rating": 4.3913044929504395,
+      "ratingCount": 23
+    },
+    {
+      "id": 36514522,
+      "name": "InWeave Women Loose Fit Circle Printed Harem Pants",
+      "brand": "InWeave",
+      "mrp": 2995,
+      "price": 892,
+      "rating": 4.038461685180664,
+      "ratingCount": 26
+    },
+    {
+      "id": 37040902,
+      "name": "InWeave Women Loose Fit Printed Harem Pants",
+      "brand": "InWeave",
+      "mrp": 2495,
+      "price": 892,
+      "rating": 4.038461685180664,
+      "ratingCount": 26
+    },
+    {
+      "id": 37596462,
+      "name": "InWeave Women Loose Fit Ethnic Motifs Printed Cotton Harem Pants",
+      "brand": "InWeave",
+      "mrp": 1999,
+      "price": 892,
+      "rating": 4.9285712242126465,
+      "ratingCount": 14
+    },
+    {
+      "id": 32781446,
+      "name": "InWeave Women Ethnic Motifs Printed Harem Pants",
+      "brand": "InWeave",
+      "mrp": 2495,
+      "price": 892,
+      "rating": 4.51094913482666,
+      "ratingCount": 137
+    },
+    {
+      "id": 38751953,
+      "name": "SUKITI Women Loose Fit Harem Pants",
+      "brand": "SUKITI",
+      "mrp": 3998,
+      "price": 1705,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 24354798,
+      "name": "The Veshti Company Women Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.598684310913086,
+      "ratingCount": 456
+    },
+    {
+      "id": 38059111,
+      "name": "SUKITI Women Loose Fit Harem Afghani Pants",
+      "brand": "SUKITI",
+      "mrp": 1999,
+      "price": 847,
+      "rating": 3.644444465637207,
+      "ratingCount": 45
+    },
+    {
+      "id": 29961372,
+      "name": "9rasa Women Harem Pants Plus Size",
+      "brand": "9rasa",
+      "mrp": 1999,
+      "price": 808,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 12969500,
+      "name": "InWeave Women Blue & Cream Printed Harem Pants",
+      "brand": "InWeave",
+      "mrp": 1999,
+      "price": 798,
+      "rating": 4.0838446617126465,
+      "ratingCount": 978
+    },
+    {
+      "id": 25061938,
+      "name": "Mera Rang Women Pure Cotton Loose-fit Harem Pants",
+      "brand": "Mera Rang",
+      "mrp": 1650,
+      "price": 1549,
+      "rating": 4.400000095367432,
+      "ratingCount": 5
+    },
+    {
+      "id": 33774713,
+      "name": "9rasa Women Loose Fit Printed Cotton Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 762,
+      "rating": 4.1027398109436035,
+      "ratingCount": 146
+    },
+    {
+      "id": 34786229,
+      "name": "9rasa Women Embroidered Loose Fit Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1899,
+      "price": 757,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 29901702,
+      "name": "9rasa Women Plus Size Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1799,
+      "price": 755,
+      "rating": 4.5,
+      "ratingCount": 12
+    },
+    {
+      "id": 33022817,
+      "name": "9rasa Cotton Placement Print Harem Pant",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 752,
+      "rating": 3.932098865509033,
+      "ratingCount": 162
+    },
+    {
+      "id": 33022821,
+      "name": "9rasa Cotton Placement Print Harem Pant",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 752,
+      "rating": 3.932098865509033,
+      "ratingCount": 162
+    },
+    {
+      "id": 37531109,
+      "name": "GALE GIRLS Women Straight Fit Printed Harem Pants",
+      "brand": "GALE GIRLS",
+      "mrp": 3999,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 37531104,
+      "name": "GALE GIRLS Women Loose Fit Printed Bohemian Stretchable Harem Pants",
+      "brand": "GALE GIRLS",
+      "mrp": 3999,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 37531105,
+      "name": "GALE GIRLS Women Ethnic Motifs Printed Straight Fit Printed Harem Pants",
+      "brand": "GALE GIRLS",
+      "mrp": 3999,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 39676171,
+      "name": "WHITEWHALE Unisex Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 457,
+      "rating": 4.666666507720947,
+      "ratingCount": 15
+    },
+    {
+      "id": 34307780,
+      "name": "WHITEWHALE Unisex Loose Fit Cotton Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 470,
+      "rating": 4.264705657958984,
+      "ratingCount": 34
+    },
+    {
+      "id": 25789734,
+      "name": "The Veshti Company Men Tribal Printed Pure Cotton Loose Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1863,
+      "rating": 4.7936506271362305,
+      "ratingCount": 63
+    },
+    {
+      "id": 31124338,
+      "name": "ARAVALII Women Pintex Detailing Pure Cotton Afghani Harem Pant",
+      "brand": "ARAVALII",
+      "mrp": 1999,
+      "price": 985,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 37611317,
+      "name": "HOPE House of Pure Eco Women Relaxed Fit High-Rise Slip-On Harem Yoga Pants",
+      "brand": "HOPE House of Pure Eco",
+      "mrp": 1999,
+      "price": 970,
+      "rating": 4.384615421295166,
+      "ratingCount": 13
+    },
+    {
+      "id": 37611312,
+      "name": "HOPE House of Pure Eco Women High -Rise Slip On Harem Yoga Pants",
+      "brand": "HOPE House of Pure Eco",
+      "mrp": 1999,
+      "price": 970,
+      "rating": 4.384615421295166,
+      "ratingCount": 13
+    },
+    {
+      "id": 40988896,
+      "name": "ARAVALII Women Straight Fit Harem Pants",
+      "brand": "ARAVALII",
+      "mrp": 1899,
+      "price": 967,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33756036,
+      "name": "WHITEWHALE Unisex Loose Fit Striped Printed Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 539,
+      "rating": 4.242424011230469,
+      "ratingCount": 66
+    },
+    {
+      "id": 37811611,
+      "name": "WHITEWHALE Unisex Loose Fit Striped Printed Hippie Boho Gypsy Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 539,
+      "rating": 4.269230842590332,
+      "ratingCount": 26
+    },
+    {
+      "id": 34307775,
+      "name": "WHITEWHALE Unisex Loose Fit Striped Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 497,
+      "rating": 4.264705657958984,
+      "ratingCount": 34
+    },
+    {
+      "id": 34307771,
+      "name": "WHITEWHALE Unisex Striped Printed Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 497,
+      "rating": 4.264705657958984,
+      "ratingCount": 34
+    },
+    {
+      "id": 35202851,
+      "name": "WHITEWHALE Unisex Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 497,
+      "rating": 4.147058963775635,
+      "ratingCount": 34
+    },
+    {
+      "id": 18293242,
+      "name": "Go Colors Women Light Beige Solid Harem Pants",
+      "brand": "Go Colors",
+      "mrp": 899,
+      "price": 899,
+      "rating": 4.485691547393799,
+      "ratingCount": 1258
+    },
+    {
+      "id": 41063050,
+      "name": "9rasa Women Loose Fit Floral Printed Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1899,
+      "price": 894,
+      "rating": 4.25,
+      "ratingCount": 64
+    },
+    {
+      "id": 37043086,
+      "name": "InWeave Women Printed Loose Fit Harem Pants",
+      "brand": "InWeave",
+      "mrp": 2495,
+      "price": 892,
+      "rating": 4.285714149475098,
+      "ratingCount": 7
+    },
+    {
+      "id": 33857733,
+      "name": "InWeave Women Checked Loose Fit Harem Pants",
+      "brand": "InWeave",
+      "mrp": 1995,
+      "price": 892,
+      "rating": 4.351351261138916,
+      "ratingCount": 37
+    },
+    {
+      "id": 27394450,
+      "name": "InWeave Leaves Printed Loose Fit Harem Pants",
+      "brand": "InWeave",
+      "mrp": 2599,
+      "price": 892,
+      "rating": 4.070422649383545,
+      "ratingCount": 71
+    },
+    {
+      "id": 37043083,
+      "name": "InWeave Women Geometric Printed Mid-Rise Loose Fit Harem Pants",
+      "brand": "InWeave",
+      "mrp": 2495,
+      "price": 892,
+      "rating": 4.285714149475098,
+      "ratingCount": 7
+    },
+    {
+      "id": 27394474,
+      "name": "InWeave Floral Printed Loose Fit Harem Pants",
+      "brand": "InWeave",
+      "mrp": 2599,
+      "price": 892,
+      "rating": 4.057142734527588,
+      "ratingCount": 70
+    },
+    {
+      "id": 39676177,
+      "name": "WHITEWHALE Unisex Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 457,
+      "rating": 4.642857074737549,
+      "ratingCount": 14
+    },
+    {
+      "id": 15114716,
+      "name": "Go Colors Women Maroon Solid Harem Pants",
+      "brand": "Go Colors",
+      "mrp": 899,
+      "price": 899,
+      "rating": 4.486894130706787,
+      "ratingCount": 1259
+    },
+    {
+      "id": 37814470,
+      "name": "WHITEWHALE Unisex Cotton Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 470,
+      "rating": 3.75,
+      "ratingCount": 12
+    },
+    {
+      "id": 41063048,
+      "name": "9rasa Women Loose Fit Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1599,
+      "price": 879,
+      "rating": 4.25,
+      "ratingCount": 64
+    },
+    {
+      "id": 35202918,
+      "name": "WHITEWHALE Unisex Solid Loose Fit Mid-Rise Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 497,
+      "rating": 4.171428680419922,
+      "ratingCount": 35
+    },
+    {
+      "id": 33720441,
+      "name": "MIRAYYA Women Loose Fit Harem Pants",
+      "brand": "MIRAYYA",
+      "mrp": 1299,
+      "price": 279,
+      "rating": 4.283132553100586,
+      "ratingCount": 166
+    },
+    {
+      "id": 33720428,
+      "name": "MIRAYYA Women Loose Fit Harem Pants",
+      "brand": "MIRAYYA",
+      "mrp": 1299,
+      "price": 274,
+      "rating": 4.27439022064209,
+      "ratingCount": 164
+    },
+    {
+      "id": 37446611,
+      "name": "PalloStyle Women Loose Fit Mid-Rise Harem Pants",
+      "brand": "PalloStyle",
+      "mrp": 1199,
+      "price": 274,
+      "rating": 4.1875,
+      "ratingCount": 16
+    },
+    {
+      "id": 29429246,
+      "name": "9rasa Women Block Printed Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1999,
+      "price": 812,
+      "rating": 4.027777671813965,
+      "ratingCount": 72
+    },
+    {
+      "id": 29901727,
+      "name": "9rasa Women Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1199,
+      "price": 791,
+      "rating": 3.3333332538604736,
+      "ratingCount": 6
+    },
+    {
+      "id": 40165075,
+      "name": "9rasa Women Loose Fit Tribal Plus Size Cotton Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1899,
+      "price": 778,
+      "rating": 4.277777671813965,
+      "ratingCount": 18
+    },
+    {
+      "id": 25061944,
+      "name": "Mera Rang Women Pure Cotton Loose-fit Harem Pants",
+      "brand": "Mera Rang",
+      "mrp": 1695,
+      "price": 791,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 29429252,
+      "name": "9rasa Women Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1999,
+      "price": 759,
+      "rating": 3.9166667461395264,
+      "ratingCount": 24
+    },
+    {
+      "id": 33022825,
+      "name": "9rasa Cotton Placement Print Harem Pant",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 752,
+      "rating": 3.932098865509033,
+      "ratingCount": 162
+    },
+    {
+      "id": 40165059,
+      "name": "9rasa Women Loose Fit Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1799,
+      "price": 745,
+      "rating": 4.44444465637207,
+      "ratingCount": 9
+    },
+    {
+      "id": 29901719,
+      "name": "9rasa Women Pure Cotton Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 752,
+      "rating": 3.9259259700775146,
+      "ratingCount": 162
+    },
+    {
+      "id": 33402108,
+      "name": "9rasa Women Plus Size Cotton Block Printed Pocket Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1999,
+      "price": 741,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 29961369,
+      "name": "9rasa Women Pure Cotton High Rise Slip-On Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1999,
+      "price": 741,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33501475,
+      "name": "InWeave SOLID High-Rise Loose Fit Harem Pants",
+      "brand": "InWeave",
+      "mrp": 2195,
+      "price": 712,
+      "rating": 4.390334606170654,
+      "ratingCount": 269
+    },
+    {
+      "id": 29901700,
+      "name": "9rasa Women Mid-Rise Loose Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1599,
+      "price": 706,
+      "rating": 4.155172348022461,
+      "ratingCount": 58
+    },
+    {
+      "id": 33061792,
+      "name": "9rasa Viscose Solid Cowl Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1599,
+      "price": 706,
+      "rating": 4.155172348022461,
+      "ratingCount": 58
+    },
+    {
+      "id": 35669715,
+      "name": "WHITEWHALE Unisex Loose Fit Mid-Rise Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 563,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35203641,
+      "name": "WHITEWHALE Unisex Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 563,
+      "rating": 5,
+      "ratingCount": 5
+    },
+    {
+      "id": 33720451,
+      "name": "MIRAYYA Women Loose Fit Harem Pants",
+      "brand": "MIRAYYA",
+      "mrp": 1299,
+      "price": 274,
+      "rating": 4.262499809265137,
+      "ratingCount": 160
+    },
+    {
+      "id": 38134912,
+      "name": "WHITEWHALE Unisex Loose Fit Ethnic Motifs Printed Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 497,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 37464848,
+      "name": "Mirayya Enterprises Women Flared Fit Mid-Rise Afghani Harem Pants",
+      "brand": "Mirayya Enterprises",
+      "mrp": 1199,
+      "price": 274,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33756035,
+      "name": "WHITEWHALE Unisex Cotton Loose Fit Mid-Rise Striped Printed Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 539,
+      "rating": 4.238805770874023,
+      "ratingCount": 67
+    },
+    {
+      "id": 38132357,
+      "name": "WHITEWHALE Unisex Loose Fit Ethnic Motifs Printed Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 497,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 39676157,
+      "name": "WHITEWHALE Unisex Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 478,
+      "rating": 4.642857074737549,
+      "ratingCount": 14
+    },
+    {
+      "id": 39676158,
+      "name": "WHITEWHALE Unisex Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 477,
+      "rating": 4.642857074737549,
+      "ratingCount": 14
+    },
+    {
+      "id": 39676175,
+      "name": "WHITEWHALE Unisex Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 457,
+      "rating": 4.666666507720947,
+      "ratingCount": 15
+    },
+    {
+      "id": 39676143,
+      "name": "WHITEWHALE Unisex Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 457,
+      "rating": 4.666666507720947,
+      "ratingCount": 15
+    },
+    {
+      "id": 36296006,
+      "name": "WHITEWHALE Unisex Abstract Printed Mid-Rise Loose Fit Harem Pant",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 498,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35671089,
+      "name": "WHITEWHALE Unisex Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 497,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 37811613,
+      "name": "WHITEWHALE Unisex Loose Fit Striped Printed Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 539,
+      "rating": 4.269230842590332,
+      "ratingCount": 26
+    },
+    {
+      "id": 37438249,
+      "name": "PalloStyle Women Loose Fit Harem Pants",
+      "brand": "PalloStyle",
+      "mrp": 1199,
+      "price": 274,
+      "rating": 4.1875,
+      "ratingCount": 16
+    },
+    {
+      "id": 38058704,
+      "name": "SUKITI Women Loose Fit Harem Pants",
+      "brand": "SUKITI",
+      "mrp": 1999,
+      "price": 833,
+      "rating": 3.644444465637207,
+      "ratingCount": 45
+    },
+    {
+      "id": 29429260,
+      "name": "9rasa Women Block Printed Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 752,
+      "rating": 3.9259259700775146,
+      "ratingCount": 162
+    },
+    {
+      "id": 24266480,
+      "name": "The Veshti Company Men Mid-Rise Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1846,
+      "rating": 4.476190567016602,
+      "ratingCount": 42
+    },
+    {
+      "id": 36514514,
+      "name": "InWeave Women Ethnic Motifs Printed Loose Fit Harem Pants",
+      "brand": "InWeave",
+      "mrp": 3095,
+      "price": 1311,
+      "rating": 4.509960174560547,
+      "ratingCount": 753
+    },
+    {
+      "id": 38058699,
+      "name": "SUKITI Women Loose Fit Afghani Harem Pants",
+      "brand": "SUKITI",
+      "mrp": 1999,
+      "price": 747,
+      "rating": 3.644444465637207,
+      "ratingCount": 45
+    },
+    {
+      "id": 38059112,
+      "name": "SUKITI Women Loose Fit Harem Pants",
+      "brand": "SUKITI",
+      "mrp": 1999,
+      "price": 823,
+      "rating": 3.697674512863159,
+      "ratingCount": 43
+    },
+    {
+      "id": 24354844,
+      "name": "The Veshti Company Women Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1923,
+      "rating": 4.59780216217041,
+      "ratingCount": 455
+    },
+    {
+      "id": 24354782,
+      "name": "The Veshti Company Tribal Printed Pure Cotton Pleated Ankle-Length Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.25,
+      "ratingCount": 24
+    },
+    {
+      "id": 24354758,
+      "name": "The Veshti Company Women Pure Cotton Losse-Fit Harem Pant",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.25,
+      "ratingCount": 24
+    },
+    {
+      "id": 24266528,
+      "name": "The Veshti Company Men Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1863,
+      "rating": 4.447368621826172,
+      "ratingCount": 76
+    },
+    {
+      "id": 30517877,
+      "name": "Baawri Tropical Printed Loose-Fit Harem Pants",
+      "brand": "Baawri",
+      "mrp": 3200,
+      "price": 1402,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35713344,
+      "name": "StyleCast x Revolte Women Cotton Loose Fit Mid-Rise Harem Pants",
+      "brand": "StyleCast x Revolte",
+      "mrp": 3449,
+      "price": 1310,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 25789732,
+      "name": "The Veshti Company Men Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1846,
+      "rating": 4.476190567016602,
+      "ratingCount": 42
+    },
+    {
+      "id": 24354788,
+      "name": "The Veshti Company Tribal Printed Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1823,
+      "rating": 4.642857074737549,
+      "ratingCount": 14
+    },
+    {
+      "id": 16161774,
+      "name": "Go Colors Women Navy Blue Solid Loose-Fit Harem Pants",
+      "brand": "Go Colors",
+      "mrp": 899,
+      "price": 899,
+      "rating": 4.484536170959473,
+      "ratingCount": 1261
+    },
+    {
+      "id": 37473691,
+      "name": "InWeave Women Loose Fit Ethnic Motifs Printed Pure Cotton Harem Pants",
+      "brand": "InWeave",
+      "mrp": 2995,
+      "price": 892,
+      "rating": 4.9285712242126465,
+      "ratingCount": 14
+    },
+    {
+      "id": 35680681,
+      "name": "Prathaa Women Loose Fit Pure Cotton Harem Pants",
+      "brand": "Prathaa",
+      "mrp": 3399,
+      "price": 3399,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 41288480,
+      "name": "Stand Out Women Loose Fit Tribal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40792403,
+      "name": "Stand Out Women Loose Fit Animal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 29961421,
+      "name": "9rasa Women Plus Size Block Printed Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1899,
+      "price": 737,
+      "rating": 4.199999809265137,
+      "ratingCount": 5
+    },
+    {
+      "id": 29901717,
+      "name": "9rasa Women  Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1599,
+      "price": 879,
+      "rating": 4.25,
+      "ratingCount": 64
+    },
+    {
+      "id": 40165058,
+      "name": "9rasa Women Loose Fit Floral Printed Plus Size Cotton Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1999,
+      "price": 864,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35680676,
+      "name": "Prathaa Tula  Black Asymmetric Draped Pants",
+      "brand": "Prathaa",
+      "mrp": 2499,
+      "price": 2356,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 37464853,
+      "name": "Mirayya Enterprises Women Loose- Fit Boho Style Harem Pants",
+      "brand": "Mirayya Enterprises",
+      "mrp": 1199,
+      "price": 274,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 37611314,
+      "name": "HOPE House of Pure Eco Women Loose Fit Tribal Cotton Harem Pants",
+      "brand": "HOPE House of Pure Eco",
+      "mrp": 1999,
+      "price": 970,
+      "rating": 4.384615421295166,
+      "ratingCount": 13
+    },
+    {
+      "id": 30431141,
+      "name": "The Veshti Company Printed Loose Fit Pure Cotton Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1923,
+      "rating": 4.833333492279053,
+      "ratingCount": 12
+    },
+    {
+      "id": 24266508,
+      "name": "The Veshti Company Men Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1900,
+      "rating": 4.447368621826172,
+      "ratingCount": 76
+    },
+    {
+      "id": 30431143,
+      "name": "The Veshti Company Printed Loose Fit Pure Cotton Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.598684310913086,
+      "ratingCount": 456
+    },
+    {
+      "id": 24354792,
+      "name": "The Veshti Company Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.598684310913086,
+      "ratingCount": 456
+    },
+    {
+      "id": 24354760,
+      "name": "The Veshti Company Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.598684310913086,
+      "ratingCount": 456
+    },
+    {
+      "id": 24266580,
+      "name": "The Veshti Company Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1865,
+      "rating": 4.7936506271362305,
+      "ratingCount": 63
+    },
+    {
+      "id": 24266526,
+      "name": "The Veshti Company Men Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1863,
+      "rating": 4.547618865966797,
+      "ratingCount": 42
+    },
+    {
+      "id": 40615521,
+      "name": "The Veshti Company Men Solid Loose Fit Pure Cotton Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1846,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 39676169,
+      "name": "WHITEWHALE Unisex Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 457,
+      "rating": 4.666666507720947,
+      "ratingCount": 15
+    },
+    {
+      "id": 24354784,
+      "name": "The Veshti Company Women Tribal Printed Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1823,
+      "rating": 4.5,
+      "ratingCount": 6
+    },
+    {
+      "id": 37043082,
+      "name": "InWeave Women Loose Fit Printed Harem Pants",
+      "brand": "InWeave",
+      "mrp": 2495,
+      "price": 892,
+      "rating": 4.285714149475098,
+      "ratingCount": 7
+    },
+    {
+      "id": 27394472,
+      "name": "InWeave Floral Printed Loose Fit Harem Pants",
+      "brand": "InWeave",
+      "mrp": 2599,
+      "price": 892,
+      "rating": 4.070422649383545,
+      "ratingCount": 71
+    },
+    {
+      "id": 41293232,
+      "name": "Stand Out Woman Loose Fit Tribal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 41273109,
+      "name": "Stand Out Women Loose Fit Animal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40860760,
+      "name": "Stand Out Women Loose Fit Graphic Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40467425,
+      "name": "SUKITI Women Loose Fit Harem Pants",
+      "brand": "SUKITI",
+      "mrp": 3998,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328972,
+      "name": "LUJOSO Women Loose Fit Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1692,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328955,
+      "name": "LUJOSO Women Loose Fit Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1692,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328954,
+      "name": "LUJOSO Women Loose Fit Printed Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1692,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38078624,
+      "name": "Crazy Needle Women Slim Fit Woven Design Harem Pants",
+      "brand": "Crazy Needle",
+      "mrp": 3349,
+      "price": 1307,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38078623,
+      "name": "Crazy Needle Women Slim Fit Woven Design Harem Pants",
+      "brand": "Crazy Needle",
+      "mrp": 3349,
+      "price": 1282,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 29948737,
+      "name": "Tahiliya White Soft Cotton Izhaar Pants",
+      "brand": "Tahiliya",
+      "mrp": 1590,
+      "price": 1267,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 32714492,
+      "name": "InWeave Women Ethnic Motifs Printed Harem Pants",
+      "brand": "InWeave",
+      "mrp": 2495,
+      "price": 1168,
+      "rating": 4.51094913482666,
+      "ratingCount": 137
+    },
+    {
+      "id": 35669721,
+      "name": "WHITEWHALE Unisex Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 563,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35460316,
+      "name": "WHITEWHALE Unisex Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 563,
+      "rating": 4.5,
+      "ratingCount": 14
+    },
+    {
+      "id": 32273925,
+      "name": "Anootha Women Cotton Harem Pants",
+      "brand": "Anootha",
+      "mrp": 1199,
+      "price": 1199,
+      "rating": 3.615384578704834,
+      "ratingCount": 13
+    },
+    {
+      "id": 32273906,
+      "name": "Anootha Women Cotton Loose Fit Harem Pants",
+      "brand": "Anootha",
+      "mrp": 1199,
+      "price": 1199,
+      "rating": 3.615384578704834,
+      "ratingCount": 13
+    },
+    {
+      "id": 37531115,
+      "name": "GALE GIRLS Women Straight Fit Printed Harem Pants",
+      "brand": "GALE GIRLS",
+      "mrp": 3999,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 37531110,
+      "name": "GALE GIRLS Women Straight Fit Ethnic Motifs Printed Mid-Rise Harem Pants",
+      "brand": "GALE GIRLS",
+      "mrp": 3999,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 37531107,
+      "name": "GALE GIRLS Women Boho Printed Straight Fit Stretchable Harem Pants",
+      "brand": "GALE GIRLS",
+      "mrp": 3999,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 32273914,
+      "name": "Anootha Women Pure Cotton Harem Pant",
+      "brand": "Anootha",
+      "mrp": 1299,
+      "price": 1299,
+      "rating": 3.615384578704834,
+      "ratingCount": 13
+    },
+    {
+      "id": 32273908,
+      "name": "Anootha Women Loose Fit Mid-Rise Pure Cotton Harem Pant",
+      "brand": "Anootha",
+      "mrp": 1299,
+      "price": 1299,
+      "rating": 3.615384578704834,
+      "ratingCount": 13
+    },
+    {
+      "id": 32273900,
+      "name": "Anootha Women Loose Fit Mid-Rise Pure Cotton Harem Pant",
+      "brand": "Anootha",
+      "mrp": 1299,
+      "price": 1299,
+      "rating": 3.615384578704834,
+      "ratingCount": 13
+    },
+    {
+      "id": 32273903,
+      "name": "Anootha Women Cotton Harem Pants",
+      "brand": "Anootha",
+      "mrp": 1199,
+      "price": 1199,
+      "rating": 3.615384578704834,
+      "ratingCount": 13
+    },
+    {
+      "id": 38343524,
+      "name": "MIXFIT Women Straight Fit Harem Pants",
+      "brand": "MIXFIT",
+      "mrp": 998,
+      "price": 998,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38134921,
+      "name": "WHITEWHALE Unisex Loose Fit Ethnic Motifs Printed Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 497,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35466403,
+      "name": "WHITEWHALE Unisex Abstract Printed Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 497,
+      "rating": 4.3125,
+      "ratingCount": 16
+    },
+    {
+      "id": 35202908,
+      "name": "WHITEWHALE Unisex Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 497,
+      "rating": 4.147058963775635,
+      "ratingCount": 34
+    },
+    {
+      "id": 35201539,
+      "name": "WHITEWHALE Unisex Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 497,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40988897,
+      "name": "ARAVALII Women Straight Fit Harem Pants",
+      "brand": "ARAVALII",
+      "mrp": 1899,
+      "price": 967,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40988894,
+      "name": "ARAVALII Women Straight Fit Harem Pants",
+      "brand": "ARAVALII",
+      "mrp": 1899,
+      "price": 967,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40699112,
+      "name": "9rasa Women Loose Fit Printed Harem Cotton Pants",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 894,
+      "rating": 3.8421051502227783,
+      "ratingCount": 19
+    },
+    {
+      "id": 41063049,
+      "name": "9rasa Women Loose Fit Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1599,
+      "price": 879,
+      "rating": 4.25,
+      "ratingCount": 64
+    },
+    {
+      "id": 29901713,
+      "name": "9rasa Women Pure Cotton Mid-Rise Loose Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1599,
+      "price": 879,
+      "rating": 4.25,
+      "ratingCount": 64
+    },
+    {
+      "id": 40330055,
+      "name": "LUJOSO Women Loose Fit Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1499,
+      "price": 858,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40330053,
+      "name": "LUJOSO Women Loose Fit Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1499,
+      "price": 858,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 34786255,
+      "name": "9rasa Chevron Printed Cotton Loose Fit Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 849,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38059110,
+      "name": "SUKITI Women Loose Fit Cotton Solid Afghani Pant",
+      "brand": "SUKITI",
+      "mrp": 1999,
+      "price": 841,
+      "rating": 3.644444465637207,
+      "ratingCount": 45
+    },
+    {
+      "id": 38058701,
+      "name": "SUKITI Women Loose Fit Cotton  Afghani Harem Pants",
+      "brand": "SUKITI",
+      "mrp": 1999,
+      "price": 840,
+      "rating": 3.644444465637207,
+      "ratingCount": 45
+    },
+    {
+      "id": 34476595,
+      "name": "Exotic India Printed Satin Harem Pants for Women",
+      "brand": "Exotic India",
+      "mrp": 1360,
+      "price": 829,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33402121,
+      "name": "Plus Size Cotton Solid Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1799,
+      "price": 767,
+      "rating": 4.44444465637207,
+      "ratingCount": 9
+    },
+    {
+      "id": 33402116,
+      "name": "9rasa Women Plus Size Loose Fit Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1799,
+      "price": 767,
+      "rating": 4.44444465637207,
+      "ratingCount": 9
+    },
+    {
+      "id": 29901714,
+      "name": "9rasa Women Pure Cotton Plus Size Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1799,
+      "price": 767,
+      "rating": 4.44444465637207,
+      "ratingCount": 9
+    },
+    {
+      "id": 29901707,
+      "name": "9rasa Women Pure Cotton Plus Size Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1799,
+      "price": 766,
+      "rating": 4.44444465637207,
+      "ratingCount": 9
+    },
+    {
+      "id": 40165069,
+      "name": "9rasa Women Loose Fit Tribal Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1899,
+      "price": 763,
+      "rating": 4.277777671813965,
+      "ratingCount": 18
+    },
+    {
+      "id": 40165060,
+      "name": "9rasa Women Loose Fit Tribal Plus Size Cotton Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1899,
+      "price": 763,
+      "rating": 4.277777671813965,
+      "ratingCount": 18
+    },
+    {
+      "id": 33022838,
+      "name": "9rasa Cotton Indigo Print Drop Crotch Harem Pant",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 752,
+      "rating": 4.1027398109436035,
+      "ratingCount": 146
+    },
+    {
+      "id": 28274554,
+      "name": "9rasa Women Warli Printed Loose Fit Pure Cotton Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 752,
+      "rating": 4.095238208770752,
+      "ratingCount": 147
+    },
+    {
+      "id": 28274544,
+      "name": "9rasa Women Plus Size Loose Fit High-Rise Pure Cotton Harem Pant",
+      "brand": "9rasa",
+      "mrp": 1899,
+      "price": 751,
+      "rating": 4.277777671813965,
+      "ratingCount": 18
+    },
+    {
+      "id": 29961371,
+      "name": "9rasa Women Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1999,
+      "price": 741,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35662938,
+      "name": "WHITEWHALE Unisex Loose Fit Ethnic Motifs Printed Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 592,
+      "rating": 4.114285945892334,
+      "ratingCount": 35
+    },
+    {
+      "id": 35198746,
+      "name": "9rasa Women Loose Fit Cowl Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1599,
+      "price": 706,
+      "rating": 4.140350818634033,
+      "ratingCount": 57
+    },
+    {
+      "id": 33061790,
+      "name": "9rasa Viscose Solid Cowl Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1599,
+      "price": 706,
+      "rating": 4.155172348022461,
+      "ratingCount": 58
+    },
+    {
+      "id": 33061791,
+      "name": "9rasa Viscose Solid Cowl Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1599,
+      "price": 705,
+      "rating": 4.127272605895996,
+      "ratingCount": 55
+    },
+    {
+      "id": 35460306,
+      "name": "WHITEWHALE Unisex Loose Fit Mid-Rise Cotton Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 565,
+      "rating": 4.5,
+      "ratingCount": 14
+    },
+    {
+      "id": 37811609,
+      "name": "WHITEWHALE Unisex Loose Fit Striped Printed Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 539,
+      "rating": 4.269230842590332,
+      "ratingCount": 26
+    },
+    {
+      "id": 35201558,
+      "name": "WHITEWHALE Unisex Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 539,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35466415,
+      "name": "WHITEWHALE Unisex Loose Fit Mid-Rise Pure Cotton Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 539,
+      "rating": 4.3125,
+      "ratingCount": 16
+    },
+    {
+      "id": 35671112,
+      "name": "WHITEWHALE Unisex Loose Fit Mid-Rise Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 497,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 12255262,
+      "name": "GRACIT Women Yellow Solid Harem Pants",
+      "brand": "GRACIT",
+      "mrp": 1249,
+      "price": 287,
+      "rating": 4.199999809265137,
+      "ratingCount": 140
+    },
+    {
+      "id": 37438248,
+      "name": "PalloStyle Women Solid Loose Fit Harem Pants",
+      "brand": "PalloStyle",
+      "mrp": 1199,
+      "price": 274,
+      "rating": 4.1875,
+      "ratingCount": 16
+    },
+    {
+      "id": 41541146,
+      "name": "9rasa Women Loose Fit Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1899,
+      "price": 894,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 41541145,
+      "name": "9rasa Women Loose Fit Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1899,
+      "price": 894,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 41336100,
+      "name": "Stand Out Men Loose Fit Tribal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 41336099,
+      "name": "Stand Out Men Loose Fit Tribal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 41293231,
+      "name": "Stand Out Men Loose Fit Tribal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1723,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 41288481,
+      "name": "Stand Out Men Loose Fit Tribal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1723,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 41286060,
+      "name": "Stand Out Women Loose Fit Animal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 41281834,
+      "name": "Stand Out Women Loose Fit Tribal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 41281833,
+      "name": "Stand Out Women Loose Fit Tribal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 41281018,
+      "name": "Stand Out Men Loose Fit Tribal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1723,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 41281017,
+      "name": "Stand Out Men Loose Fit Tribal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1723,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 41272261,
+      "name": "Stand Out Men Loose Fit Tribal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1723,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 41260567,
+      "name": "Stand Out Men Loose Fit Tribal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1723,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 41125949,
+      "name": "V-Mart Girls Loose Fit Printed Harem Pants",
+      "brand": "V-Mart",
+      "mrp": 299,
+      "price": 299,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 41125948,
+      "name": "V-Mart Girls Loose Fit Polka Dot Printed Harem Pants",
+      "brand": "V-Mart",
+      "mrp": 299,
+      "price": 299,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 41063052,
+      "name": "9rasa Women Loose Fit Floral Printed Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1899,
+      "price": 894,
+      "rating": 4.25,
+      "ratingCount": 64
+    },
+    {
+      "id": 41063051,
+      "name": "9rasa Women Loose Fit Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1599,
+      "price": 879,
+      "rating": 4.25,
+      "ratingCount": 64
+    },
+    {
+      "id": 40791498,
+      "name": "Stand Out Men Loose Fit Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1723,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40699110,
+      "name": "9rasa Printed Cotton Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 849,
+      "rating": 4.666666507720947,
+      "ratingCount": 6
+    },
+    {
+      "id": 40615522,
+      "name": "The Veshti Company Men Solid Loose Fit Pure Cotton Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1846,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40587878,
+      "name": "Stand Out Men Loose Fit Tribal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1723,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40510938,
+      "name": "Stand Out Men Loose Fit Animal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1723,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40467428,
+      "name": "SUKITI Women Loose Fit Harem Pants",
+      "brand": "SUKITI",
+      "mrp": 3998,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40467427,
+      "name": "SUKITI Women Loose Fit Harem Pants",
+      "brand": "SUKITI",
+      "mrp": 3998,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40467426,
+      "name": "SUKITI Women Loose Fit Harem Pants",
+      "brand": "SUKITI",
+      "mrp": 3998,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40330056,
+      "name": "LUJOSO Women Loose Fit Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1499,
+      "price": 858,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40330050,
+      "name": "LUJOSO Women Loose Fit Printed Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1692,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40330049,
+      "name": "LUJOSO Women Loose Fit Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1499,
+      "price": 858,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328979,
+      "name": "LUJOSO Women Loose Fit Embroidered Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1813,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328978,
+      "name": "LUJOSO Women Loose Fit Embroidered Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1813,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328977,
+      "name": "LUJOSO Women Loose Fit Embroidered Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1813,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328976,
+      "name": "LUJOSO Women Loose Fit Embroidered Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1813,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328975,
+      "name": "LUJOSO Women Loose Fit Embroidered Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1813,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328974,
+      "name": "LUJOSO Women Loose Fit Embroidered Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1813,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328973,
+      "name": "LUJOSO Women Loose Fit Embroidered Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1813,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328971,
+      "name": "LUJOSO Women Loose Fit Embroidered Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328970,
+      "name": "LUJOSO Women Loose Fit Embroidered Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1692,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328969,
+      "name": "LUJOSO Women Loose Fit Embroidered Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328968,
+      "name": "LUJOSO Women Loose Fit Embroidered Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328967,
+      "name": "LUJOSO Women Loose Fit Embroidered Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328966,
+      "name": "LUJOSO Women Loose Fit Printed Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1692,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328965,
+      "name": "LUJOSO Women Loose Fit Embroidered Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1692,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328964,
+      "name": "LUJOSO Women Loose Fit Embroidered Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328963,
+      "name": "LUJOSO Women Loose Fit Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1499,
+      "price": 1498,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328962,
+      "name": "LUJOSO Women Loose Fit Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328961,
+      "name": "LUJOSO Women Loose Fit Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1499,
+      "price": 1498,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328960,
+      "name": "LUJOSO Women Loose Fit Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1499,
+      "price": 1498,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328958,
+      "name": "LUJOSO Women Loose Fit Printed Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1692,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328957,
+      "name": "LUJOSO Women Loose Fit Embroidered Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1692,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328956,
+      "name": "LUJOSO Women Loose Fit Embroidered Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328953,
+      "name": "LUJOSO Women Loose Fit Printed Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1692,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328952,
+      "name": "LUJOSO Women Loose Fit Paisley Embroidered Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328951,
+      "name": "LUJOSO Women Loose Fit Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1499,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328950,
+      "name": "LUJOSO Women Loose Fit Embroidered Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328949,
+      "name": "LUJOSO Women Loose Fit Floral Printed Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1692,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328947,
+      "name": "LUJOSO Women Loose Fit Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1499,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328946,
+      "name": "LUJOSO Women Loose Fit Embroidered Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1692,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328945,
+      "name": "LUJOSO Women Loose Fit Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1499,
+      "price": 1498,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328944,
+      "name": "LUJOSO Women Loose Fit Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1499,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328943,
+      "name": "LUJOSO Women Loose Fit Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1499,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328942,
+      "name": "LUJOSO Women Loose Fit Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1499,
+      "price": 1498,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328941,
+      "name": "LUJOSO Women Loose Fit Embroidered Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328940,
+      "name": "LUJOSO Women Loose Fit Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1499,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328939,
+      "name": "LUJOSO Women Loose Fit Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1499,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328938,
+      "name": "LUJOSO Women Loose Fit Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1499,
+      "price": 1498,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328937,
+      "name": "LUJOSO Women Loose Fit Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1499,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40328300,
+      "name": "LUJOSO Women Loose Fit Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1499,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40165066,
+      "name": "9rasa Women Loose Fit Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1799,
+      "price": 766,
+      "rating": 4.454545497894287,
+      "ratingCount": 11
+    },
+    {
+      "id": 40165065,
+      "name": "9rasa Women Loose Fit Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1799,
+      "price": 766,
+      "rating": 4.5,
+      "ratingCount": 12
+    },
+    {
+      "id": 40165062,
+      "name": "9rasa Women Loose Fit Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1799,
+      "price": 766,
+      "rating": 4.5,
+      "ratingCount": 12
+    },
+    {
+      "id": 40086483,
+      "name": "LUJOSO Women Loose Fit Graphic Printed Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40086482,
+      "name": "LUJOSO Women Loose Fit Ethnic Motifs Printed Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40086481,
+      "name": "LUJOSO Women Loose Fit Graphic Printed Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40086480,
+      "name": "LUJOSO Women Loose Fit Ethnic Motifs Printed Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40086479,
+      "name": "LUJOSO Women Loose Fit Ethnic Motifs Printed Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40086478,
+      "name": "LUJOSO Women Loose Fit Ethnic Motifs Printed Harem Pants",
+      "brand": "LUJOSO",
+      "mrp": 1999,
+      "price": 1999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 39735558,
+      "name": "SUKITI Women Loose Fit Harem Pants",
+      "brand": "SUKITI",
+      "mrp": 3998,
+      "price": 1705,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 39176376,
+      "name": "LELA Loose Fit Harem Pants",
+      "brand": "LELA",
+      "mrp": 3200,
+      "price": 3200,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 39176375,
+      "name": "LELA Loose Fit Harem Pants",
+      "brand": "LELA",
+      "mrp": 3200,
+      "price": 3200,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38751950,
+      "name": "SUKITI Women Loose Fit Harem Pants",
+      "brand": "SUKITI",
+      "mrp": 3998,
+      "price": 1705,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35143309,
+      "name": "fusion by glitchez Women Loose Fit Geometric Foil Printed Harem Pants",
+      "brand": "fusion by glitchez",
+      "mrp": 2799,
+      "price": 727,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38665073,
+      "name": "LELA Men Loose Fit Harem Pants",
+      "brand": "LELA",
+      "mrp": 3200,
+      "price": 2536,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38665072,
+      "name": "LELA Men Loose Fit Harem Pants",
+      "brand": "LELA",
+      "mrp": 3200,
+      "price": 2536,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38556608,
+      "name": "InWeave Women Loose Fit Harem Pants",
+      "brand": "InWeave",
+      "mrp": 2495,
+      "price": 892,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38343546,
+      "name": "MIXFIT Women Straight Fit Floral Embroidered Harem Pants",
+      "brand": "MIXFIT",
+      "mrp": 998,
+      "price": 998,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38343535,
+      "name": "MIXFIT Women Straight Fit Harem Pants",
+      "brand": "MIXFIT",
+      "mrp": 998,
+      "price": 998,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38343530,
+      "name": "MIXFIT Women Straight Fit Harem Pants",
+      "brand": "MIXFIT",
+      "mrp": 998,
+      "price": 998,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38343525,
+      "name": "MIXFIT Women Straight Fit Harem Pants",
+      "brand": "MIXFIT",
+      "mrp": 998,
+      "price": 998,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38343517,
+      "name": "MIXFIT Women Straight Fit Dhoti Pants",
+      "brand": "MIXFIT",
+      "mrp": 998,
+      "price": 998,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38132368,
+      "name": "WHITEWHALE Unisex Loose Fit Ethnic Motifs Printed Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 497,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38132355,
+      "name": "WHITEWHALE Unisex Loose Fit Ethnic Motifs Printed Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 497,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38078622,
+      "name": "Crazy Needle Women Slim Fit Woven Design Harem Pants",
+      "brand": "Crazy Needle",
+      "mrp": 3349,
+      "price": 1307,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38078620,
+      "name": "Crazy Needle Women Slim Fit Woven Design Harem Pants",
+      "brand": "Crazy Needle",
+      "mrp": 3349,
+      "price": 1282,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38078674,
+      "name": "Crazy Needle Women Abstract Printed Harem Pant",
+      "brand": "Crazy Needle",
+      "mrp": 3349,
+      "price": 1282,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38058700,
+      "name": "SUKITI Women Loose Fit Cotton Harem Afghani Pants",
+      "brand": "SUKITI",
+      "mrp": 1999,
+      "price": 849,
+      "rating": 3.644444465637207,
+      "ratingCount": 45
+    },
+    {
+      "id": 37811615,
+      "name": "WHITEWHALE Unisex Loose Baggy Fit Striped Printed Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 476,
+      "rating": 4.269230842590332,
+      "ratingCount": 26
+    },
+    {
+      "id": 37811614,
+      "name": "WHITEWHALE Unisex Loose Fit Striped Printed Cotton Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 497,
+      "rating": 4.269230842590332,
+      "ratingCount": 26
+    },
+    {
+      "id": 37611313,
+      "name": "HOPE House of Pure Eco Women Relaxed Fit Tribal Aladdin Harem Yoga Pants",
+      "brand": "HOPE House of Pure Eco",
+      "mrp": 1999,
+      "price": 970,
+      "rating": 4.666666507720947,
+      "ratingCount": 12
+    },
+    {
+      "id": 34127621,
+      "name": "WHITEWHALE Unisex Loose Fit Striped Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 539,
+      "rating": 4.75,
+      "ratingCount": 8
+    },
+    {
+      "id": 35784091,
+      "name": "LULU & SKY Boys Loose Fit Floral Printed Harem Pants",
+      "brand": "LULU & SKY",
+      "mrp": 4536,
+      "price": 1625,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35680678,
+      "name": "Prathaa Women Veer Black Drop Harem pants",
+      "brand": "Prathaa",
+      "mrp": 2799,
+      "price": 2637,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35680677,
+      "name": "Prathaa Women Solid Loose Fit Harem Pants",
+      "brand": "Prathaa",
+      "mrp": 3399,
+      "price": 3399,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35680675,
+      "name": "Prathaa Women Meher Loose Fit Harem Pants",
+      "brand": "Prathaa",
+      "mrp": 3299,
+      "price": 3299,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35680674,
+      "name": "Prathaa Women Floral Printed Loose Fit Flared Harem Pants",
+      "brand": "Prathaa",
+      "mrp": 5199,
+      "price": 5199,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35680673,
+      "name": "Prathaa Women Loose Fit Harem Pants",
+      "brand": "Prathaa",
+      "mrp": 2499,
+      "price": 2356,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35675192,
+      "name": "WHITEWHALE Unisex Loose Fit Graphic Printed Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 741,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35675190,
+      "name": "WHITEWHALE Unisex Loose Fit Graphic Printed Mid-Rise Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 741,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 37531116,
+      "name": "GALE GIRLS Women Solid Straight Fit Mid-Rise Harem Pants",
+      "brand": "GALE GIRLS",
+      "mrp": 3999,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 37531114,
+      "name": "GALE GIRLS Women Straight Fit Printed Harem Pants",
+      "brand": "GALE GIRLS",
+      "mrp": 3999,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 37531113,
+      "name": "GALE GIRLS Women Loose Fit Printed Bohemian Stretchable Harem Pants",
+      "brand": "GALE GIRLS",
+      "mrp": 3999,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 37531112,
+      "name": "GALE GIRLS Women Straight Fit Printed Harem Pants",
+      "brand": "GALE GIRLS",
+      "mrp": 3999,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 37531111,
+      "name": "GALE GIRLS Women Floral Printed Straight Fit Harem Pants",
+      "brand": "GALE GIRLS",
+      "mrp": 3999,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 37531106,
+      "name": "GALE GIRLS Women Straight Fit Printed Boho Yoga Stretchable Harem Pants",
+      "brand": "GALE GIRLS",
+      "mrp": 3999,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35675189,
+      "name": "WHITEWHALE Unisex Graphic Printed Loose Fit Mid-Rise Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 741,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35671110,
+      "name": "WHITEWHALE Unisex Solid Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 497,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35671109,
+      "name": "WHITEWHALE Unisex Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 539,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35671102,
+      "name": "WHITEWHALE Unisex Loose Fit Mid-Rise Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 497,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35671095,
+      "name": "WHITEWHALE Unisex Solid Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 540,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35671087,
+      "name": "WHITEWHALE Unisex Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 497,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35669723,
+      "name": "WHITEWHALE Unisex Pure Cotton Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 563,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35669718,
+      "name": "WHITEWHALE Unisex Solid Loose Fit Cotton Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 563,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35669717,
+      "name": "WHITEWHALE Unisex Loose Fit Mid-Rise Cotton Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 563,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35669716,
+      "name": "WHITEWHALE Unisex Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 563,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35466414,
+      "name": "WHITEWHALE Unisex Loose Fit Cotton Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 539,
+      "rating": 4.3125,
+      "ratingCount": 16
+    },
+    {
+      "id": 35466412,
+      "name": "WHITEWHALE Unisex Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 539,
+      "rating": 4.3125,
+      "ratingCount": 16
+    },
+    {
+      "id": 35466408,
+      "name": "WHITEWHALE Unisex Striped Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 539,
+      "rating": 4.3125,
+      "ratingCount": 16
+    },
+    {
+      "id": 35466406,
+      "name": "WHITEWHALE Unisex Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 539,
+      "rating": 4.3125,
+      "ratingCount": 16
+    },
+    {
+      "id": 35203649,
+      "name": "WHITEWHALE Unisex Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 563,
+      "rating": 5,
+      "ratingCount": 5
+    },
+    {
+      "id": 35203648,
+      "name": "WHITEWHALE Unisex Loose Fit Mid-Rise Cotton Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 563,
+      "rating": 5,
+      "ratingCount": 5
+    },
+    {
+      "id": 35203646,
+      "name": "WHITEWHALE Unisex Loose Fit Cotton Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 539,
+      "rating": 5,
+      "ratingCount": 5
+    },
+    {
+      "id": 35202881,
+      "name": "WHITEWHALE Unisex Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 497,
+      "rating": 4.147058963775635,
+      "ratingCount": 34
+    },
+    {
+      "id": 35202862,
+      "name": "WHITEWHALE Unisex Loose Fit Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 470,
+      "rating": 4.171428680419922,
+      "ratingCount": 35
+    },
+    {
+      "id": 34786243,
+      "name": "9rasa Women Other Printed Loose Fit Printed Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 849,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 34307794,
+      "name": "WHITEWHALE Unisex Loose Fit Striped Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 470,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 34307786,
+      "name": "WHITEWHALE Unisex Loose Fit Striped Harem Pants",
+      "brand": "WHITEWHALE",
+      "mrp": 999,
+      "price": 470,
+      "rating": 4.264705657958984,
+      "ratingCount": 34
+    },
+    {
+      "id": 34295588,
+      "name": "Negen Women Loose Fit Paisley Printed Pure Cotton Harem Pants",
+      "brand": "Negen",
+      "mrp": 2999,
+      "price": 2999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33720436,
+      "name": "MIRAYYA Women Loose Fit Harem Pants",
+      "brand": "MIRAYYA",
+      "mrp": 1299,
+      "price": 274,
+      "rating": 4.284023761749268,
+      "ratingCount": 169
+    },
+    {
+      "id": 33402111,
+      "name": "9rasa Women Plus Size Cotton Block Printed Pocket Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1999,
+      "price": 741,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33094628,
+      "name": "Negen Women Harem Pants",
+      "brand": "Negen",
+      "mrp": 2999,
+      "price": 2999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33094619,
+      "name": "Negen Women Harem Pants",
+      "brand": "Negen",
+      "mrp": 2999,
+      "price": 2999,
+      "rating": 4.181818008422852,
+      "ratingCount": 11
+    },
+    {
+      "id": 32485375,
+      "name": "GRACIT Women Harem Pant",
+      "brand": "GRACIT",
+      "mrp": 1399,
+      "price": 293,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 32352632,
+      "name": "Jinfo Women Harem Pants",
+      "brand": "Jinfo",
+      "mrp": 1299,
+      "price": 285,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 31193252,
+      "name": "The Veshti Company Printed Loose Fit Pure Cotton Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 31193248,
+      "name": "The Veshti Company Printed Loose Fit Pure Cotton Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.857142925262451,
+      "ratingCount": 7
+    },
+    {
+      "id": 31193245,
+      "name": "The Veshti Company Printed Loose Fit Pure Cotton Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 31193242,
+      "name": "The Veshti Company Printed Loose Fit Pure Cotton Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 30431144,
+      "name": "The Veshti Company Printed Loose Fit Pure Cotton Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.59780216217041,
+      "ratingCount": 455
+    },
+    {
+      "id": 30431140,
+      "name": "The Veshti Company Printed Loose Fit Pure Cotton Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.833333492279053,
+      "ratingCount": 12
+    },
+    {
+      "id": 30039053,
+      "name": "LELA Men Mid-Rise Cotton Harem Pants",
+      "brand": "LELA",
+      "mrp": 3600,
+      "price": 2856,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 30039052,
+      "name": "LELA Men Mid-Rise Cotton Harem Pants",
+      "brand": "LELA",
+      "mrp": 3900,
+      "price": 2940,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 29961367,
+      "name": "9rasa Plus Size Women Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1799,
+      "price": 767,
+      "rating": 4.44444465637207,
+      "ratingCount": 9
+    },
+    {
+      "id": 29901726,
+      "name": "9rasa Women Pure Cotton Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1599,
+      "price": 879,
+      "rating": 4.25,
+      "ratingCount": 64
+    },
+    {
+      "id": 29901721,
+      "name": "9rasa Women Block Printed Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1299,
+      "price": 753,
+      "rating": 4.222222328186035,
+      "ratingCount": 9
+    },
+    {
+      "id": 29901706,
+      "name": "9rasa Women High-Rise Plus Size Loose Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1799,
+      "price": 755,
+      "rating": 4.5,
+      "ratingCount": 12
+    },
+    {
+      "id": 32273922,
+      "name": "Anootha Women Mid-Rise Loose Fit Cotton Harem Pants",
+      "brand": "Anootha",
+      "mrp": 1299,
+      "price": 1299,
+      "rating": 3.615384578704834,
+      "ratingCount": 13
+    },
+    {
+      "id": 32273919,
+      "name": "Anootha Women Cotton Harem Pants",
+      "brand": "Anootha",
+      "mrp": 1199,
+      "price": 1199,
+      "rating": 3.615384578704834,
+      "ratingCount": 13
+    },
+    {
+      "id": 32273916,
+      "name": "Anootha Women Cotton Harem Pants",
+      "brand": "Anootha",
+      "mrp": 1199,
+      "price": 1199,
+      "rating": 3.615384578704834,
+      "ratingCount": 13
+    },
+    {
+      "id": 32273911,
+      "name": "Anootha Women Loose Fit Mid-Rise Pure Cotton Harem Pant",
+      "brand": "Anootha",
+      "mrp": 1199,
+      "price": 1199,
+      "rating": 3.615384578704834,
+      "ratingCount": 13
+    },
+    {
+      "id": 32273905,
+      "name": "Anootha Women Pathani Cotton Salwar",
+      "brand": "Anootha",
+      "mrp": 1199,
+      "price": 1199,
+      "rating": 3.615384578704834,
+      "ratingCount": 13
+    },
+    {
+      "id": 32273898,
+      "name": "Anootha Women Loose Fit Mid-Rise Pure Cotton Harem Pants",
+      "brand": "Anootha",
+      "mrp": 1199,
+      "price": 1199,
+      "rating": 3.615384578704834,
+      "ratingCount": 13
+    },
+    {
+      "id": 32273895,
+      "name": "Anootha Women Cotton Mid-Rise Loose Fit Harem Pants",
+      "brand": "Anootha",
+      "mrp": 1299,
+      "price": 1299,
+      "rating": 3.615384578704834,
+      "ratingCount": 13
+    },
+    {
+      "id": 32273892,
+      "name": "Anootha Women Cotton Mid-Rise Loose Fit Harem Pants",
+      "brand": "Anootha",
+      "mrp": 1299,
+      "price": 1299,
+      "rating": 3.615384578704834,
+      "ratingCount": 13
+    },
+    {
+      "id": 32273889,
+      "name": "Anootha Women Loose Fit Cotton Salwar",
+      "brand": "Anootha",
+      "mrp": 1299,
+      "price": 1299,
+      "rating": 3.615384578704834,
+      "ratingCount": 13
+    },
+    {
+      "id": 29429266,
+      "name": "9rasa Women Block Printed Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 752,
+      "rating": 3.883720874786377,
+      "ratingCount": 43
+    },
+    {
+      "id": 28274556,
+      "name": "9rasa Women Printed Loose Fit Pure Cotton Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1999,
+      "price": 843,
+      "rating": 4.02816915512085,
+      "ratingCount": 71
+    },
+    {
+      "id": 26850036,
+      "name": "Ayaany Women Floral Printed Harem Pants",
+      "brand": "Ayaany",
+      "mrp": 1699,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 26850028,
+      "name": "Ayaany Women Printed Harem Pants",
+      "brand": "Ayaany",
+      "mrp": 1699,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 26851086,
+      "name": "Ayaany Women Floral Printed Harem Pants",
+      "brand": "Ayaany",
+      "mrp": 1699,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 26850034,
+      "name": "Ayaany Women Printed Harem Pants",
+      "brand": "Ayaany",
+      "mrp": 1699,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 26850022,
+      "name": "Ayaany Women Floral Printed Harem Pants",
+      "brand": "Ayaany",
+      "mrp": 1699,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 26850020,
+      "name": "Ayaany Women Floral Printed Harem Pants",
+      "brand": "Ayaany",
+      "mrp": 1699,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 25789720,
+      "name": "The Veshti Company Women Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1823,
+      "rating": 4.75,
+      "ratingCount": 28
+    },
+    {
+      "id": 25580596,
+      "name": "Mera Rang Cotton Tulip Loose Fit Pant With Lace",
+      "brand": "Mera Rang",
+      "mrp": 1999,
+      "price": 1387,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 24457034,
+      "name": "The Dance Bible Embellished Harem Pants",
+      "brand": "The Dance Bible",
+      "mrp": 1799,
+      "price": 1698,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 24354900,
+      "name": "The Veshti Company Women Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.214285850524902,
+      "ratingCount": 14
+    },
+    {
+      "id": 24354898,
+      "name": "The Veshti Company Women Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.94444465637207,
+      "ratingCount": 18
+    },
+    {
+      "id": 24354886,
+      "name": "The Veshti Company Women Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.25,
+      "ratingCount": 24
+    },
+    {
+      "id": 24354876,
+      "name": "The Veshti Company Women Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1823,
+      "rating": 4.75,
+      "ratingCount": 28
+    },
+    {
+      "id": 24354874,
+      "name": "The Veshti Company Women Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.730769157409668,
+      "ratingCount": 26
+    },
+    {
+      "id": 24354870,
+      "name": "The Veshti Company Women Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.94444465637207,
+      "ratingCount": 18
+    },
+    {
+      "id": 24354866,
+      "name": "The Veshti Company women Colourblocked Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.25,
+      "ratingCount": 24
+    },
+    {
+      "id": 24354862,
+      "name": "The Veshti Company Women Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1823,
+      "rating": 4.75,
+      "ratingCount": 28
+    },
+    {
+      "id": 24354860,
+      "name": "The Veshti Company Women Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.94444465637207,
+      "ratingCount": 18
+    },
+    {
+      "id": 24354858,
+      "name": "The Veshti Company Women Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.730769157409668,
+      "ratingCount": 26
+    },
+    {
+      "id": 24354854,
+      "name": "The Veshti Company Women Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.333333492279053,
+      "ratingCount": 12
+    },
+    {
+      "id": 24354852,
+      "name": "The Veshti Company Women Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1923,
+      "rating": 4.598684310913086,
+      "ratingCount": 456
+    },
+    {
+      "id": 24354848,
+      "name": "The Veshti Company Women Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.214285850524902,
+      "ratingCount": 14
+    },
+    {
+      "id": 24354846,
+      "name": "The Veshti Company Women Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.94444465637207,
+      "ratingCount": 18
+    },
+    {
+      "id": 24354842,
+      "name": "The Veshti Company Women Colourblocked Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1923,
+      "rating": 4.25,
+      "ratingCount": 24
+    },
+    {
+      "id": 24354840,
+      "name": "The Veshti Company Women Colourblocked Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.25,
+      "ratingCount": 24
+    },
+    {
+      "id": 24354838,
+      "name": "The Veshti Company Women Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.730769157409668,
+      "ratingCount": 26
+    },
+    {
+      "id": 24354832,
+      "name": "The Veshti Company Women Pure Cotton Printed Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.333333492279053,
+      "ratingCount": 12
+    },
+    {
+      "id": 24354828,
+      "name": "The Veshti Company Women Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.25,
+      "ratingCount": 24
+    },
+    {
+      "id": 24354824,
+      "name": "The Veshti Company Women Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.529411792755127,
+      "ratingCount": 102
+    },
+    {
+      "id": 24354814,
+      "name": "The Veshti Company Women Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.596452236175537,
+      "ratingCount": 451
+    },
+    {
+      "id": 24354812,
+      "name": "The Veshti Company Women Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.59780216217041,
+      "ratingCount": 455
+    },
+    {
+      "id": 24354808,
+      "name": "The Veshti Company Women Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1823,
+      "rating": 4.642857074737549,
+      "ratingCount": 14
+    },
+    {
+      "id": 24354804,
+      "name": "The Veshti Company Women Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.598684310913086,
+      "ratingCount": 456
+    },
+    {
+      "id": 24354794,
+      "name": "The Veshti Company Women Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.598684310913086,
+      "ratingCount": 456
+    },
+    {
+      "id": 24354780,
+      "name": "The Veshti Company Striped Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1823,
+      "rating": 4.5,
+      "ratingCount": 6
+    },
+    {
+      "id": 24354778,
+      "name": "The Veshti Company Tribal Printed Pure Cotton Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.214285850524902,
+      "ratingCount": 14
+    },
+    {
+      "id": 24354776,
+      "name": "The Veshti Company Colourblocked Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.25,
+      "ratingCount": 24
+    },
+    {
+      "id": 24354774,
+      "name": "The Veshti Company Women Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.730769157409668,
+      "ratingCount": 26
+    },
+    {
+      "id": 24354772,
+      "name": "The Veshti Company Women Mid-Rise Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.25,
+      "ratingCount": 24
+    },
+    {
+      "id": 24354770,
+      "name": "The Veshti Company Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.333333492279053,
+      "ratingCount": 12
+    },
+    {
+      "id": 24354764,
+      "name": "The Veshti Company Loose-Fit Boho Yoga Pure Cotton Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.59780216217041,
+      "ratingCount": 455
+    },
+    {
+      "id": 24266568,
+      "name": "The Veshti Company Men Striped Pure Cotton Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1882,
+      "rating": 4,
+      "ratingCount": 9
+    },
+    {
+      "id": 24266550,
+      "name": "The Veshti Company Men Striped Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1882,
+      "rating": 4,
+      "ratingCount": 9
+    },
+    {
+      "id": 24267968,
+      "name": "The Veshti Company Tribal Printed Pure Cotton Pleated Ankle-Length Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1900,
+      "rating": 4.558139324188232,
+      "ratingCount": 43
+    },
+    {
+      "id": 24266582,
+      "name": "The Veshti Company Tribal Printed Pure Cotton Loose-fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1884,
+      "rating": 4.65171480178833,
+      "ratingCount": 379
+    },
+    {
+      "id": 24266570,
+      "name": "The Veshti Company Men Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1900,
+      "rating": 4.65625,
+      "ratingCount": 384
+    },
+    {
+      "id": 24266562,
+      "name": "The Veshti Company Men Baggy Striped Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1863,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 24266554,
+      "name": "The Veshti Company Men Printed Pure Cotton Loose-fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1900,
+      "rating": 4.536231994628906,
+      "ratingCount": 69
+    },
+    {
+      "id": 24266544,
+      "name": "The Veshti Company Men Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1900,
+      "rating": 4.558139324188232,
+      "ratingCount": 43
+    },
+    {
+      "id": 41091328,
+      "name": "Stand Out Women Loose Fit Animal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 24266540,
+      "name": "The Veshti Company Men Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1863,
+      "rating": 4.547618865966797,
+      "ratingCount": 42
+    },
+    {
+      "id": 24266530,
+      "name": "The Veshti Company Men Ethnic Motifs Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1900,
+      "rating": 4.439393997192383,
+      "ratingCount": 66
+    },
+    {
+      "id": 24266522,
+      "name": "The Veshti Company Men Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1900,
+      "rating": 4.455882549285889,
+      "ratingCount": 68
+    },
+    {
+      "id": 41089384,
+      "name": "Stand Out Women Loose Fit Striped Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 24266514,
+      "name": "The Veshti Company Men Colourblocked Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1946,
+      "rating": 4.3913044929504395,
+      "ratingCount": 23
+    },
+    {
+      "id": 24266484,
+      "name": "The Veshti Company Men Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1863,
+      "rating": 4.653439044952393,
+      "ratingCount": 378
+    },
+    {
+      "id": 18504918,
+      "name": "PINKVILLE JAIPUR Women White Solid Cotton Loose-Fit Harem Pants",
+      "brand": "PINKVILLE JAIPUR",
+      "mrp": 2499,
+      "price": 2273,
+      "rating": 4.25,
+      "ratingCount": 8
+    },
+    {
+      "id": 41091555,
+      "name": "Stand Out Women Loose Fit Animal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 17467134,
+      "name": "GRACIT Women Yellow Loose Fit Harem Paint",
+      "brand": "GRACIT",
+      "mrp": 1199,
+      "price": 287,
+      "rating": 4.199999809265137,
+      "ratingCount": 140
+    },
+    {
+      "id": 33774715,
+      "name": "9rasa Women Loose Fit Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1999,
+      "price": 615,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35198880,
+      "name": "9rasa Women Relaxed Loose Fit Mid-Rise Cotton Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1999,
+      "price": 614,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33118181,
+      "name": "Taurus Women  Harem Pants",
+      "brand": "Taurus",
+      "mrp": 1595,
+      "price": 442,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 22061312,
+      "name": "KiddoPanti Girls Printed Mid-Rise Harem Pants",
+      "brand": "KiddoPanti",
+      "mrp": 749,
+      "price": 385,
+      "rating": 4.5714287757873535,
+      "ratingCount": 28
+    },
+    {
+      "id": 17566116,
+      "name": "BownBee Girls Pack Of 2 Yellow & Red Printed Pure Cotton Harem Pants",
+      "brand": "BownBee",
+      "mrp": 999,
+      "price": 298,
+      "rating": 5,
+      "ratingCount": 5
+    },
+    {
+      "id": 29901704,
+      "name": "9rasa Women Mid-Rise Loose Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1599,
+      "price": 706,
+      "rating": 4.155172348022461,
+      "ratingCount": 58
+    },
+    {
+      "id": 28274566,
+      "name": "9rasa Women Loose Fit Mid-Rise Pure Cotton Harem Pant",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 894,
+      "rating": 4.077419281005859,
+      "ratingCount": 155
+    },
+    {
+      "id": 30316275,
+      "name": "9rasa Women Block Printed Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 759,
+      "rating": 3.9259259700775146,
+      "ratingCount": 162
+    },
+    {
+      "id": 40699115,
+      "name": "9rasa Women Printed Mid Rise Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 894,
+      "rating": 3.932098865509033,
+      "ratingCount": 162
+    },
+    {
+      "id": 29429270,
+      "name": "9rasa Women Block Printed Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 752,
+      "rating": 4.0333333015441895,
+      "ratingCount": 60
+    },
+    {
+      "id": 28274534,
+      "name": "9rasa Women Plus Size Loose Fit High-Rise Pure Cotton Harem Pant",
+      "brand": "9rasa",
+      "mrp": 1899,
+      "price": 751,
+      "rating": 4.470588207244873,
+      "ratingCount": 17
+    },
+    {
+      "id": 40838151,
+      "name": "Stand Out Men Loose Fit Animal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1723,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40699113,
+      "name": "9rasa Women Loose Fit Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1999,
+      "price": 894,
+      "rating": 4.02816915512085,
+      "ratingCount": 71
+    },
+    {
+      "id": 34786226,
+      "name": "9rasa Geometric Printed Cotton Loose Fit Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 849,
+      "rating": 4.5,
+      "ratingCount": 6
+    },
+    {
+      "id": 28274522,
+      "name": "9rasa Women Hand Block Printed Pure Cotton Loose Fit Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1999,
+      "price": 771,
+      "rating": 4.538461685180664,
+      "ratingCount": 13
+    },
+    {
+      "id": 29429264,
+      "name": "9rasa Women Block Printed Loose Fit Pure Cotton Drop-Crotch High-Rise Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 752,
+      "rating": 3.883720874786377,
+      "ratingCount": 43
+    },
+    {
+      "id": 40839075,
+      "name": "Stand Out Women Loose Fit Tribal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40712034,
+      "name": "Stand Out Men Loose Fit Animal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1723,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40709385,
+      "name": "Stand Out Men Loose Fit Tribal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1723,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40587952,
+      "name": "Stand Out Men Loose Fit Animal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1723,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40516853,
+      "name": "Stand Out Men Loose Fit Animal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1723,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40515516,
+      "name": "Stand Out Men Loose Fit Animal Printed Pure Cotton Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1723,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40506957,
+      "name": "Stand Out Men Loose Fit Animal Printed Harem Pants",
+      "brand": "Stand Out",
+      "mrp": 3000,
+      "price": 1723,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 32156207,
+      "name": "GLOBAL REPUBLIC Women Slim-Fit High-Rise Harem Pant",
+      "brand": "Global Republic",
+      "mrp": 2499,
+      "price": 1749,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 31124342,
+      "name": "ARAVALII Women Afghani Pant",
+      "brand": "ARAVALII",
+      "mrp": 1899,
+      "price": 985,
+      "rating": 4.599999904632568,
+      "ratingCount": 5
+    },
+    {
+      "id": 30431149,
+      "name": "The Veshti Company Printed Loose Fit Pure Cotton Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1869,
+      "rating": 4.598684310913086,
+      "ratingCount": 456
+    },
+    {
+      "id": 30316278,
+      "name": "9rasa Women Block Printed Mid-Rise Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1599,
+      "price": 874,
+      "rating": 4.19444465637207,
+      "ratingCount": 72
+    },
+    {
+      "id": 30039055,
+      "name": "LELA Men Mid-rise Cotton Harem Pants",
+      "brand": "LELA",
+      "mrp": 3900,
+      "price": 2540,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 24266506,
+      "name": "The Veshti Company Men Tribal Printed Pure Cotton Loose-Fit Harem Pants",
+      "brand": "The Veshti Company",
+      "mrp": 3000,
+      "price": 1900,
+      "rating": 4.653543472290039,
+      "ratingCount": 381
+    },
+    {
+      "id": 30423141,
+      "name": "9rasa Women High Rise Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1599,
+      "price": 695,
+      "rating": 4.202702522277832,
+      "ratingCount": 74
+    },
+    {
+      "id": 29901730,
+      "name": "9rasa Women Mid-Rise Hand Block Cotton Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1799,
+      "price": 688,
+      "rating": 3.8421051502227783,
+      "ratingCount": 19
+    },
+    {
+      "id": 24008430,
+      "name": "KiddoPanti Girls Striped Pure Cotton Straight-Fit Harem Pants",
+      "brand": "KiddoPanti",
+      "mrp": 699,
+      "price": 418,
+      "rating": 4.55294132232666,
+      "ratingCount": 85
+    },
+    {
+      "id": 24008428,
+      "name": "KiddoPanti Girls Geometric Printed Loose Fit Pure Cotton Harem Pants",
+      "brand": "KiddoPanti",
+      "mrp": 699,
+      "price": 418,
+      "rating": 4.55294132232666,
+      "ratingCount": 85
+    },
+    {
+      "id": 29901723,
+      "name": "9rasa Women Hand Block Printed Plus Size Loose Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1499,
+      "price": 688,
+      "rating": 4.833333492279053,
+      "ratingCount": 6
+    },
+    {
+      "id": 21412338,
+      "name": "KiddoPanti Girls Printed Rayon Harem Pant",
+      "brand": "KiddoPanti",
+      "mrp": 699,
+      "price": 349,
+      "rating": 4.300000190734863,
+      "ratingCount": 10
+    },
+    {
+      "id": 18225312,
+      "name": "KiddoPanti Girls Pink Printed Cotton Harem Pant",
+      "brand": "KiddoPanti",
+      "mrp": 699,
+      "price": 344,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 17505292,
+      "name": "KAMI KUBI Women Navy Blue Solid Pure Cotton Loose-Fit Harem Pants",
+      "brand": "KAMI KUBI",
+      "mrp": 1499,
+      "price": 389,
+      "rating": 3.959183692932129,
+      "ratingCount": 49
+    },
+    {
+      "id": 32273928,
+      "name": "Anootha Women Cotton Harem Pants",
+      "brand": "Anootha",
+      "mrp": 1299,
+      "price": 1299,
+      "rating": 3.615384578704834,
+      "ratingCount": 13
+    },
+    {
+      "id": 29402504,
+      "name": "V-Mart Women Harem Pants",
+      "brand": "V-Mart",
+      "mrp": 499,
+      "price": 374,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 17505290,
+      "name": "KAMI KUBI Women Black Solid Loose-Fit Harem Pants",
+      "brand": "KAMI KUBI",
+      "mrp": 1499,
+      "price": 389,
+      "rating": 4.129629611968994,
+      "ratingCount": 54
+    },
+    {
+      "id": 16612038,
+      "name": "Uptownie Lite Woman Navy Blue Printed",
+      "brand": "Uptownie Lite",
+      "mrp": 2099,
+      "price": 692,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 15640262,
+      "name": "elleven Women Yellow Solid Harem Pants",
+      "brand": "elleven",
+      "mrp": 1049,
+      "price": 580,
+      "rating": 4.199999809265137,
+      "ratingCount": 20
+    },
+    {
+      "id": 40988895,
+      "name": "ARAVALII Women Straight Fit Harem Pants",
+      "brand": "ARAVALII",
+      "mrp": 1899,
+      "price": 967,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35198743,
+      "name": "9rasa Women Loose Fit Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1599,
+      "price": 705,
+      "rating": 4.155172348022461,
+      "ratingCount": 58
+    },
+    {
+      "id": 29429248,
+      "name": "9rasa Women Block Printed Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1999,
+      "price": 843,
+      "rating": 4.02816915512085,
+      "ratingCount": 71
+    },
+    {
+      "id": 28274548,
+      "name": "9rasa Women Warli Block Printed Loose Fit Pure Cotton Drop-Crotch High-Rise Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 752,
+      "rating": 4.101351261138916,
+      "ratingCount": 148
+    },
+    {
+      "id": 32570094,
+      "name": "9rasa Women Cotton Slip-On Straight Palazzos",
+      "brand": "9rasa",
+      "mrp": 1899,
+      "price": 810,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 28274560,
+      "name": "9rasa Women Loose Fit High Rise Pure Cotton Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1999,
+      "price": 759,
+      "rating": 3.9166667461395264,
+      "ratingCount": 24
+    },
+    {
+      "id": 29901724,
+      "name": "9rasa Women Block Print Pure Cotton Loose Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 752,
+      "rating": 3.9263803958892822,
+      "ratingCount": 163
+    },
+    {
+      "id": 29961368,
+      "name": "9rasa Women Cotton High-Rise Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1899,
+      "price": 739,
+      "rating": 4,
+      "ratingCount": 14
+    },
+    {
+      "id": 30039054,
+      "name": "LELA Men Embroidered Mid-rise Cotton Harem Pants",
+      "brand": "LELA",
+      "mrp": 3600,
+      "price": 2856,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 28023610,
+      "name": "elleven Women Loose Fit Mid Rise Harem Pants",
+      "brand": "elleven",
+      "mrp": 1199,
+      "price": 1199,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 29961370,
+      "name": "9rasa Women Plus Size Block Print Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1899,
+      "price": 751,
+      "rating": 4.277777671813965,
+      "ratingCount": 18
+    },
+    {
+      "id": 38078621,
+      "name": "Crazy Needle Women Ajrakh Printed Slim Fit Harem Pants",
+      "brand": "Crazy Needle",
+      "mrp": 3349,
+      "price": 1282,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35047669,
+      "name": "LELA Women Straight Fit Harem Pants",
+      "brand": "LELA",
+      "mrp": 3800,
+      "price": 3040,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33022811,
+      "name": "9rasa Cotton Hand Block Printed Loose Fit Harem Pant",
+      "brand": "9rasa",
+      "mrp": 1999,
+      "price": 762,
+      "rating": 4.538461685180664,
+      "ratingCount": 13
+    },
+    {
+      "id": 31124344,
+      "name": "ARAVALII Women Solid Mid-Rise Afghani Pant",
+      "brand": "ARAVALII",
+      "mrp": 1999,
+      "price": 899,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 30600190,
+      "name": "ARAVALII Women Harem Pants",
+      "brand": "ARAVALII",
+      "mrp": 1900,
+      "price": 713,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 30316274,
+      "name": "9rasa Women Pure Cotton Printed Mid-Rise Loose Fit Harem Pants",
+      "brand": "9rasa",
+      "mrp": 1699,
+      "price": 752,
+      "rating": 3.9263803958892822,
+      "ratingCount": 163
+    },
+    {
+      "id": 28274550,
+      "name": "9rasa Women Loose Fit High-Rise Pure Cotton Harem Pant",
+      "brand": "9rasa",
+      "mrp": 2299,
+      "price": 854,
+      "rating": 4.099999904632568,
+      "ratingCount": 10
+    },
+    {
+      "id": 24413608,
+      "name": "Go Colors Loose Fit Harem Pants",
+      "brand": "Go Colors",
+      "mrp": 999,
+      "price": 999,
+      "rating": 4,
+      "ratingCount": 6
+    },
+    {
+      "id": 22366098,
+      "name": "V-Mart Girls Printed Cotton Harem Pants",
+      "brand": "V-Mart",
+      "mrp": 299,
+      "price": 299,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ]
+}

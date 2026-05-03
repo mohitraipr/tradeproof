@@ -1,0 +1,909 @@
+{
+  "category": "Rain Trousers",
+  "query": "rain-trousers",
+  "totalOnMyntra": 100,
+  "fetched": 100,
+  "fetchedAt": "2026-04-26T21:47:29.707Z",
+  "products": [
+    {
+      "id": 38105467,
+      "name": "Rynox H2Go Rain Pant",
+      "brand": "Rynox",
+      "mrp": 1350,
+      "price": 1350,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 14179290,
+      "name": "Decathlon BTWIN - Men Black Cycling Rain Track Pants With In-Built Waterproof Shoe Cover",
+      "brand": "Decathlon",
+      "mrp": 1499,
+      "price": 1199,
+      "rating": 4.254237174987793,
+      "ratingCount": 59
+    },
+    {
+      "id": 40098863,
+      "name": "Rab Mid Rise Rain Trousers",
+      "brand": "Rab",
+      "mrp": 31999,
+      "price": 31999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 29077314,
+      "name": "Decathlon Quechua - Men Black NH500 Breathable Trekking Rain Pant",
+      "brand": "Decathlon",
+      "mrp": 1499,
+      "price": 1099,
+      "rating": 3.975247621536255,
+      "ratingCount": 202
+    },
+    {
+      "id": 34965690,
+      "name": "Adbeni Assorted Waterproof Hooded Rain Jacket",
+      "brand": "Adbeni",
+      "mrp": 699,
+      "price": 271,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35219328,
+      "name": "Adbeni Assorted Imported Hooded & Waterproof Rain Jacket",
+      "brand": "Adbeni",
+      "mrp": 699,
+      "price": 268,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 17043858,
+      "name": "Decathlon QUECHUA - Kids Waterproof Rain Over Trousers",
+      "brand": "Decathlon",
+      "mrp": 999,
+      "price": 699,
+      "rating": 4.34782600402832,
+      "ratingCount": 23
+    },
+    {
+      "id": 18606972,
+      "name": "Zeel Men Navy Blue & Red Solid Waterproof Hooded Raincoat & Rain Trousers",
+      "brand": "Zeel",
+      "mrp": 1349,
+      "price": 1349,
+      "rating": 4.361963272094727,
+      "ratingCount": 326
+    },
+    {
+      "id": 29405994,
+      "name": "THE CLOWNFISH Prime Pro Waterproof Rain Jacket With Trousers",
+      "brand": "THE CLOWNFISH",
+      "mrp": 2199,
+      "price": 699,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 14270892,
+      "name": "Decathlon Quechua - Women Black NH100 Breathable Hiking Rain Pants",
+      "brand": "Decathlon",
+      "mrp": 1699,
+      "price": 999,
+      "rating": 4.099999904632568,
+      "ratingCount": 140
+    },
+    {
+      "id": 34714477,
+      "name": "Adbeni Assorted Hooded Rain Jacket",
+      "brand": "Adbeni",
+      "mrp": 699,
+      "price": 273,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40097452,
+      "name": "Rab Men Polyester Rain Trousers",
+      "brand": "Rab",
+      "mrp": 44999,
+      "price": 40500,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 30428664,
+      "name": "Adbeni Set Of 3 Waterproof Hooded Rain Jackets",
+      "brand": "Adbeni",
+      "mrp": 399,
+      "price": 243,
+      "rating": 2.017857074737549,
+      "ratingCount": 56
+    },
+    {
+      "id": 31391840,
+      "name": "Decathlon QUECHUA - Grey Compact Waterproof Rain Jacket",
+      "brand": "Decathlon",
+      "mrp": 999,
+      "price": 899,
+      "rating": 3.911764621734619,
+      "ratingCount": 68
+    },
+    {
+      "id": 33651873,
+      "name": "LUX VENUS Attached Hooded Tapping Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 999,
+      "price": 969,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 40636824,
+      "name": "TEEMOODS Attached Hood Long Sleeves Rain Suit",
+      "brand": "TEEMOODS",
+      "mrp": 1299,
+      "price": 692,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33665770,
+      "name": "LUX VENUS Attached Hooded Tapping Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 1499,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33665929,
+      "name": "LUX VENUS Attached Hooded Tapping Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 1599,
+      "price": 1599,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33665777,
+      "name": "LUX VENUS Attached Hooded Tapping Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 1499,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 36713332,
+      "name": "The Pant Project Men Grey Slim-Fit Cotton Chinos with Spill-Proof Finish Technology",
+      "brand": "The Pant Project",
+      "mrp": 3490,
+      "price": 1790,
+      "rating": 4.009259223937988,
+      "ratingCount": 108
+    },
+    {
+      "id": 29571242,
+      "name": "Wildcraft Men Waterproof Hooded Rain Jacket & Trouser",
+      "brand": "Wildcraft",
+      "mrp": 3699,
+      "price": 2256,
+      "rating": 3.694444417953491,
+      "ratingCount": 36
+    },
+    {
+      "id": 32682316,
+      "name": "TEEMOODS Unisex Hooded Rain Jacket",
+      "brand": "TEEMOODS",
+      "mrp": 999,
+      "price": 445,
+      "rating": 3.715909004211426,
+      "ratingCount": 88
+    },
+    {
+      "id": 32682313,
+      "name": "TEEMOODS Unisex Hooded Rain Jacket",
+      "brand": "TEEMOODS",
+      "mrp": 999,
+      "price": 445,
+      "rating": 3.730337142944336,
+      "ratingCount": 89
+    },
+    {
+      "id": 33674813,
+      "name": "LUX VENUS Lightweight Attached Hood Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 1299,
+      "price": 1273,
+      "rating": 3.8181817531585693,
+      "ratingCount": 11
+    },
+    {
+      "id": 33658072,
+      "name": "LUX VENUS Attached Hooded Tapping Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 849,
+      "price": 764,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33658065,
+      "name": "LUX VENUS Attached Hooded Tapping Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 799,
+      "price": 719,
+      "rating": 4.155555725097656,
+      "ratingCount": 45
+    },
+    {
+      "id": 33381015,
+      "name": "Infispace Hooded Water-Proof Rain Jacket",
+      "brand": "Infispace",
+      "mrp": 899,
+      "price": 240,
+      "rating": 3.2799999713897705,
+      "ratingCount": 50
+    },
+    {
+      "id": 33381013,
+      "name": "Infispace Hooded Water-Proof Rain Jacket",
+      "brand": "Infispace",
+      "mrp": 1299,
+      "price": 240,
+      "rating": 2.625,
+      "ratingCount": 8
+    },
+    {
+      "id": 33651868,
+      "name": "LUX VENUS Attached Hooded Tapping Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 999,
+      "price": 969,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33649922,
+      "name": "LUX VENUS Attached Hooded Tapping Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 1499,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 38466670,
+      "name": "CLUB SEVENTY TWO Waterproof Rain Trousers",
+      "brand": "CLUB SEVENTY TWO",
+      "mrp": 2999,
+      "price": 593,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 32682310,
+      "name": "TEEMOODS Unisex Hooded Rain Jacket",
+      "brand": "TEEMOODS",
+      "mrp": 999,
+      "price": 445,
+      "rating": 3.715909004211426,
+      "ratingCount": 88
+    },
+    {
+      "id": 33651855,
+      "name": "LUX VENUS Attached Hooded Tapping Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 999,
+      "price": 969,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33651477,
+      "name": "LUX VENUS Attached Hooded Tapping Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 999,
+      "price": 969,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33665772,
+      "name": "LUX VENUS Attached Hooded Tapping Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 1499,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33649923,
+      "name": "LUX VENUS Attached Hooded Tapping Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 1499,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 29571232,
+      "name": "Wildcraft Men Waterproof Hooded Rain Jacket & Trouser",
+      "brand": "Wildcraft",
+      "mrp": 3699,
+      "price": 2256,
+      "rating": 3.954545497894287,
+      "ratingCount": 22
+    },
+    {
+      "id": 29571234,
+      "name": "Wildcraft Men Waterproof Hooded Rain Jacket & Trouser",
+      "brand": "Wildcraft",
+      "mrp": 3699,
+      "price": 2256,
+      "rating": 4,
+      "ratingCount": 37
+    },
+    {
+      "id": 33665930,
+      "name": "LUX VENUS Attached Hooded Tapping Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 1499,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 18734472,
+      "name": "TEEMOODS Men Black Solid Rain Jacket",
+      "brand": "TEEMOODS",
+      "mrp": 1999,
+      "price": 674,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33674820,
+      "name": "LUX VENUS Lightweight Attached Hood Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 1299,
+      "price": 1273,
+      "rating": 3.8181817531585693,
+      "ratingCount": 11
+    },
+    {
+      "id": 29822136,
+      "name": "Plutus Hooded Waterproof Rain Jacket",
+      "brand": "Plutus",
+      "mrp": 3400,
+      "price": 690,
+      "rating": 3.9905660152435303,
+      "ratingCount": 106
+    },
+    {
+      "id": 35364626,
+      "name": "TEEMOODS Hooded Lightweight Rain Jacket",
+      "brand": "TEEMOODS",
+      "mrp": 999,
+      "price": 446,
+      "rating": 3.715909004211426,
+      "ratingCount": 88
+    },
+    {
+      "id": 35038425,
+      "name": "Zeel Hooded Waterproof  Rain Jacket",
+      "brand": "Zeel",
+      "mrp": 949,
+      "price": 949,
+      "rating": 4.254098415374756,
+      "ratingCount": 122
+    },
+    {
+      "id": 33664470,
+      "name": "LUX VENUS Colourblocked Attached Hooded Tapping Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 1249,
+      "price": 1249,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 34081515,
+      "name": "Zeel Waterproof Hooded Rain Suit",
+      "brand": "Zeel",
+      "mrp": 799,
+      "price": 799,
+      "rating": 4.168067455291748,
+      "ratingCount": 119
+    },
+    {
+      "id": 23050816,
+      "name": "Wildcraft Men Mid-Rise Rain Trousers",
+      "brand": "Wildcraft",
+      "mrp": 1959,
+      "price": 1567,
+      "rating": 3.5999999046325684,
+      "ratingCount": 20
+    },
+    {
+      "id": 23050832,
+      "name": "Wildcraft Men Waterproof Rain Trousers",
+      "brand": "Wildcraft",
+      "mrp": 1959,
+      "price": 1567,
+      "rating": 4.535714149475098,
+      "ratingCount": 28
+    },
+    {
+      "id": 18350116,
+      "name": "Wildcraft Men Navy Blue Solid Rain Trousers",
+      "brand": "Wildcraft",
+      "mrp": 1099,
+      "price": 879,
+      "rating": 3.632352828979492,
+      "ratingCount": 68
+    },
+    {
+      "id": 18350118,
+      "name": "Wildcraft Men Dark Grey Solid Rain Trousers",
+      "brand": "Wildcraft",
+      "mrp": 1099,
+      "price": 879,
+      "rating": 3.375,
+      "ratingCount": 24
+    },
+    {
+      "id": 13972200,
+      "name": "Decathlon QUECHUA - Women Green Knee Length Waterproof Rain Jacket",
+      "brand": "Decathlon",
+      "mrp": 2599,
+      "price": 2299,
+      "rating": 4.632768154144287,
+      "ratingCount": 177
+    },
+    {
+      "id": 33381012,
+      "name": "Infispace Unisex Hooded Waterproof Rain Jacket",
+      "brand": "Infispace",
+      "mrp": 1299,
+      "price": 240,
+      "rating": 3.115384578704834,
+      "ratingCount": 52
+    },
+    {
+      "id": 33649372,
+      "name": "LUX VENUS Colourblocked Attached Hooded Reversible Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 1249,
+      "price": 1249,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33381020,
+      "name": "Infispace Waterproof Hooded Rain Jacket",
+      "brand": "Infispace",
+      "mrp": 1299,
+      "price": 240,
+      "rating": 3.3333332538604736,
+      "ratingCount": 6
+    },
+    {
+      "id": 25547440,
+      "name": "DeFacto Women Hooded Waterproof Rain Jacket",
+      "brand": "DeFacto",
+      "mrp": 8599,
+      "price": 5589,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 34081519,
+      "name": "Zeel Waterproof Hooded Rain Suit",
+      "brand": "Zeel",
+      "mrp": 879,
+      "price": 879,
+      "rating": 4.1677632331848145,
+      "ratingCount": 304
+    },
+    {
+      "id": 35658945,
+      "name": "Kastner Unisex Hooded Long Sleeves Rain Suit",
+      "brand": "Kastner",
+      "mrp": 1999,
+      "price": 805,
+      "rating": 4.5,
+      "ratingCount": 6
+    },
+    {
+      "id": 35175065,
+      "name": "Zeel Men Hooded Waterproof Rain Jacket",
+      "brand": "Zeel",
+      "mrp": 1399,
+      "price": 1399,
+      "rating": 3.9743590354919434,
+      "ratingCount": 39
+    },
+    {
+      "id": 35030461,
+      "name": "Zeel Hooded Waterproof Rain Jacket",
+      "brand": "Zeel",
+      "mrp": 1049,
+      "price": 1049,
+      "rating": 4.085714340209961,
+      "ratingCount": 35
+    },
+    {
+      "id": 30206475,
+      "name": "Alexvyan Hooded Waterproof Rain Jacket",
+      "brand": "Alexvyan",
+      "mrp": 999,
+      "price": 599,
+      "rating": 4.028571605682373,
+      "ratingCount": 70
+    },
+    {
+      "id": 28938370,
+      "name": "Alexvyan Hooded Waterproof Rain Jacket",
+      "brand": "Alexvyan",
+      "mrp": 999,
+      "price": 599,
+      "rating": 3.923076868057251,
+      "ratingCount": 39
+    },
+    {
+      "id": 29651798,
+      "name": "Zeel Men Waterproof Rain Jacket",
+      "brand": "Zeel",
+      "mrp": 3999,
+      "price": 3999,
+      "rating": 3.9166667461395264,
+      "ratingCount": 12
+    },
+    {
+      "id": 35175070,
+      "name": "Zeel Men Waterproof Rain Jacket",
+      "brand": "Zeel",
+      "mrp": 3999,
+      "price": 3999,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 28938402,
+      "name": "Alexvyan Hooded Waterproof Reusable Rain Jacket",
+      "brand": "Alexvyan",
+      "mrp": 999,
+      "price": 599,
+      "rating": 4.1875,
+      "ratingCount": 80
+    },
+    {
+      "id": 33381010,
+      "name": "Infispace Unisex Waterproof Hooded Rain Jacket",
+      "brand": "Infispace",
+      "mrp": 1299,
+      "price": 240,
+      "rating": 3.470588207244873,
+      "ratingCount": 17
+    },
+    {
+      "id": 18169982,
+      "name": "Zeel Women Purple Solid Traveller Rain Jacket",
+      "brand": "Zeel",
+      "mrp": 1399,
+      "price": 1399,
+      "rating": 4.411378383636475,
+      "ratingCount": 914
+    },
+    {
+      "id": 33657915,
+      "name": "LUX VENUS Reflecting Design Tapping Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 849,
+      "price": 764,
+      "rating": 4.166666507720947,
+      "ratingCount": 6
+    },
+    {
+      "id": 33665931,
+      "name": "LUX VENUS Attached Hooded Reversible Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 1499,
+      "price": 1499,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 31396455,
+      "name": "Decathlon FORCLAZ - Men Attached Hood Rain Suit",
+      "brand": "Decathlon",
+      "mrp": 1999,
+      "price": 1339,
+      "rating": 3.923076868057251,
+      "ratingCount": 13
+    },
+    {
+      "id": 26775236,
+      "name": "Dollar Adjustable Hooded Rain Jacket",
+      "brand": "Dollar",
+      "mrp": 1309,
+      "price": 720,
+      "rating": 4.363636493682861,
+      "ratingCount": 22
+    },
+    {
+      "id": 23298124,
+      "name": "Sports52 wear Printed Hooded Rain Jacket",
+      "brand": "Sports52 wear",
+      "mrp": 2995,
+      "price": 748,
+      "rating": 4.185714244842529,
+      "ratingCount": 1120
+    },
+    {
+      "id": 40326255,
+      "name": "Rocksport Hooded Rain Jacket",
+      "brand": "Rocksport",
+      "mrp": 1199,
+      "price": 806,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33381021,
+      "name": "Infispace Unisex Hooded Water-Proof Rain Jacket",
+      "brand": "Infispace",
+      "mrp": 1299,
+      "price": 240,
+      "rating": 2.7727272510528564,
+      "ratingCount": 22
+    },
+    {
+      "id": 29651788,
+      "name": "Zeel Men Waterproof Rain Jacket",
+      "brand": "Zeel",
+      "mrp": 3999,
+      "price": 3199,
+      "rating": 4.169013977050781,
+      "ratingCount": 71
+    },
+    {
+      "id": 29651786,
+      "name": "Zeel Men Waterproof Rain Jacket",
+      "brand": "Zeel",
+      "mrp": 3999,
+      "price": 3199,
+      "rating": 4.157142639160156,
+      "ratingCount": 70
+    },
+    {
+      "id": 29651774,
+      "name": "Zeel Men Waterproof Rain Jacket",
+      "brand": "Zeel",
+      "mrp": 3999,
+      "price": 3999,
+      "rating": 4.5,
+      "ratingCount": 10
+    },
+    {
+      "id": 29651772,
+      "name": "Zeel Men Waterproof Rain Jacket",
+      "brand": "Zeel",
+      "mrp": 3999,
+      "price": 3199,
+      "rating": 4.267326831817627,
+      "ratingCount": 101
+    },
+    {
+      "id": 35658948,
+      "name": "Kastner Unisex Attached Hood Reversible Rain Suit",
+      "brand": "Kastner",
+      "mrp": 1999,
+      "price": 805,
+      "rating": 4,
+      "ratingCount": 5
+    },
+    {
+      "id": 12968240,
+      "name": "Decathlon Quechua - Men Grey SH100 Water Repellent Hiking Pants",
+      "brand": "Decathlon",
+      "mrp": 1599,
+      "price": 1199,
+      "rating": 4.300734519958496,
+      "ratingCount": 2996
+    },
+    {
+      "id": 33674807,
+      "name": "LUX VENUS Lightweight Attached Hood Rain Coat & Pant Set",
+      "brand": "LUX VENUS",
+      "mrp": 1299,
+      "price": 1273,
+      "rating": 3.8181817531585693,
+      "ratingCount": 11
+    },
+    {
+      "id": 30206470,
+      "name": "Alexvyan Hooded Waterproof Rain Jacket",
+      "brand": "Alexvyan",
+      "mrp": 999,
+      "price": 599,
+      "rating": 4.25,
+      "ratingCount": 8
+    },
+    {
+      "id": 33486698,
+      "name": "Dollar Men Rain Suit",
+      "brand": "Dollar",
+      "mrp": 849,
+      "price": 722,
+      "rating": 3.551020383834839,
+      "ratingCount": 49
+    },
+    {
+      "id": 33649308,
+      "name": "LUX VENUS Attached Hooded Reversible Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 1199,
+      "price": 1079,
+      "rating": 3.615384578704834,
+      "ratingCount": 13
+    },
+    {
+      "id": 9360495,
+      "name": "Plutus Men Black Solid Hooded Longline Waterproof Rain Jacket",
+      "brand": "Plutus",
+      "mrp": 3499,
+      "price": 1317,
+      "rating": 4.186567306518555,
+      "ratingCount": 134
+    },
+    {
+      "id": 33381000,
+      "name": "Infispace Hooded Waterproof Rain Jacket",
+      "brand": "Infispace",
+      "mrp": 1299,
+      "price": 231,
+      "rating": 3.174999952316284,
+      "ratingCount": 40
+    },
+    {
+      "id": 40095332,
+      "name": "Rab Men Rain Trousers",
+      "brand": "Rab",
+      "mrp": 51999,
+      "price": 46800,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 35846239,
+      "name": "Infispace Unisex Long Rain Jacket",
+      "brand": "Infispace",
+      "mrp": 1299,
+      "price": 240,
+      "rating": 3.5714285373687744,
+      "ratingCount": 28
+    },
+    {
+      "id": 34788131,
+      "name": "Alexvyan Water-Resistant Reusable Hooded Rain Jacket",
+      "brand": "Alexvyan",
+      "mrp": 999,
+      "price": 599,
+      "rating": 4.5,
+      "ratingCount": 10
+    },
+    {
+      "id": 34788135,
+      "name": "Alexvyan Water-Resistant Reusable Hooded Rain Jacket",
+      "brand": "Alexvyan",
+      "mrp": 999,
+      "price": 599,
+      "rating": 4.5,
+      "ratingCount": 10
+    },
+    {
+      "id": 33381017,
+      "name": "Infispace Unisex Hooded Waterproof Rain Jacket",
+      "brand": "Infispace",
+      "mrp": 1299,
+      "price": 240,
+      "rating": 3,
+      "ratingCount": 5
+    },
+    {
+      "id": 37695389,
+      "name": "GREENLANDS Unisex Hooded Rain Jacket",
+      "brand": "GREENLANDS",
+      "mrp": 1969,
+      "price": 1317,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 34081508,
+      "name": "Zeel Waterproof Hooded Rain Suit",
+      "brand": "Zeel",
+      "mrp": 1699,
+      "price": 1699,
+      "rating": 4.315789699554443,
+      "ratingCount": 38
+    },
+    {
+      "id": 33657917,
+      "name": "LUX VENUS Attached Hooded Reflecting Design Tapping Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 849,
+      "price": 764,
+      "rating": 4.166666507720947,
+      "ratingCount": 6
+    },
+    {
+      "id": 33695820,
+      "name": "LUX VENUS Hooded Neck Tapping Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 1399,
+      "price": 1399,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33381002,
+      "name": "Infispace Waterproof Hooded Rain Jacket",
+      "brand": "Infispace",
+      "mrp": 1299,
+      "price": 227,
+      "rating": 2.538461446762085,
+      "ratingCount": 13
+    },
+    {
+      "id": 29961272,
+      "name": "Zeel Hooded Rain Jacket",
+      "brand": "Zeel",
+      "mrp": 1249,
+      "price": 1249,
+      "rating": 4.474747657775879,
+      "ratingCount": 198
+    },
+    {
+      "id": 32351400,
+      "name": "GOKYO Hooded Rain Jacket",
+      "brand": "GOKYO",
+      "mrp": 1398,
+      "price": 1398,
+      "rating": 0,
+      "ratingCount": 0
+    },
+    {
+      "id": 33649305,
+      "name": "LUX VENUS Attached Hooded Reversible Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 1199,
+      "price": 1079,
+      "rating": 3.615384578704834,
+      "ratingCount": 13
+    },
+    {
+      "id": 33380994,
+      "name": "Infispace Waterproof Lightweight Hooded Rain Jacket",
+      "brand": "Infispace",
+      "mrp": 899,
+      "price": 227,
+      "rating": 3.5303030014038086,
+      "ratingCount": 66
+    },
+    {
+      "id": 33649381,
+      "name": "LUX VENUS Colourblocked Attached Hooded Reversible Rain Suit",
+      "brand": "LUX VENUS",
+      "mrp": 1249,
+      "price": 1249,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ]
+}

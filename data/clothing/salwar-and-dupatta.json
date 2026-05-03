@@ -1,0 +1,54 @@
+{
+  "category": "Salwar and Dupatta",
+  "query": "salwar-and-dupatta",
+  "totalOnMyntra": 5,
+  "fetched": 5,
+  "fetchedAt": "2026-04-26T21:45:57.242Z",
+  "products": [
+    {
+      "id": 35747813,
+      "name": "Miaz Lifestyle Pure Cotton Loose-Fit Patiala Salwar & Dupatta",
+      "brand": "Miaz Lifestyle",
+      "mrp": 1499,
+      "price": 689,
+      "rating": 4.363636493682861,
+      "ratingCount": 11
+    },
+    {
+      "id": 35747799,
+      "name": "Miaz Lifestyle Pure Cotton Loose-Fit Patiala Salwar & Dupatta",
+      "brand": "Miaz Lifestyle",
+      "mrp": 1499,
+      "price": 689,
+      "rating": 4.363636493682861,
+      "ratingCount": 11
+    },
+    {
+      "id": 35747796,
+      "name": "Miaz Lifestyle Pure Cotton Loose-Fit Patiala Salwar & Dupatta",
+      "brand": "Miaz Lifestyle",
+      "mrp": 1499,
+      "price": 689,
+      "rating": 4.363636493682861,
+      "ratingCount": 11
+    },
+    {
+      "id": 35747793,
+      "name": "Miaz Lifestyle Pure Cotton  Loose-Fit Patiala Salwar & Dupatta",
+      "brand": "Miaz Lifestyle",
+      "mrp": 1499,
+      "price": 689,
+      "rating": 4.363636493682861,
+      "ratingCount": 11
+    },
+    {
+      "id": 31199163,
+      "name": "BAESD Women Floral Printed Straight Kurta Dupatta & Trouser Kurta Set",
+      "brand": "BAESD",
+      "mrp": 2995,
+      "price": 731,
+      "rating": 0,
+      "ratingCount": 0
+    }
+  ]
+}
