@@ -2,7 +2,7 @@ import express from "express";
 import cors from "cors";
 import "dotenv/config";
 import { db, products, categories, styleIdQueue } from "./db/index.js";
-import { eq, sql } from "drizzle-orm";
+import { and, eq, isNotNull, sql } from "drizzle-orm";
 
 import productsRouter from "./routes/products.js";
 import agentRouter from "./routes/agent.js";
@@ -92,24 +92,28 @@ app.get("/api/queue-stats", async (req, res) => {
   }
 });
 
-// Categories endpoint
+// Categories endpoint — returns counts of products actually present in the local
+// enriched DB (the cohort the listing API serves), not Myntra's industry-wide
+// counts. This prevents the frontend from offering categories with 0 results.
 app.get("/api/categories", async (req, res) => {
   try {
     const result = await db
       .select({
-        slug: categories.slug,
+        slug: products.categorySlug,
         name: categories.name,
-        productCount: categories.productCount,
+        productCount: sql<number>`count(*)`,
       })
-      .from(categories)
-      .where(eq(categories.isActive, true))
-      .orderBy(sql`${categories.productCount} desc`);
+      .from(products)
+      .leftJoin(categories, eq(categories.slug, products.categorySlug))
+      .where(and(eq(products.isActive, true), isNotNull(products.rating), isNotNull(products.categorySlug)))
+      .groupBy(products.categorySlug)
+      .orderBy(sql`count(*) desc`);
 
     res.json({
       categories: result.map(c => ({
         slug: c.slug,
         name: c.name || c.slug,
-        productCount: c.productCount || 0,
+        productCount: Number(c.productCount) || 0,
       })),
     });
   } catch (error) {
