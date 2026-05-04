@@ -134,45 +134,51 @@ export default function HomePage() {
   const newArrivalsRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    async function fetchProducts() {
+    async function fetchData() {
       try {
-        const res = await fetch(`${API_BASE}/api/products?enriched=true&limit=20&sort=demand`);
-        const data = await res.json();
-        const productList = data.products || [];
+        const [productsRes, categoriesRes] = await Promise.all([
+          fetch(`${API_BASE}/api/products?enriched=true&limit=20&sort=demand`),
+          fetch(`${API_BASE}/api/categories`),
+        ]);
+        const productsData = await productsRes.json();
+        const categoriesData = await categoriesRes.json();
+
+        const productList: Product[] = productsData.products || [];
         setProducts(productList);
-        setTotalProducts(data.total || 17000);
+        setTotalProducts(productsData.total || 17000);
 
-        // Create categories from actual product data with images
-        if (productList.length > 0) {
-          const categoryMap = new Map<string, { name: string; image: string; count: number }>();
-          productList.forEach((p: Product) => {
-            const type = (p as unknown as { articleType?: string }).articleType || "Other";
-            if (!categoryMap.has(type)) {
-              categoryMap.set(type, { name: type, image: p.searchImage || "", count: 1 });
-            } else {
-              const existing = categoryMap.get(type)!;
-              existing.count++;
-            }
-          });
+        // Build hero category list from the real /api/categories endpoint so slugs
+        // match the DB (e.g. men-formal-shirts, not "shirts") and counts reflect
+        // actual local stock. Pull a representative image from productList by slug.
+        const imageBySlug = new Map<string, string>();
+        productList.forEach((p) => {
+          const slug = (p as unknown as { categorySlug?: string }).categorySlug;
+          if (slug && p.searchImage && !imageBySlug.has(slug)) {
+            imageBySlug.set(slug, p.searchImage);
+          }
+        });
 
-          const dynamicCategories: CategoryWithImage[] = Array.from(categoryMap.entries())
-            .slice(0, 6)
-            .map(([key, val]) => ({
-              name: val.name,
-              slug: key.toLowerCase().replace(/\s+/g, "-"),
-              count: val.count > 1000 ? `${(val.count / 1000).toFixed(1)}K` : `${val.count}`,
-              image: val.image,
-            }));
-
-          setCategories(dynamicCategories);
+        type ApiCategory = { slug: string; name: string; productCount: number };
+        const apiCategories: ApiCategory[] = categoriesData.categories || [];
+        if (apiCategories.length > 0) {
+          const formatCount = (n: number) =>
+            n >= 1000 ? `${(n / 1000).toFixed(1)}K` : `${n}`;
+          setCategories(
+            apiCategories.slice(0, 6).map((c) => ({
+              name: c.name,
+              slug: c.slug,
+              count: formatCount(c.productCount),
+              image: imageBySlug.get(c.slug),
+            }))
+          );
         }
       } catch (err) {
-        console.error("Failed to fetch products:", err);
+        console.error("Failed to fetch homepage data:", err);
       } finally {
         setLoading(false);
       }
     }
-    fetchProducts();
+    fetchData();
   }, []);
 
   return (
